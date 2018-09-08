@@ -1,0 +1,180 @@
+// Enum list 0x1909E-0x0 (0x190A4)
+<$00>
+// あやこ[br]
+// たかゆき[br]
+// ぶんちん[br]
+// はんしん[br]
+// きょじん[br]
+// サブロー[br]
+// シロー[br]
+// いくよ[br]
+// くるよ[br]
+// しんすけ[br]
+// のりお[br]
+// やすし[br]
+// チャタ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 
+
+Ayako[br]
+
+Takayuki[br]
+
+Bunchin[br]
+
+Hanshin[br]
+
+Kyojin[br]
+
+Saburo[br]
+
+Shiro[br]
+
+Ikuyo[br]
+
+Kuruyo[br]
+
+Shinsuke[br]
+
+Norio[br]
+
+Yasushi[br]
+
+Chatha[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+
+#END()
+
+// Enum list 0x1909E-0x1 (0x190E5)
+<$00>
+// パーティ[br]
+// アフリカのほし[br]
+// くるよのきんがん[br]
+// しんじぎょう[br]
+// たこやき[br]
+// ペンダント[br]
+// スハダクラブ[br]
+// ねたほん[br]
+// のりおのクラブ[br]
+// ギャラ[br]
+// やみのていおう[br]
+// みつゆ[br]
+// ピューマ[br]
+// しんすけのし[br]
+// はやぶさ[br]
+// 　[br]
+// 
+
+The par-[pwd]
+ ty[br]
+
+Star of[pwd]
+ Africa[br]
+
+// Kuruyo's nearsightedness
+Kuruyo's[pwd]
+ Myopia[br]
+
+New Bus-[pwd]
+ iness[br]
+
+Takoyaki[br]
+
+Pendant[br]
+
+SHDClub[br]
+
+Joke[pwd]
+ Book[br]
+
+Norio's[pwd]
+ Club[br]
+
+Salary[br]
+
+Dark Em-[pwd]
+ peror[br]
+
+Smuggl-[pwd]
+ ing[br]
+
+Puma[br]
+
+Shinsuke[pwd]
+'s death[br]
+
+8823[br]
+
+
+#END()
+
+// Enum list 0x1909E-0x2 (0x19145)
+<$00>
+// げんばしゃしん[br]
+// コンタクトレンズ[br]
+// りょうしゅうしょ[br]
+// ねたほん[br]
+// ふなけん[br]
+// たこやき[br]
+// ペンダント[br]
+// ディスク[br]
+// はんこうせいめい[br]
+// かぎ[br]
+// きんのくさり[br]
+// ライター[br]
+// アフリカのほし[br]
+// けいやくしょ[br]
+// りょうしゅうしょ[br]
+// かきおき[br]
+// 
+
+Crime[pwd]
+ Photo[br]
+
+Contact[pwd]
+ Lens[br]
+
+Receipt[br]
+
+Joke[pwd]
+ Book[br]
+
+Boat[pwd]
+ Ticket[br]
+
+Takoyaki[br]
+
+Pendant[br]
+
+Disk[br]
+
+// Responsibility Claim
+Claim[br]
+
+Key[br]
+
+Golden[pwd]
+ Chain[br]
+
+Lighter[br]
+
+Star of[pwd]
+ Africa[br]
+
+Contract[br]
+
+Receipt[br]
+
+Suicide[pwd]
+ Note[br]
+
+#END()
+

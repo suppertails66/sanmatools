@@ -1,0 +1,2000 @@
+// Script 0x309A-0x0 (0x319A)
+[Sanma_05]
+// まわってへんなあ。[br]
+// こんどは　ほんまに　おらへんのやろか。[end]
+They're not moving.[br]
+Maybe he's really not[br]
+in, this time.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1 (0x31B9)
+
+
+#END()
+
+// Script 0x309A-0x2 (0x31B9)
+
+
+#END()
+
+// Script 0x309A-0x3 (0x31B9)
+
+
+#END()
+
+// Script 0x309A-0x4 (0x31B9)
+
+
+#END()
+
+// Script 0x309A-0x5 (0x31B9)
+[Sanma_05]
+// なか　みえへんわ。[end]
+I can't see inside.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x6 (0x31C4)
+[Sanma_05]
+// こんなもん、すぐ　わかるでしょ、[br]
+// これは　ふるしんぶん　ですよ。[end]
+D'you really need to[br]
+check? Those're just[br]
+some old newspapers.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x7 (0x31E6)
+[Sanma_05]
+// ビニールのひもで　しばられとる。[end]
+They're held together[br]
+by a vinyl string.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x8 (0x31F8)
+[Sanma_05]
+// かたーく　しばられとる。[br]
+// ほどけそうに　ないで。[end]
+It's tied real tight.[br]
+That ain't comin' off.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x9 (0x3212)
+[Sanma_05]
+// タイガースゆうしょうって　かいてある。[br]
+// いったい　いつのしんぶんや。[end]
+Says the Tigers've won.[br]
+Just how old is this[br]
+issue?
+
+[end]
+
+#END()
+
+// Script 0x309A-0xA (0x3236)
+[Sanma_0F]
+// しんぶんのあいだに[br]
+// なんか　はさまってるでえ。[dlg]<$8B>
+There's somethin'[br]
+'tween the papers.[br]
+
+[dlg]<$8B>
+
+#END()
+
+// Script 0x309A-0xB (0x3250)
+[Sanma_0F]
+// なに！？……アフリカのほしは　たしかに[br]
+// いただいた。やみのていおうより……だと！[br]
+// これは　はんこうせいめいや！！[dlg]<$8C>
+What?! {The Star of A-[br]
+frica is in my possess-[br]
+ion. - Emperor of Dark-[br]
+ness} This's a claim of[br]
+responsibility!
+
+[dlg]<$8C>
+
+#END()
+
+// Script 0x309A-0xC (0x328B)
+[Sanma_0F]
+// すると、シローがやみのていおう？はんにんは[br]
+// シロー？でも　なんで　ここに[br]
+// はんこうせいめいが　あるんや？[dlg]<$8D>
+Does this mean Shiro's[br]
+the Emperor of Dark-[br]
+ness? But if that's the[br]
+case, why's this claim[br]
+hidden here?
+
+[dlg]<$8D>
+
+#END()
+
+// Script 0x309A-0xD (0x32C2)
+[Sanma_0F]
+// ともかく　じゅうような　しょうこや。[br]
+// とっとくでえ。[end]
+Anyway, this is a major[br]
+piece of evidence.[br]
+Let's hang onta it.
+
+[end]
+
+#END()
+
+// Script 0x309A-0xE (0x32DE)
+[Sanma_0A]
+// [pl][pl]ちゃん、こりゃ　ファンサービスや。[br]
+// あやこちゃんの　かんがえてること[br]
+// わかるんやでえ。かにかに　どこかに。[end]
+[plr]-bud, this is what we[br]
+call {fanservice}.[br]
+Let's SEA what Ms. Aya-[br]
+ko is thinking!
+
+[end]
+
+#END()
+
+// Script 0x309A-0xF (0x3317)
+[Sanma_0A]
+// ええかげんで　もどろ。[br]
+// [end]
+Alright, let's go back.[br]
+
+[end]
+
+#END()
+
+// Script 0x309A-0x10 (0x3325)
+[Ayako_46]
+// ちゃーむポイントは　め　ね。[end]
+I think my eyes are my[br]
+best feature.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x11 (0x3335)
+[Ayako_46]
+// むねには　じしんないの。ぐすん。[end]
+I wish I had a bigger[br]
+chest...(sob)
+
+[end]
+
+#END()
+
+// Script 0x309A-0x12 (0x3347)
+[Ayako_46]
+// きょうは　ピンクよ。うふ！[end]
+They're pink today![br]
+(giggle)
+
+[end]
+
+#END()
+
+// Script 0x309A-0x13 (0x3356)
+[Ayako_46]
+// あーあ　もっと　ほそく　ならないかな。[end]
+(sigh)[BR]
+I wish my legs were[br]
+more slender...
+
+[end]
+
+#END()
+
+// Script 0x309A-0x14 (0x336B)
+[Chatha_37]
+// そのコブラに　きょうみ　あるか？[br]
+// むかしの　くろう　わすれないため　ほってある。[br]
+// へびつかいで　かね　ためた　ある。[end]
+You like cobra?[br]
+I had it carved to re-[br]
+member past. I was[br]
+snake charmer once.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x15 (0x33A7)
+[Chatha_37]
+// そんなことすると　ぶつぞー。[end]
+It is statue of Buddha.[br]
+Do not touch.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x16 (0x33B7)
+
+
+#END()
+
+// Script 0x309A-0x17 (0x33B7)
+[Chatha_37]
+// これも　しょうぱいどうぐ。さわるのだめ。[br]
+// うらないなら　してあげる。ふくぎょうで[br]
+// やってるあるね。ふーむ。[dlg]<$98>
+Do not touch. I need[br]
+this for work.[br]
+I do divination on the[br]
+side. I give you sam-[br]
+ple.
+
+[dlg]<$98>
+
+#END()
+
+// Script 0x309A-0x18 (0x33EF)
+[Chatha_37]
+// ………あかしや　さんま。[br]
+// じょなんのそうが　あるでよー[br]
+// おんなずき　なおしたほうが　いいある。[dlg]<$99>
+...Sanma Akashiya.[br]
+You have many troubles[br]
+with women. Reduce your[br]
+lust and your luck will[br]
+improve.
+
+[dlg]<$99>
+
+#END()
+
+// Script 0x309A-0x19 (0x3421)
+[Chatha_37]
+// ……[pl][pl][pl][pl]さん。きんけつびょう　あるね。[br]
+// こんな　じけん　おうのやめて　ほんぎょうに[br]
+// せいだしたほうが　いいある。[end]
+...[plr][plr][plr][plr], you have[br]
+trouble with money.[br]
+Stop focusing on this[br]
+case and return to your[br]
+real job.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1A (0x345D)
+[Sanma_05]
+// よんとりー　オールドだよーん。[end]
+It's a Moontory Old.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1B (0x346E)
+[Sanma_05]
+// のみすぎ　や。[end]
+I'm gonna get drunk[br]
+that way.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1C (0x3477)
+[Sanma_05]
+// ぎょーざ　やで。しかし　こんなクラブで[br]
+// ぎょーざなんて　だすかいな。[end]
+It's gyoza. Surprised[br]
+they'd serve it here.[br]
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1D (0x349B)
+[Emiko_55]
+// いやーーーん。えっち。[end]
+Oh, you perv!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1E (0x34A8)
+[Emi_5A]
+// ううーーーん。いいわ[end]
+Hmmm... I like that.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x1F (0x34B4)
+[Norio_19]
+// アフリカのほしを　だしてもらおうか。[br]
+// じぶんら　つかまっとるんやでえ。[end]
+Give me the Star of A-[br]
+frica.[br]
+Don't forget you're my[br]
+prisoners.
+
+
+[end]
+
+#END()
+
+// Script 0x309A-0x20 (0x34D9)
+[Sanma_05]
+// ながい　しっぽや。[br]
+// それから　ちいさい　あたま、[br]
+// きょうあくな　めだまが　ひかってる。[end]
+It's got a long tail.[br]
+Then there's that small[br]
+head, and a mean-look-[br]
+in' shiny eyeball.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x21 (0x3506)
+[Sanma_05]
+// くる　くる　くる。なんも　おきへん。[end]
+I'm turnin' it, but[br]
+nothin's happening.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x22 (0x351A)
+[Norio_19]
+// じぶんら　とらわれのみ　なんやで。[end]
+Don't forget you're my[br]
+prisoners.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x23 (0x352D)
+[Sanma_05]
+// ガラスだま　みたいやなあ。[br]
+// なんか　ぐらぐらしとるで。[end]
+I think it's made of[br]
+glass. Don't look too[br]
+stable.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x24 (0x354A)
+[Sanma_05]
+// おっと　めだまがとれたわ！なかは　くうどうや。[br]
+// ぴったり、アフリカのほしが　はいりそうでっせ。[br]
+// たぶん　ここに　いれるんでっしゃろ。[end]
+Hey, the eyeball came[br]
+off! The cavity looks[br]
+like a perfect fit for[br]
+the Star of Africa.[br]
+I reckon it goes here.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x25 (0x358E)
+[Sanma_05]
+// どうやったら　とれるんやろ？[end]
+How're we s'pposed to[br]
+get it out?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x26 (0x359E)
+[Sanma_05]
+// もう　とれてるでえ。[end]
+We already took it out.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x27 (0x35AA)
+[Sanma_05]
+// かたい　しっぽや。[end]
+A sturdy tail.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x28 (0x35B5)
+[Sanma_05]
+// ぐる　ぐる　まわりよる。[br]
+// てごたえ　おもいでえ。[end]
+Spinnin' that tail.[br]
+Ouph...'S harder'n I[br]
+thought.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x29 (0x35CF)
+[Sanma_05]
+// ぐる　ぐる　まわりよる。てごたえ　おもいで。[br]
+// うん？ピューマのなかで　なんか[br]
+// ぐいん　ぐいん　いいだした。[end]
+Spinnin' that tail.[br]
+Ouph...'S harder'n I[br]
+thought. Hm? I hear[br]
+somethin' inside the[br]
+Puma...
+
+[end]
+
+#END()
+
+// Script 0x309A-0x2A (0x3606)
+[Sanma_05]
+// とっても　とれへん。[end]
+We can't take it out.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x2B (0x3612)
+[Sanma_05]
+// きょうあくな　かおや。[end]
+What a spooky face.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x2C (0x361F)
+[Sanma_05]
+// まわせへんよ。[end]
+It ain't turnin'.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x2D (0x3628)
+[Sanma_05]
+// こんなもん、とれそうもないで。[end]
+Don't look like it'll[br]
+come off.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x2E (0x3639)
+[Sanma_05]
+// べつに　どくやく　はいってるようには[br]
+// みえへん。[end]
+Don't seem like it's[br]
+poisoned.[br]
+Probably.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x2F (0x3653)
+[Sanma_05]
+// ほな、のませてもらいます。ほんま[br]
+// しゃべりすぎて[br]
+// のどが　からから　なんや。[end]
+Gimme one. I jabber all[br]
+the time, so I get real[br]
+thirsty.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x30 (0x367B)
+[Sanma_05]
+// でっかい　こおりのかたまりや。[br]
+// ガチガチに　こおってるで。[br]
+// なんや　これ？なかに　なんか　はいってるで。[end]
+It's a big lump of ice.[br]
+Hm? What's this?[br]
+I think there's some-[br]
+thin' inside.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x31 (0x36B1)
+[Sanma_05]
+// れいぞうこに　くっついてて[br]
+// とれましえーん。[end]
+It's stuck to the[br]
+fridge. I can't take[br]
+it out.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x32 (0x36C9)
+[Sanma_0F]
+// こいつは　あやしい………わけないなあ。[end]
+This is...totally nor-[br]
+mal.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x33 (0x36DE)
+[Sanma_05]
+// たいしたほんは　ありまへんで。[end]
+Sure are a lotta books[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x34 (0x36EF)
+[Sanma_05]
+// うん？まぼろしの……ちゃうわ、[br]
+// まぼろしの　えっちなほん　や。いらんわい。[end]
+Hm? This is the legend-[br]
+ary --[br]
+...porn book. I don't[br]
+need that one.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x35 (0x3716)
+[Sanma_05]
+// えきのそばの　クレジットやろか？[end]
+Probably rentals from[br]
+the store near the sta-[br]
+tion.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x36 (0x3728)
+[Sanma_05]
+// ええと、ぬれたつぼみ？ひとづまおとし？[br]
+// ……おげれつな　ビデオばっかしや。[end]
+Lessee...{The Wet Flow-[br]
+er}? {Dirty Wives}?[br]
+...These sure are some[br]
+movies.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x37 (0x374F)
+[Sanma_05]
+// うらべ　くねこの　わかいころの[br]
+// ポスターやで。[br]
+// すごい　しゅみ　してるな。[end]
+A poster of Kumeko Ura-[br]
+be from her younger[br]
+days.[br]
+He sure has taste.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x38 (0x3776)
+[Sanma_05]
+// [pl][pl]ちゃんも　そんな　しゅみ？[end]
+Didn't know you were[br]
+into that, [plr]-bud.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x39 (0x3787)
+[Sanma_05]
+// シローのやつ　じぶんのしゃしん[br]
+// かざってるんやで。[end]
+Shiro put up a pitcher[br]
+of himself.[br]
+What a weirdo.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x3A (0x37A2)
+[Sanma_0F]
+// やや、やみのていおう　というサインと[br]
+// ばつ３つのマークや！！[br]
+// すると　やっぱり……[end]
+T-This is signed {Em-[br]
+peror of Darkness}, and[br]
+it's got three X-marks![br]
+Could it really be...?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x3B (0x37CD)
+[Sanma_05]
+// まあ　もってく　ひつようはないやろ。[end]
+Hmm...Naw, I don't[br]
+think we need to take[br]
+it with us.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x3C (0x37E1)
+[Sanma_05]
+// パンツばっかし　はいっとるで。[end]
+It's fulla underpants.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x3D (0x37F2)
+[Sanma_05]
+// やすいテレビや。シローのやつ[br]
+// びんぼうせいかつ　してるんやなあ。[end]
+It's a cheap model.[br]
+Shiro clearly ain't[br]
+livin' the good life.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x3E (0x3814)
+[Sanma_05]
+// はだかでんきゅうや。わ、わびしい……[end]
+A naked light bulb. I[br]
+feel lonely just look-[br]
+in' at it...
+
+[end]
+
+#END()
+
+// Script 0x309A-0x3F (0x3828)
+[Sanma_05]
+// きんぴかのくさりが　すててあるでえ。[end]
+There's a golden chain[br]
+in here.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x40 (0x383C)
+[Sanma_0F]
+// あああー！このくさり　くるよがひろった[br]
+// ペンダントに　ぴったり　あうで。[dlg]<$C1>
+Whoa! I can't believe[br]
+it! It's a perfect[br]
+match to the pendant[br]
+Kuruyo found!
+
+[dlg]<$C1>
+
+#END()
+
+// Script 0x309A-0x41 (0x3863)
+[Sanma_0F]
+// このペンダント、シローのものだとすると[br]
+// あのばん、シローは　きんこしつに[br]
+// しのびこんで　いるんや。[dlg]<$C2>
+If the pendant belonged[br]
+to Shiro, it means he[br]
+was inside the vault[br]
+that evenin'.[br]
+
+[dlg]<$C2>
+
+#END()
+
+// Script 0x309A-0x42 (0x3897)
+[Sanma_0F]
+// しょうこひんとして　とっとくで。[br]
+// ペンダントといっしょに[br]
+// シローに　つきつけてやる。[end]
+This is real important[br]
+evidence. We oughta[br]
+show it, alonside the[br]
+pendant, to Shiro.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x43 (0x38C3)
+[Sanma_05]
+// さて、どうしましょか？[end]
+Alright. What do we do?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x44 (0x38D0)
+[Sanma_05]
+// お、おれ、こんなすごいもん[br]
+// もつの　はじめてや。[end]
+I-I've never touched[br]
+somethin' so valuable[br]
+before.[br]
+
+[end]
+
+#END()
+
+// Script 0x309A-0x45 (0x38EA)
+[Yasushi_3C]
+// おお　そうか。ほんじゃあ　ええとこ　いこか。[br]
+// とうきょうのクラブや。これから　タクシーで[br]
+// くりだすで。[dlg]<$C6>
+That so? Then I'll take[br]
+you somewhere nice.[br]
+It's a club in Tokyo.[br]
+We'll take a taxi.
+
+[dlg]<$C6>
+
+#END()
+
+// Script 0x309A-0x46 (0x3920)
+[Sanma_05]
+// げー？これから　タクシーで　とうきょうまで？[br]
+// さすがししょう　ごうかいですな。[br]
+// でも　きょうは　ええですわ。[dlg]<$C7>
+You wanna go to Tokyo[br]
+from here in a taxi?[br]
+That's so like you,[br]
+Yasushi. But, uhh, may-[br]
+be next time.
+
+[dlg]<$C7>
+
+#END()
+
+// Script 0x309A-0x47 (0x3959)
+[Yasushi_3C]
+// そうか。ほなら　こんど　とうきょういったら[br]
+// いっぺん　いってみい。クラブ　ポピーいうんや。[br]
+// のりおも　いりびたってるらしいで。[end]
+Too bad. You should[br]
+check it out if you're[br]
+ever in Tokyo. It's[br]
+called Club Poppy.[br]
+Norio goes a lot.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x48 (0x399A)
+[Sanma_0F]
+// まだ　あたたかい！しんでから　じかん[br]
+// たってないはずや。……あたりまえやな。[end]
+It's still warm...He[br]
+musta died real recent-[br]
+ly![br]
+...Well, duh.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x49 (0x39C2)
+[Tonton_91]
+// ぼくトントン。[br]
+// きんこしつでは　なにかみつかった？[dlg]<$CA>
+I'm Tonton.[br]
+Did you find anything[br]
+in the vault?
+
+[dlg]<$CA>
+
+#END()
+
+// Script 0x309A-0x4A (0x39DE)
+[Sanma_05]
+// ああ、びっくりした！[br]
+// ぬいぐるみ、なんか　ゆうたで。[end]
+Whoa! That plushie just[br]
+talked! Wasn't expect-[br]
+in' that.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x4B (0x39FA)
+[Sanma_0F]
+// これは　かきおきや！[end]
+I think this is a sui-[br]
+cide note!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x4C (0x3A06)
+[Sanma_0F]
+// なになに………[br]
+// ダイヤをぬすんでいるところを　ぶんちんさんに[br]
+// みられて、ついころしてしまった……[dlg]<$CD>
+Lessee...[br]
+{I was stealing the[br]
+diamond, but I was seen[br]
+by Bunchin...So I kill-[br]
+ed him...}[br]
+
+[dlg]<$CD>
+
+#END()
+
+// Script 0x309A-0x4D (0x3A39)
+[Sanma_0F]
+// せけんのひとに　もうしわけたたんから[br]
+// しんで　おわびする……やて！[br]
+// これは　いしょ　や！！…とっとこ。[dlg]<$CE>
+{This burden is too[br]
+much for me to bear...[br]
+I can only atone with[br]
+my death...}[br]
+Let's take it with us.
+
+[dlg]<$CE>
+
+#END()
+
+// Script 0x309A-0x4E (0x3A6F)
+[Sanma_0F]
+// けど、しんすけのやつ　ほんまに[br]
+// じさつ　したんやろか？[br]
+// どうも　あやしい。[end]
+That said, is this[br]
+really a suicide?[br]
+There's somethin' off[br]
+about it.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x4F (0x3A96)
+[Sanma_0F]
+// しょうしんしょうめいの　ほんものや。[end]
+It's the real deal.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x50 (0x3AAA)
+[Sanma_05]
+// もう　そんなことせんでも　ええんとちゃいますか[end]
+That's quite enough of[br]
+that.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x51 (0x3AC3)
+[Sanma_05]
+// かにかにどこかに？[end]
+Let's SEA what we can[br]
+find!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x52 (0x3ACE)
+[Sanma_05]
+// われた　はいざらが　のこってるだけや。[end]
+Just the ashtray left.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x53 (0x3AE3)
+[Sanma_05]
+// よし！ほな　とっとくでえ！！[end]
+Okay, let's pick it up!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x54 (0x3AF3)
+[Sanma_05]
+// はんにんの　ものやろか？[br]
+// ……あずかっとくで！[end]
+Could this be the crim-[br]
+inal's? Let's keep it[br]
+in custody!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x55 (0x3B0C)
+[Sanma_05]
+// れいぞうこに　かんぺきに　くっついとる。[br]
+// だめや。まわらん。[end]
+It's stuck to the[br]
+fridge. It ain't turn-[br]
+in' one smidge.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x56 (0x3B2C)
+[Sanma_05]
+// ちゅうしょうがって　やつや。[br]
+// [pl][pl][pl][pl]くん　きみに　わかるかね。[end]
+Some kinda...abstract[br]
+art. D'you get that[br]
+stuff, [plr][plr][plr][plr]?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x57 (0x3B4E)
+[Sanma_05]
+// うちんなかに　こんなふざけたもの　たてて…[br]
+// たいがいに　せいよ！[end]
+Why would anyone want[br]
+somethin' like that?[br]
+'S just absurd.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x58 (0x3B70)
+[Sanma_05]
+// たいようのとう　だっていうてんのに、[br]
+// [pl][pl]ちゃん、ちょっと　しつこいんちゃう？[end]
+That's just the Tower[br]
+of the Sun. It bother-[br]
+in' you that much,[br]
+[plr]-bud?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x59 (0x3B99)
+[Sanma_05]
+// いいかげんにしてや　めんどくさい。[br]
+// たのむで　[pl][pl]ちゃん、まじめに　そうさしよ。[end]
+Ugh, what a bother.[br]
+Can'tcha take this more[br]
+seriously, [plr]-bud?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x5A (0x3BC3)
+[Sanma_05]
+// きみ　よっぽど　ひねくれてるな。[br]
+// くものこと　しりたいんやったら[br]
+// きしょうちょうにでも　といあわせたら？[end]
+D'you like wastin' my[br]
+time or something? If[br]
+you wanna know more[br]
+about clouds, ask a[br]
+weatherman.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x5B (0x3BF9)
+[Sanma_05]
+// ボウリングなんか　しとうない。[br]
+// はんにんさがしが　さきや。[end]
+No time for bowlin'.[br]
+Findin' the culprit[br]
+comes first.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x5C (0x3C18)
+[Sanma_05]
+// [pl][pl]ちゃん　ひらがなぐらい　よめるやろ？[br]
+// く　い　だ　お　れ　って　かいてあるんや。[end]
+Can'tcha even read[br]
+hiragana, [plr]-bud?[br]
+That says {ku-i-da-o-[br]
+re}.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x5D (0x3C44)
+[Sanma_05]
+// ゆーシティって　ゆう　えきビルなんや。[end]
+The You City building.[br]
+As You can see, it's[br]
+right in front of the[br]
+station.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x5E (0x3C59)
+[Sanma_05]
+// ビル！！[end]
+BILL!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x5F (0x3C5F)
+[Sanma_0A]
+// ソース　だそーす。[end]
+According to my SAUCES,[br]
+that bottle contains[br]
+soy.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x60 (0x3C6A)
+[Sanma_0A]
+// [pl][pl]ちゃんも　おけしょうして[br]
+// きれいに　なる？[end]
+Wouldja improve with[br]
+some makeup, [plr]-bud?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x61 (0x3C83)
+[Sanma_05]
+// カメラに　きまっとるがな。[end]
+That's a camera. Duh.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x62 (0x3C92)
+[Sanma_05]
+// うたぐりぶかい　おひとやなあ。[br]
+// こんなん　ただのライトですよ。[end]
+You really that para-[br]
+noid? 'S just a light.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x63 (0x3CB3)
+[Sanma_05]
+// おおさかめいぶつ　たこやき　だって。[end]
+That reads, {Takoyaki,[br]
+Osaka's specialty}.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x64 (0x3CC7)
+[Sanma_05]
+// どっかでも　みたことあるような　やつやな。[end]
+Feels like I've seen[br]
+this somewhere before.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x65 (0x3CDE)
+[Sanma_05]
+// さんだんカラーボックスってやつや。[br]
+// １９８０えん　ぐらいかな。[end]
+It's a three-layer col-[br]
+or box shelf. Costs[br]
+'bout 1,980 yen.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x66 (0x3CFF)
+[Sanma_05]
+// スイッチやね。どうするんやろ。[end]
+It's a switch. Who[br]
+knows what it does?
+
+[end]
+
+#END()
+
+// Script 0x309A-0x67 (0x3D10)
+[Sanma_05]
+// ディスクを　いれるとこ　みたい。[end]
+This is where disks go,[br]
+I think.
+
+[end]
+
+#END()
+
+// Script 0x309A-0x68 (0x3D22)
+[Sanma_05]
+// あかん、おれ、こいつは　にがてなんや。[br]
+// どれ　さわっていいか、わけわからん。[end]
+Aw, dang it. I ain't[br]
+good with these contra-[br]
+ptions. I don't even[br]
+know where to start!
+
+[end]
+
+#END()
+
+// Script 0x309A-0x69 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x6A (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x6B (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x6C (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x6D (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x6E (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x6F (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x70 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x71 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x72 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x73 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x74 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x75 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x76 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x77 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x78 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x79 (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x7A (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x7B (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x7C (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x7D (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x7E (0x3D4A)
+
+
+#END()
+
+// Script 0x309A-0x7F (0x3D4A)
+[dummy_FF]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// 
+[br]
+
+
+#END()
+

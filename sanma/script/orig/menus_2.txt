@@ -1,0 +1,135 @@
+// Script 0x1F968-0x0 (0x1F988)
+// Çﬁ[Ç»ÅK]ÇµÇ·ÇµÇÒ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x1 (0x1F98F)
+// ÇﬁÇ“ÉåÉìÉX[br]
+// ÇﬁÇ∏ÅJ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x2 (0x1F999)
+// Çﬁ[ÇﬁÅK]ÇÀÇΩÇŸÇÒ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x3 (0x1F9A0)
+// Çﬁ[ÇÁÅK]ÇËÇÂÇ§ÇµÇ„Ç§ÇµÇÂ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x4 (0x1F9AB)
+// ÇﬂÇ‰Ç”Ç»ÇØÇÒ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x5 (0x1F9B2)
+// ÇﬂÇÎÇΩÇ±Ç‚Ç´[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x6 (0x1F9B9)
+// ÇﬂÇ¡ÉeÉBÉXÉN[br]
+// ÇﬂÇøÅJ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x7 (0x1F9C4)
+// ÇﬂÅIÉwÉìÉ^ÉìÉg[br]
+// ÇﬂÇ ÅK[br]
+// ÇﬂÇÃÅJ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x8 (0x1F9D4)
+// Çﬂ[Ç»ÅK]Ç©Ç´[br]
+// ÇﬂÇ™ÅJ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0x9 (0x1F9DD)
+// ÇﬂÇ“Ç≠Ç≥ÇË[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0xA (0x1F9E3)
+// Çﬂ[ÇﬁÅK]ÉâÉCÉ^Å[[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0xB (0x1F9EA)
+// Çﬂ[ÇÁÅK]ÇØÇ¢Ç‚Ç≠ÇµÇÂ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0xC (0x1F9F3)
+// Ç‡Ç‰ÇπÇ¢ÇﬂÇ¢[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0xD (0x1F9FA)
+// Ç‡ÇÎÉ^ÉCÉÑ[br]
+// Ç‡Ç≥ÅJ[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0xE (0x1FA04)
+// Ç‡Ç¡Ç©Ç´Ç®Ç´[end]
+
+
+[end]
+
+#END()
+
+// Script 0x1F968-0xF (0x1FA0B)
+// Ç‡ÅIÇ´ÇÂÇ§ÇÕÇ≠ÇµÇÂÇ§[br]
+// Ç‡Ç”ÅJ[end]
+
+
+[end]
+
+#END()
+

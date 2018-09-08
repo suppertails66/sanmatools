@@ -1,0 +1,32 @@
+#******************************************************************************
+# Credits tilemap generator script
+#******************************************************************************
+
+[Properties]
+colormode=grayscale
+dest=out/grp/intro_scream_grp.bin
+loadAddr=0x80
+maxTiles=0x80
+# blacklist all original tiles
+#blacklist=0x40-0xC8
+# whitelist "end" components
+whitelist=0xD8-0xEC,0xF1-0xFF
+
+[Include00]
+source=rsrc/intro/raw/intro_p2_grp.bin
+loadaddr=0x80
+
+[Background00]
+source=out/grp/font_0x4000.bin
+loadaddr=0x0
+
+#******************************************************************************
+# Main layout
+#******************************************************************************
+
+[Tilemap00]
+source=rsrc/intro/intro_scream.png
+dest=out/maps_raw/intro_scream.bin
+#priority=0
+#palette=0
+

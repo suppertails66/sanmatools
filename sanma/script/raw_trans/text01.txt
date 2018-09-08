@@ -1,0 +1,2628 @@
+こわくて、どつけへんよ。
+No way, I'm too scared.
+
+[START]Sanma: わな　やったんや！[br]
+[START]Sanma: Oh no![br]
+
+とじこめられてしもうた！！
+It was a trap!
+
+[START]Ayako: さんまさん、[plr][plr][plr][plr]さん、はじめまして。[br]
+[START]Ayako: Nice to meet you, Mr. Sanma and [plr][plr][plr][plr].[br]
+
+わたしが、あやこです。[br]
+My name is Ayako.[br]
+
+じけんのことを　おはなしします。
+I'd like to talk about the incident.
+
+[WAIT]Ayako: あのばん　パーティがはじまって[br]
+[WAIT]Ayako: It was during the evening,[br]
+
+３じかんほど　すぎたころでした。
+about 3 hours after the party had started.
+
+[WAIT]Ayako: …たいへんだ！ぶんちんさんがしんでる！って[br]
+[WAIT]Ayako: That's when I heard someone yell:[br]
+
+こえがきこえてきました。
+"It's terrible! Bunchin has been murdered!"
+
+[WAIT]Ayako: あわてて　こえのしたほうにいってみると[br]
+[WAIT]Ayako: I hurried to the spot I heard the voice come from,[br]
+
+ぶんちんさんが　かわりはてたすがたで……
+and that's when I saw Bunchin's body...
+
+[WAIT]Ayako: これが　げんばのしゃしんです。[br]
+[WAIT]Ayako: This is a photo of the scene of the crime.[br]
+
+そうさの　さんこうに　してください。
+Please use it as reference during your investigation.
+
+[WAIT]Sanma: わかりました。[br]
+[WAIT]Sanma: Understood.[br]
+
+ぜったい、はんにんを　つかまえてみせます。
+Don't worry, we'll definitely catch the murderer.
+
+[START]Sanma: そんなことしてる　ばあいやない。[br]
+[START]Sanma: This isn't the time for that![br]
+
+ここは　じゅうよう　やで。
+We have to focus!
+
+[START]Sanma: ほな　[plr]ちゃん[FIRSTINITIAL]そうさを　はじめましょ！
+[START]Sanma: Alright [plr], [FIRSTINITIAL]let's get this investigation started!
+
+[START]Sanma: よしもとの　いえの　ホールや。
+[START]Sanma: This is the hall of Yoshimoto's mansion.
+
+[START]Sanma: おれの　じむしょ　やでー。
+[START]Sanma: This is my office.
+
+[START]Sanma: たかゆきのへや　や。
+[START]Sanma: This is Takayuki's room.
+
+[START]Sanma: あやこさんのへや　や。
+[START]Sanma: This is Ayako's room.
+
+[START]Sanma: ここが、もんだいのきんこしつや。
+[START]Sanma: This is the infamous vault.
+
+[START]Sanma: このべっそうに　こんなへやがあったんや！！[br]
+[START]Sanma: Who knew this mansion had a secret room?[br]
+
+わっ　ゆかに　ち　のあとがあるで。
+Ah! There's blood on the floor!
+
+[START]Sanma: せんりがおかや。
+[START]Sanma: This is Senrigaoka.
+
+[START]Sanma: どうとんぼり　や。
+[START]Sanma: This is Dotonbori.
+
+[START]Sanma: しんじゅくでっせ。
+[START]Sanma: This is Shinjuku.
+
+[START]Sanma: ありまおんせん　やで。
+[START]Sanma: This is Arima Onsen.
+
+[START]Sanma: すみのえの　ボートレースじょうや。
+[START]Sanma: This is Boat Race Suminoe.
+
+[START]Sanma: スタジオカメダや。
+[START]Sanma: This is Studio Kameda.
+
+[START]Sanma: たこいちやで。
+[START]Sanma: This is Takoichi.
+
+[START]Sanma: かげつの　がくや　や。
+[START]Sanma: This is Kagetsu's dressing room.
+
+[START]Sanma: いざかや　みどりでっせ。
+[START]Sanma: This is Bar Midori.
+
+[START]Sanma: ここは、まいあさテレビや。
+[START]Sanma: This is TV Maiasa.
+
+[START]Sanma: ぶんちんはんのへや[br]
+[START]Sanma: This is Bunchin's room.[br]
+
+よう　せいりされています。
+Everything seems to be in order.
+
+[START]Sanma: きょじんのいえ　のまえやで。
+[START]Sanma: We're in front of Kyojin's residence.
+
+[START]Sanma: シローのいえ　のまえやで。
+[START]Sanma: We're in front of Shiro's residence.
+
+[START]Sanma: このへんで　きょじん　はんしんが[br]
+[START]Sanma: Kyojin and Hanshin should be doing[br]
+
+まんざい　してるはずや。
+their manzai act around here.
+
+[START]Sanma: ぶきみな　ほうせきしょうやなあ。
+[START]Sanma: It's an ominous jewelry store.
+
+[START]Sanma: クラブ　ポピーや。
+[START]Sanma: This is Club Poppy.
+
+[START]Norio: さすが　さんまや。よく　だっしゅつできたな。[br]
+[START]Norio: I see you've escaped, Sanma! Just as I expected.[br]
+
+ここは、じつは　わいのアジト　なんや。[br]
+This is my secret hideout.[br]
+
+そして　わいがやみのていおう　や。
+As you might have guessed, I am the Emperor of Darkness.
+
+[WAIT]Sanma: あんがい　かたづいてるなあ。
+[WAIT]Sanma: It's cleaner than I expected.
+
+[START]Sanma: ダイヤもってくの　わすれとるで。
+[START]Sanma: We forgot to pick up the diamond.
+
+[START]Sanma: だれ　さがしましょか？
+[START]Sanma: Who are we looking for?
+
+[START]Shinsuke: おや、さんちゃんに　[plr]ちゃん[br]
+[START]Shinsuke: Hello, San and [plr].[br]
+
+こりゃ　きぐうやなあ。
+Fancy meeting you here.
+
+[WAIT]Sanma: しんすけ！　おまえにあいたかったのや。
+[WAIT]Sanma: Shinsuke! I've been meaning to see you.
+
+[START]Sanma: [plr]ちゃん！[pause][br]
+[START]Sanma: [plr]![pause][br]
+
+これから　ゆうこと　ちゃんと　めもしといてや。
+Be sure to write down what I tell you.
+
+[WAIT]Sanma: ここには　おらへんみたいやでえ。
+[WAIT]Sanma: It doesn't seem like anybody's here.
+
+[START]Sanma: おっ！[plr][plr][plr][plr]ちゃん[br]
+[START]Sanma: Ah! Did you hear that, [plr][plr][plr][plr]?[br]
+
+いま　ひめいが　きこえなかった？[br]
+That sounded like a scream![br]
+
+あそこの　いえや！いってみよ！[pause]
+It came from that house. Let's hurry![pause]
+
+[START]Sanma: みあたらんで。
+[START]Sanma: Nope. Nowhere to be seen.
+
+[START]Saburo: シローのいえ　さぐってみなはれ。[br]
+[START]Saburo: You should search his house.[br]
+
+これが　シローのいえのカギです。
+Here, this is the key to his front door.
+
+[START]Yasushi: おまえ　なかなか　やるやんけ。[br]
+[START]Yasushi: You're pretty good.[br]
+
+やくそくや。おしえたろ。
+Alright, I'll tell you what I know.
+
+[WAIT]Sanma: うーん、おちゃめさん！[br]
+[WAIT]Sanma: Hello there![br]
+
+だれも　いないじゃない。
+...There's nobody here.
+
+[START]Yasushi: じつはな　ぶんちんが　だいじにしていた[br]
+[START]Yasushi: Apparently, Bunchin's fabled[br]
+
+まぼろしのねたほん　ちゅうのが[br]
+book of jokes disappeared[br]
+
+じけんいらい　ゆくえふめい　らしいんや。
+right after the incident.
+
+[WAIT]Sanma: どつく　あいてが　おらへんよ。
+[WAIT]Sanma: There's nobody to punch.
+
+[START]Yasushi: まぼろしのねたほん　いうのは、ぜったいに[br]
+[START]Yasushi: Legend goes that the jokes in that book[br]
+
+うける　おわらいのねたを　あつめた　ほんや。[br]
+are so good it's impossible not to laugh.[br]
+
+おおさかに　むかしからつたわっとるというもんや
+They've been handed down in Osaka from ancient times.
+
+[WAIT]Yasushi: そのねたを　さいきん、きょじん　はんしんが[br]
+[WAIT]Yasushi: From what I hear,[br]
+
+つこうてるいうんや。それで　スランプから[br]
+Kyojin and Hanshin are using those very jokes now.[br]
+
+だっしゅつ　したらしい………
+That's how they've managed to come out of their bad period...
+
+[WAIT]Yasushi: There is only one single copy of that book in existence.[br]
+
+Well?[br]
+
+How's that for information?
+
+[START]Sanma: すまん、[plr][plr][plr][plr]ちゃん。[br]
+[START]Sanma: I'm sorry, [plr][plr][plr][plr].[br]
+
+めも　とるの　ふとくい　なんや。[br]
+I'm not good at taking notes...[br]
+
+だれか　ごくいを　おしえてくれんかなあ…。
+I wish someone would teach me how to do it...
+
+[START]Sanma: [plr]ちゃん　わがままだから。　こんなときだけ[br]
+[START]Sanma: You're really selfish, [plr].[br]
+
+ぼくに　なんかさそうと　おもって。[br]
+Do you only talk to me when you need help?[br]
+
+うーん、いじわる　キライ。
+You're so mean.
+
+[START]Norio: シローのどじで　しっぱいしたが[br]
+[START]Norio: Shiro may have failed me,[br]
+
+わいがアフリカのほしを　てにいれたかったのは[br]
+but the reason I needed the Star of Africa[br]
+
+こだいのひほうのためや。
+was to find that treasure.
+
+[WAIT]Norio: なにやってるんや。[br]
+[WAIT]Norio: What are you doing?[br]
+
+ここでは　そんなことは　させん。
+You can't do that here.
+
+[START]Sanma: このばめんでは、こうするのが　いちばんや、うん[pause][br]
+[START]Sanma: Okay, here's what we should do...[pause][br]
+
+……ゆるして　[plr]ちゃん、[br]
+...Sorry [plr],[br]
+
+ほんとは　なああんにも　かんがえてないのよ。
+I actually have no idea.
+
+[START]Takayuki: きょうは　なんのようだね。
+[START]Takayuki: What do you want?
+
+[START]Sanma: しんすけも　しんでしまったのや。
+[START]Sanma: You know that Shinsuke is dead.
+
+[START]Ayako: そうさは　じゅんちょうですか。
+[START]Ayako: Is your investigation going well?
+
+[START]Sanma: なにいってるんですか。[plr][plr][plr][plr]くん、ぼくは[br]
+[START]Sanma: What are you talking about, [plr][plr][plr][plr]?[br]
+
+じょせいのみかた　ですよ。[br]
+I'm a gentleman.[br]
+
+そんなこと　よう　できませんわ。
+I would never hurt a lady.
+
+[START]Sanma: しんすけ、おまえ　はくじょうせんと[br]
+[START]Sanma: Shinsuke, if you don't confess,[br]
+
+このまえの　ろっぽんぎのこと　みんなはなすで
+I'll tell everyone what happened in Roppongi!
+
+[WAIT]Shinsuke: そんなこと　いうたら、さんちゃん、あのばん[br]
+[WAIT]Shinsuke: Is that so?[br]
+
+だれと　いっしょ　やったっけ？[br]
+And who else was there with me, San?[br]
+
+フライデーにいうたってもええんやけどな。
+Maybe I should tell "Friday" all about it...
+
+[WAIT]Sanma: ひえー　そ　それは、やめてちょんまげ。
+[WAIT]Sanma: Eep! P-Please don't do that!
+
+[START]Kyoshin: かんべんしてください。ゆるしてください。
+[START]Kyoshin: Okay, I get it! Please forgive me already!
+
+[START]Sanma: しんすけ　ゆうたら　やくざ　や。[br]
+[START]Sanma: No way. Shinsuke is a yakuza.[br]
+
+どつきかえされるで。
+If I punch him, he'll punch me back.
+
+[START]Kosuke: さんまくん　よく　きてくれましたね。[br]
+[START]Kosuke: Ah, Sanma. Well met.[br]
+
+ぼくは　あの　めいたんていの　しんせきすじに[br]
+I am Kosuke Kindashichi,[br]
+
+あたる　きんだしち　こうすけ　です。
+a relative of the famous detective.
+
+[WAIT]Kosuke: これから　せんぱいとして　さんまくんに[br]
+[WAIT]Kosuke: As your senior, I'm going to[br]
+
+しれんを　あたえようと　おもうのです。
+ask you to pass a test.
+
+[WAIT]Sanma: ぶんちんはんは　ころされてしまったのや。
+[WAIT]Sanma: Bunchin was murdered.
+
+[START]Sanma: はんしんさーん、いてますか。[pause]
+[START]Sanma: Hanshin, are you here?[pause]
+
+[START]Sanma: きょじんさーん、いてますか。[pause]
+[START]Sanma: Kyojin, are you here?[pause]
+
+[START]Sanma: サブローさーん。[pause]
+[START]Sanma: Saburo?[pause]
+
+[START]Sanma: シローさーん。[pause]
+[START]Sanma: Shiro?[pause]
+
+[START]Sanma: いくよさーん！[pause]
+[START]Sanma: Ikuyo?[pause]
+
+[START]Sanma: くるよさーん！[pause]
+[START]Sanma: Kuruyo?[pause]
+
+[START]PLAYER: しんすけ、かわいそうに。[br]
+[START]PLAYER: Poor Shinsuke.[br]
+
+ダイヤをぬすんだばっかりに……
+He barely had the time to steal the diamond before he died.
+
+[WAIT]Sanma: [plr]ちゃん、わかってへんな。[br]
+[WAIT]Sanma: Wrong, [plr].[br]
+
+しんすけは　ぬすみなんか　しとらんはずや。[br]
+Shinsuke didn't steal anything.[br]
+
+もともと　ダイヤは　ぬすまれてへんのや。
+In fact, the diamond was never stolen in the first place.
+
+[WAIT]Sanma: きょうはくされた　たかゆきは、しんすけに[br]
+[WAIT]Sanma: Takayuki tried to put all the blame on Shinsuke.[br]
+
+ぜんぶのつみを　かぶそうと　かきおきと[br]
+That's why he left that fake suicide note,[br]
+
+ダイヤを、あのげんばに、のこしたわけや……。
+and the diamond, when he killed Shinsuke.
+
+[WAIT]Sanma: さ、[plr][plr][plr][plr]ちゃん。[br]
+[WAIT]Sanma: C'mon, [plr][plr][plr][plr].[br]
+
+あやこさんを、げんきづけに　いこうか………。[pause]
+Let's try to cheer Ayako up a bit...[pause]
+
+[START]Sanma: めのまえに　おるやないか。
+[START]Sanma: They're right in front of us.
+
+[START]Kosuke: みごと　いってもどってきたら[br]
+[START]Kosuke: If you're successful,[br]
+
+たんていの　ごくいを　おしえてあげましょう。
+I'll teach you the secret of a true detective.
+
+[WAIT]Kosuke: うえからふってくるものに　あたっては[br]
+[WAIT]Kosuke: Try not to get hit from the things[br]
+
+だめですよ。[br]
+falling from above.[br]
+
+さ　いってらっしゃい！[pause][pause]
+Okay, get to it![pause][pause]
+
+[START]Kosuke: ははーん、しっぱいしましたね。それでは[br]
+[START]Kosuke: Whoops! You got hit![br]
+
+ごくいを　さずけるわけには　いきません。[br]
+I can't reveal the secret now.[br]
+
+もう　いっぺん　やりますか？
+Want to try again?
+
+[START]Kosuke: また　いつでも　いらっしゃい。[br]
+[START]Kosuke: Come back anytime.[br]
+
+はやいうちのほうが　いいとおもいますよ。[pause]
+You should really do this sooner than later though.[pause]
+
+[START]Kosuke: やったじゃないですか。さんまくん。[br]
+[START]Kosuke: Well done, Sanma![br]
+
+それが　たんていのごくい　そうさめもです。[br]
+I bestow upon you the art of... taking notes![br]
+
+これで　めもを　とれるでしょう。
+You can have this notebook.
+
+[WAIT]Kosuke: そうさめもは　ちゃんと　とっておくことです。[br]
+[WAIT]Kosuke: Use that notebook well.[br]
+
+そうさを　さいかいするときは　コンティニューを[br]
+You can even use it to save your progress[br]
+
+すれば　いいのですから。それじゃあ。[pause][pause]
+and continue another time. See you![pause][pause]
+
+[START]Kosuke: やあやあ　がんばっているかい。それじゃ。
+[START]Kosuke: Ah well. Better luck next time.
+
+[WAIT]Sanma: なんか　おしえてくださいよ。[br]
+[WAIT]Sanma: Oh come on.[br]
+
+まったく　もう。[pause]
+Just tell me already![pause]
+
+[START]Sanma: げーむせんたー　キャロットやったんや。[br]
+[START]Sanma: This is the Game Center Carrot.[br]
+
+このげーむは……ギャラクシガニ？[br]
+This game... It's Crabaxian.[br]
+
+よっしゃ　いっちょ　やったるか！[pause][pause]
+Alright, I'll play for a while![pause][pause]
+
+[START]Hanshin: これは　さんまさん　[plr][plr][plr][plr]さん[br]
+[START]Hanshin: Hello Sanma and [plr][plr][plr][plr].[br]
+
+こんなところまで　なんのようです。
+What brings you all the way here?
+
+[START]Hanshin: わしをどついて　どないなるねん。[br]
+[START]Hanshin: Why would you hit me?[br]
+
+わしゃ　ほんまについてまへんわ。
+I really have the worst of lucks...
+
+[START]Kyoshin: なんや？
+[START]Kyoshin: What?
+
+[START]Sanma: きょじんくん、めちゃ　つよいんやで。[br]
+[START]Sanma: No way, Kyojin is super tough.[br]
+
+どつくんなら　じぶんでせえよ。
+If you want him punched, do it yourself.
+
+[START]Saburo: ああ　さんまさん　[plr][plr][plr][plr]さん、[br]
+[START]Saburo: Oh, Sanma and [plr][plr][plr][plr].[br]
+
+まいど　どうも。
+Nice to see you.
+
+[START]Saburo: とつぜんなんですか！[br]
+[START]Saburo: Ouch![br]
+
+いたいなあ。
+What was that for?!
+
+[START]Shiro: さんまさん　[plr][plr][plr][plr]さん[br]
+[START]Shiro: Sanma, [plr][plr][plr][plr].[br]
+
+だれか、なぐったろか？
+Need anyone beaten up?
+
+[WAIT]Sanma: ほんまに　ようわからんやっちゃなあ。
+[WAIT]Sanma: I don't get this guy at all.
+
+[START]Shiro: ぼくは、どつかれたら　どつきかえしまっせ。
+[START]Shiro: If you hit me, I'll hit you back.
+
+[START]Yasushi: おお、さんま　と　[plr][plr][plr][plr]やないけ。[br]
+[START]Yasushi: Hey there, Sanma, [plr][plr][plr][plr].[br]
+
+ボートはええで、さいこうや。なんちゅうか　その[br]
+Boats are the best, aren't they?[br]
+
+おとこのロマンじゃ。われもボートすきか？
+They're so cool! Do you like boats?
+
+[START]Yasushi: おまえら　みどころ　あるでえ。
+[START]Yasushi: Good, good.
+
+[START]Yasushi: きらいなくせに　なにしにきたねん。
+[START]Yasushi: Then why are you here?
+
+[WAIT]Kani: おまえら　みたいなやつと　はなしとうない。[br]
+[WAIT]Kani: I have nothing to say to boat haters.[br]
+
+はよーいね。[pause][pause]
+Leave.[pause][pause]
+
+[START]Norio: クイズ　わたしはだれでしょう？[br]
+[START]Norio: Quiz time! Who am I?[br]
+
+１ばん　なっとうまん、２ばん　みのむし[br]
+1: Nattoman; 2: Bagworm Moth[br]
+
+さあ、どれや？
+So? Which one am I?
+
+[WAIT]Sanma: なにいってんのや、ほんまにもう。
+[WAIT]Sanma: What are you on about? Sheesh.
+
+[START]Sanma: ああ　きょうは、エアロビクスして、のどが[br]
+[START]Sanma: All those aerobics made me thirsty.[br]
+
+かわいたよ。キタしんち　いってビール[br]
+How about we head to Kitashinchi[br]
+
+でも　のもか？[pause][pause]
+and grab a beer?[pause][pause]
+
+[START]Sanma: やっと、つかまえられたな。
+[START]Sanma: We got you now.
+
+[WAIT]Shiro: こうなったら　みんなはなすわ。
+[WAIT]Shiro: Okay, okay. I'll talk.
+
+[WAIT]Shiro: やみのていおうの　めいれいで　ダイヤを[br]
+[WAIT]Shiro: The Emperor of Darkness ordered me[br]
+
+ぬすもうとしたんや。でも、きんこのなかには[br]
+to steal that diamond.[br]
+
+ダイヤはなかったで。
+But it wasn't inside the safe.
+
+[WAIT]Shiro: なぐるのはとくいやけど[br]
+[WAIT]Shiro: Sure, I'm good at beating people up,[br]
+
+ころしなんか、ようできへんわ。それに[br]
+but I'm not a killer.[br]
+
+きんこしつに　したいなんてなかったで。
+Besides, there weren't any dead bodies when I entered the vault.
+
+[WAIT]Sanma: やみのていおう　ゆうのは、のりお　なんやな！
+[WAIT]Sanma: That means the Emperor of Darkness is Norio!
+
+[WAIT]Shiro: それだけは、ぼくのくち　からは　いえへん。[br]
+[WAIT]Shiro: I'll never admit to that.[br]
+
+かわりに、ゆうときます。
+But I will say this instead.
+
+[WAIT]Shiro: もしものときは　ハヤブサ　ってことばを[br]
+[WAIT]Shiro: Remember this number: "8823".[br]
+
+おもいだしなはれ。いつかやくにたちます。
+It will be useful at one point.
+
+[START]Shiro: どつかれても　もう　いえまへん。
+[START]Shiro: Even if you hit me, I won't say anything else.
+
+[START]Sanma: ここは、シローのいうこと　しんよう　するしか[br]
+[START]Sanma: We'll just have to trust[br]
+
+ないみたいやね。
+what Shiro told us.
+
+[START]Shiro: やみのていおうの[br]
+[START]Shiro: The Emperor of Darkness is probably going to punish me.[br]
+
+おしおきが　こわいんで　ぼくは、とうぶん　みを[br]
+I'm going to hide somewhere safe.[br]
+
+かくします。ほな　さいなら。[pause][pause]
+Bye bye.[pause][pause]
+
+[START]Sanma: よしもとのおっさん　おらへんで。
+[START]Sanma: Yoshimoto isn't here.
+
+[START]Sanma: のりおがゆうには、ぶんちんは、じけんのばん[br]
+[START]Sanma: If what Norio told us is true, the day of the incident[br]
+
+この　へやに　たかゆきをたずねてきたんや。
+Bunchin came into this room to speak with Takayuki.
+
+[WAIT]Sanma: そして　したいとなって　きんこしつでみつかった。[br]
+[WAIT]Sanma: At some point he died,[br]
+
+ホールをとおらずに　きんこしつには[br]
+and his body ended up in the vault,[br]
+
+いけないはずやのに
+even though you can't go in there from here without passing through the hall.
+
+[WAIT]Sanma: それに　しんだ　しんすけも、ここに[br]
+[WAIT]Sanma: And apparently,[br]
+
+きていたらしい…[br]
+Shinsuke also came here at one point...[br]
+
+このへやには　なにか　あるはずや。
+This room must be hiding something.
+
+[START]Sanma: いやーー！ひみつのへやから　きんこしつへ[br]
+[START]Sanma: Whoooaaaa![br]
+
+つうろが　つづいていたんや！！
+The secret room leads to the vault!
+
+[WAIT]Sanma: とゆうことは、たかゆきのアリバイは[br]
+[WAIT]Sanma: Which means...[br]
+
+かんぜんに　くずれる…。
+Takayuki's alibi is no longer valid...
+
+[WAIT]Takayuki: やれやれ　ここまでたどりつかれてしまったか。[br]
+[WAIT]Takayuki: Hmph. So you've found out this much.[br]
+
+おまえらも　なかなか　すてたもんじゃ　ないな。[WAIT]($80)($B5)ぢ[pause]ぢけづみづ($62)づ($74)づぼづぺづジづ１づとでテで($75)で($81)ででで($A5)で($BE)で($BE)でヂでヂでブで０で[WAIT]でれどれど！どトどメど($7A)どざどばど($C4)どパどぬ($94)コ($94)コ($94)コ($94)コ($94)リ($94)($7B)($94)ぞ($94)($A0)($94)($B9)($94)ズ($94)($E7)($94)($E7)($94)４($94)４($94)き($95)に($95)よ($95)($3B)($95)ツ($95)($73)($95)ぼ($95)($AE)($95)($C4)($95)($D6)($95)($E8)($95)５($95)あ($96)な($96)っ($96)($48)($96)ハ($96)ン($96)($7D)($96)じ($96)($A1)($96)($B4)($96)($C4)($96)($E1)($96)も($97)ゅ($97)リ($97)ぎ($97)($9E)($97)($BD)($97)($E2)($97)お($98)ま($98)。($98)メ($98)($74)($98)ぴ($98)($E1)($98)ちばやば($64)ばごば($B6)ば($E2)ばにび°び．び($81)び($B4)びポびポびっぶコぶァぶばぶ($D4)ぶせべ。べッべ($A2)べゴべいぼへぼハぼだぼ($B5)ぼ($D6)ぼボぼけ($9E)を($9E)ウ($9E)($62)($9E)($84)($9E)ぷ($9E)ダ($9E)バ($9E)[FIRSTINITIAL]($9E)ア($9F)($81)($9F)($AE)($9F)たみつゆ　やな。そやろ。ぶんちんはんは　あのひ[br]
+You're more clever than I thought.[WAIT]($80)($B5)ぢ[pause]ぢけづみづ($62)づ($74)づぼづぺづジづ１づとでテで($75)で($81)ででで($A5)で($BE)で($BE)でヂでヂでブで０で[WAIT]でれどれど！どトどメど($7A)どざどばど($C4)どパどぬ($94)コ($94)コ($94)コ($94)コ($94)リ($94)($7B)($94)ぞ($94)($A0)($94)($B9)($94)ズ($94)($E7)($94)($E7)($94)４($94)４($94)き($95)に($95)よ($95)($3B)($95)ツ($95)($73)($95)ぼ($95)($AE)($95)($C4)($95)($D6)($95)($E8)($95)５($95)あ($96)な($96)っ($96)($48)($96)ハ($96)ン($96)($7D)($96)じ($96)($A1)($96)($B4)($96)($C4)($96)($E1)($96)も($97)ゅ($97)リ($97)ぎ($97)($9E)($97)($BD)($97)($E2)($97)お($98)ま($98)。($98)メ($98)($74)($98)ぴ($98)($E1)($98)ちばやば($64)ばごば($B6)ば($E2)ばにび°び．び($81)び($B4)びポびポびっぶコぶァぶばぶ($D4)ぶせべ。べッべ($A2)べゴべいぼへぼハぼだぼ($B5)ぼ($D6)ぼボぼけ($9E)を($9E)ウ($9E)($62)($9E)($84)($9E)ぷ($9E)ダ($9E)バ($9E)[FIRSTINITIAL]($9E)ア($9F)($81)($9F)($AE)($9F)たWe know about the smuggling operation.[br]
+
+That day Bunchin confronted you about it.[br]
+
+That's why you killed him...
+
+[WAIT]Takayuki: ふーーんそれから。
+[WAIT]Takayuki: Uh-huh. What else?
+
+[WAIT]Sanma: しんすけのことはどや！！[br]
+[WAIT]Sanma: You also killed Shinsuke![br]
+
+おまえは………
+Why would you...?
+
+[WAIT]Takayuki: はだかいっかん　ここまできた　わしじゃ[br]
+[WAIT]Takayuki: I've come to far to be caught[br]
+
+おまえらみたいな　ちんぴらにつかまるかい！[br]
+by a pair of punks like you![br]
+
+これからアメリカへ　たかとびじゃ！じゃあな！
+I'm running away to America! See you!
+
+[WAIT]Sanma: [plr]ちゃん！！ついせきやーー！！
+[WAIT]Sanma: [plr], we have to catch him!!
+
+[START]Ikuyo: そお？わたしさいきん[br]
+[START]Ikuyo: Is that so?[br]
+
+エアロビクスやってんのよ。[br]
+I've been doing aerobics lately.[br]
+
+どこ　いってるか　ききたい？
+Want to know where?
+
+[START]Sanma: よっしゃあ！いっくでーー！
+[START]Sanma: Alright, let's go!
+
+[START]Sanma: やや、おまえ！しんすけ！さっきはなんで[br]
+[START]Sanma: You! Shinsuke![br]
+
+にげだしたんや。
+Why did you run away earlier?
+
+[WAIT]Shinsuke: うるさいわい！わいにはわいの　じじょうって[br]
+[WAIT]Shinsuke: Shut up! I've got stuff to do![br]
+
+もんがあるねん。またなー。[pause]
+Bye bye![pause]
+
+[START]Chatha: どひえー！にほん、いんど　ゆうこうこく。[br]
+[START]Chatha: Ouch! Japan and India are friendly nations![br]
+
+なぐるの　よくない！！
+It is wrong to hit me!
+
+[START]Norio: それを　よくかんがえて　みるんやな。[br]
+[START]Norio: Think really hard about it.[br]
+
+それと　もうひとつ。おみやげを　やろう。[br]
+Oh, let me also give you a little gift.[br]
+
+ほら　この　けいやくしょ　や。もってき。
+It's a contract. Here you go.
+
+[WAIT]Takayuki: そんなことを　すれば　いたいめにあうのは[br]
+[WAIT]Takayuki: If you do that,[br]
+
+おまえらの　ほうじゃよ。
+YOU'll be the one getting hurt.
+
+[START]Sanma: こんどは、シローや。
+[START]Sanma: Next up is Shiro.
+
+[START]Shiro: だれか　なぐったりましょか。
+[START]Shiro: C'mon, let's beat someone up.
+
+[WAIT]Sanma: ちょうど　きみをさがしていたんや。
+[WAIT]Sanma: Perfect, I was looking for you.
+
+[START]Sanma: こんなやつどついたら[br]
+[START]Sanma: If I tried,[br]
+
+ぎゃくに　なぐられるで。
+I'd get beaten up instead.
+
+[START]Sanma: ぼくら　かんきんされとるんやで。
+[START]Sanma: We're locked in here.
+
+[START]Guard: さしいれだ！くえ！
+[START]Guard: Here's your food! Eat up!
+
+[START]Sanma: ともかく、じむしょまで　きてくれる？
+[START]Sanma: Anyway, why don't you come to my office?
+
+[WAIT]Shinsuke: いやなこった、じゃな。
+[WAIT]Shinsuke: No way. Bye bye!
+
+[WAIT]Sanma: あ、しんすけのやつ　にげだしおった。[br]
+[WAIT]Sanma: He's making a run for it![br]
+
+おいかけた　ほうがええと　おもうで、これは。
+Do we chase after him?
+
+[START]Sanma: お！シローがおるで。
+[START]Sanma: Look, there's Shiro!
+
+[WAIT]Shiro: ありゃ　つごうよく　でくわすなあ。[br]
+[WAIT]Shiro: Sorry, but I just can't.[br]
+
+にげますよーー。
+Run away!
+
+[WAIT]Sanma: [plr][plr][plr][plr]、ついせきや！[pause]
+[WAIT]Sanma: After him, [plr][plr][plr][plr]![pause]
+
+[START]Sanma: にげられたか……[br]
+[START]Sanma: He got away...[br]
+
+にげあしの　はやいやっちゃ。
+He sure runs fast.
+
+[START]Saburo: さんまさんも　はいりません？
+[START]Saburo: Hey there, Sanma. Are you coming in?
+
+[START]Sanma: ほな　たこやきを　たのも。
+[START]Sanma: Takoyaki it is.
+
+[START]Sanma: こんなところで　どつくなんて　[plr]ちゃんは[br]
+[START]Sanma: You want to start trouble here?[br]
+
+ふうりゅうってもんを　しらんのやから。
+Where's your sense of refinement, [plr]?
+
+[START]Sanma: よっしゃあ！さっきから　たいどでかいと[br]
+[START]Sanma: Who do you think you are?[br]
+
+おもってたんや。ばぎ！がつ！
+Let me teach you a lesson! *thump* *wonk*
+
+[WAIT]Saburo: かんべんして！[br]
+[WAIT]Saburo: I'm sorry, I'm sorry![br]
+
+ほんとのこといいます。シローは　たぶん[br]
+I'll tell you everything![br]
+
+じけんに　かんけいしてます。
+I think Shiro may actually be involved in the incident!
+
+[WAIT]Sanma: ぼくも　はいらせてもらいます。[br]
+[WAIT]Sanma: I'm going in.[br]
+
+[plr]ちゃん、あんまり　みつめちゃいや。[br]
+[plr], don't stare at me while I undress.[br]
+
+さんちゃん、はずかしいの。
+I'm kind of shy, you know?
+
+[START]Hanshin: きのうは　どうも。[br]
+[START]Hanshin: Thanks for coming to see me yesterday.[br]
+
+さんまさんも、ビラみて　きはったん？
+I assume you also saw the flier?
+
+[START]Sanma: いくよねえさん、いつもおきれいで。
+[START]Sanma: Ikuyo's always so pretty.
+
+[WAIT]Shiro: さんまさん、いっしょにやりません？
+[WAIT]Shiro: Hey Sanma. Care to join me?
+
+[START]Sanma: なんか、つまみでも、とろかい。
+[START]Sanma: Maybe we should order something.
+
+[WAIT]Shiro: ここは　のみやのくせに、たこやきがうまいで。
+[WAIT]Shiro: For a bar, their takoyaki are pretty tasty.
+
+[WAIT]Yasushi: レースにかっておいわいしとるんや。
+[WAIT]Yasushi: I won a race, so I came to celebrate.
+
+[START]Ikuyo: さんまちゃん　[plr][plr][plr][plr]ちゃん[br]
+[START]Ikuyo: Hello, Sanma, [plr][plr][plr][plr].[br]
+
+うちに　なんかよう？
+Need me for something?
+
+[START]Kuruyo: はなしが　あるんやて？
+[START]Kuruyo: What's this about?
+
+[START]Sanma: きょじんくん　よってるみたいや。
+[START]Sanma: I think Kyojin's drunk.
+
+[START]Sanma: ドアがあるんやで。むりや。
+[START]Sanma: I can't. There's a door.
+
+[START]Sanma: きょじんくん　あけてくれい！
+[START]Sanma: Open up, Kyojin!
+
+[START]Kyoshin: いま　とりこみちゅうや。あとにしてくれ。
+[START]Kyoshin: Can we do this later? I'm busy now.
+
+[START]Chatha: して、きょうは、なんのごようで　あるか？
+[START]Chatha: How may I serve you?
+
+[START]Chatha: どひえー、わかった、いうあるアフリカのほし[br]
+[START]Chatha: Ouch! I'm sorry! I'll talk![br]
+
+みつゆひんだでよ。
+It's true, I smuggled the Star of Africa!
+
+[WAIT]Chatha: よしもとはんとくんで、ほうせきのみつゆをして[br]
+[WAIT]Chatha: I was working with Mr. Yoshimoto.[br]
+
+おおもうけ　するはずだったあるよ。
+He said there was a lot of money to be made from smuggling jewels.
+
+[START]Emiko: そんなこ、うちにはいないよー。
+[START]Emiko: There's no such person here!
+
+[START]Sanma: ええこやなあ。きみみたいなこ　すきや。
+[START]Sanma: You're so cute. You're just my type.
+
+[WAIT]Emiko: ええー、うっそー　うっれしいー。
+[WAIT]Emiko: Really? Thank you!
+
+[START]Sanma: ぼくは、そんなしゅみ　あらへん。
+[START]Sanma: No, that's not my style.
+
+[START]Emi: うふ。もっとやって。
+[START]Emi: *giggle* Do it again!
+
+[WAIT]Sanma: あぶないこやなあ。
+[WAIT]Sanma: Whoa, she's a scary one.
+
+[START]Sanma: きみ　みたいなこも　すっきやねん！
+[START]Sanma: You're just my type!
+
+[WAIT]Emi: ねえねえ、さんまさん[br]
+[WAIT]Emi: Hey Sanma,[br]
+
+となりのへやで、むふふ　しよ。
+how about we go in the next room and do... "that"?
+
+[START]Emi: さんまさん、[plr][plr][plr][plr]さん、いらっしゃーい！
+[START]Emi: Welcome, Sanma and [plr][plr][plr][plr]!
+
+[WAIT]Sanma: おや、このまえと、ちがうこや。
+[WAIT]Sanma: Hey, it's a different girl from last time.
+
+[START]Emi: つめたーい。もういや。かえって。[pause][pause]
+[START]Emi: How cold... Please leave.[pause][pause]
+
+[START]Emi: チュバ、チュバ…[pause]ウフン…
+[START]Emi: *smooch* *kiss* [pause]*giggle*
+
+[WAIT]Sanma: むひょー　でへでへ……
+[WAIT]Sanma: Woohoo! Geheheh...
+
+[WAIT]Emi: さんまさん、ゴメン。バキ！ガス！バゴ！
+[WAIT]Emi: I'm sorry, Samna. *thump* *klank* *crush*
+
+[WAIT]Sanma: き、きみ　なにすんねん。あーれー…
+[WAIT]Sanma: W-Wait! What are you doi-- Oooh...
+
+[START]Kuruyo: さんまちゃん　どこみてるの。
+[START]Kuruyo: What are you staring at, Sanma?
+
+[START]Sanma: のりおにいさん、[br]
+[START]Sanma: C'mon Norio,[br]
+
+なに　じょうだん　いってますのや。
+enough joking around.
+
+[WAIT]Norio: じょうだんやない。げいにん　にしかわのりお[br]
+[WAIT]Norio: This is no joke.[br]
+
+とは　よをしのぶ　かりのすがた。わいこそ、[br]
+Norio Nishikawa the entertainer is but a mask.[br]
+
+せかいをすくう　やみのていおう　や。
+I am actually the Emperor of Darkness, savior of mankind.
+
+[WAIT]Sanma: やっぱり　そうやったんか。
+[WAIT]Sanma: I knew it...
+
+[WAIT]Norio: おまえら　れいの[br]
+[WAIT]Norio: I assume you have the diamond with you.[br]
+
+ダイヤをもってるはずや。そして　ここに[br]
+And as you can see,[br]
+
+おまえらも　ごぞんじのピューマがあるんや。
+I have the Puma here.
+
+[WAIT]Norio: ここには[br]
+[WAIT]Norio: The two of them together[br]
+
+こだいのひほうの　なぞが　かくされているはずや
+are the key to the mystery of an ancient treasure.
+
+[WAIT]Norio: さんま、[plr][plr][plr][plr]、[br]
+[WAIT]Norio: Sanma, [plr][plr][plr][plr]![br]
+
+このなぞを　といてくれ！
+You must solve the riddle!
+
+[START]Norio: そうか、だめか。それならダイヤを[br]
+[START]Norio: I see. That's a shame.[br]
+
+おいていって　もらおう。
+In that case, I'll take the Star of Africa.
+
+[START]Norio: アフリカのほしを　だしてもらおうか。[br]
+[START]Norio: Give me the Star of Africa.[br]
+
+じぶんら　つかまっとるんやでえ。
+Don't forget you're my prisoners.
+
+[START]Norio: そうか、やってくれるか。[br]
+[START]Norio: You'll do it? Great![br]
+
+これがピューマや。なんとか　してくれ。
+Here's the Puma. See what you can do.
+
+[START]Sanma: おっ、[br]
+[START]Sanma: Oh.[br]
+
+るすちゅうに　でんわが　あったみたいや。
+Looks like someone called while we were out.
+
+[START]Norio: じょうだんはよせ！[br]
+[START]Norio: Stop wasting time![br]
+
+なぞを　とくのが　せんけつや。
+Solving the riddle comes first!
+
+[START]Norio: だから、おまえらは、とらわれのみ　なの！[br]
+[START]Norio: You're not going anywhere[br]
+
+ナゾを　とくまで　にがさへんで！！
+until you solve the riddle!
+
+[START]Sanma: やったー！！[br]
+[START]Sanma: We did it![br]
+
+ちずが　でたーー！
+Look, it's a map!
+
+[WAIT]Norio: うーん、やっぱり　ここやったか。[br]
+[WAIT]Norio: I knew it.[br]
+
+これは　バラベとうの[br]
+That's a map of Barabe Island.[br]
+
+ちずや。わいは　まえから　め　つけとったんや。
+I've had my eyes on it for a while now.
+
+[WAIT]Norio: さんま、[plr][plr][plr][plr]！どうじゃい？[br]
+[WAIT]Norio: So, how about it, Sanma and [plr][plr][plr][plr]?[br]
+
+けちな　じけん　おうのはやめて[br]
+Will you forget about the stupid case[br]
+
+いっしょに　たから　さがしに　いかんかい？
+and come with me to find the treasure?
+
+[START]Norio: そうか、それはざんねんや。あくまで　じけんを[br]
+[START]Norio: I see... So you'd rather work on your case.[br]
+
+おうと　いうのやな。まあそれも　ええやろ。
+It's a shame, but I understand.
+
+[WAIT]Norio: かわりに　ええこと　おしえたる。
+[WAIT]Norio: I will tell you something you might find useful as a reward.
+
+[WAIT]Norio: じけんのばん、わいはみたんや。ぶんちんは[br]
+[WAIT]Norio: This is what I saw the day of the incident.[br]
+
+きんこしつに　いったんやない。たかゆきの[br]
+Bunchin never entered the vault.[br]
+
+へやに　むかって　ホールをでてったんや。
+When he left the hall, he headed for Takayuki's room.
+
+[WAIT]Norio: …それで　なぜか　きんこしつで[br]
+[WAIT]Norio: This raises a question...[br]
+
+したいとなって、はっけんされたんや。
+Why would his body be inside the vault, then?
+
+[WAIT]Sanma: せやけど[pause]　たかゆきのへやからは[br]
+[WAIT]Sanma: As you know,[pause][br]
+
+ホールをとおらんと[br]
+it's impossible to go to the vault[br]
+
+きんこしつに　いけへんはずや。
+without walking through the hall.
+
+[WAIT]Norio: ほな　わいは　バラベとうに　しゅっぱつや。[br]
+[WAIT]Norio: Well, I'm going to Barabe Island.[br]
+
+まあ　がんばりいな。ほな　さいなら！[pause][pause]
+Good luck with your case. Bye bye![pause][pause]
+
+[START]Norio: ほんまか！おまえらが　きてくれれば[br]
+[START]Norio: Really? That's good to hear![br]
+
+こころづよい。こだいのひほうは[br]
+With your assistance,[br]
+
+てにはいったも　どうぜんや。
+we'll definitely find the ancient treasure!
+
+[WAIT]Sanma: やみのていおう　のりおさま、[br]
+[WAIT]Sanma: Okay, but we're splitting fifty-fifty,[br]
+
+わけまえは　はんぶんでっせ。
+Mr. Emperor.
+
+[WAIT]Norio: がめついやっちゃなあ。まあええか。[br]
+[WAIT]Norio: You drive a hard bargain...[br]
+
+よし　ほな　いこ！いこ！[br]
+So be it![br]
+
+バラベとうに　しゅっぱつや！！
+Onward, to Barabe Island!
+
+[START]Kyoshin: ねたほんを　もっていったのは[br]
+[START]Kyoshin: You have the book now,[br]
+
+さんまさんやったんか。
+don't you, Sanma?
+
+[START]Kyoshin: そや。ちょっと　まってください。[br]
+[START]Kyoshin: Oh, hold on a sec.[br]
+
+じつは、ねたほんといっしょに[br]
+There was another thing next to the book.[br]
+
+こんなもんが　おちていたんです。
+Here.
+
+[WAIT]Sanma: あっ！フロッピーディスクや。[br]
+[WAIT]Sanma: Hey, it's a floppy disk![br]
+
+そうゆうもんは、はやくださんかい。[br]
+Why were you holding on to it anyway?[br]
+
+じゅうようなしょうこや。もらっとくで。[pause][pause]。
+This is important evidence, we'll take it with us.[pause][pause]。
+
+[START]Sanma: しんすけ　ころされたとしたら　なんではんにんは[br]
+[START]Sanma: Why would the criminal kill Shinsuke and leave the diamond behind?[br]
+
+ダイヤをおいてったんやろ？はんにんは[br]
+Was the diamond never their goal in the first place?[br]
+
+ダイヤ　ほしくなかったんやろか？それとも……
+Or maybe...?
+
+[START]Sanma: [FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL]　[FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL]　[FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL]　[FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL]
+[START]Sanma: [FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL] [FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL] [FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL] [FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL][FIRSTINITIAL]
+
+[START]Sanma: おひさしぶり！[plr]ちゃん。ほな、[br]
+[START]Sanma: It's been a while, [plr]![br]
+
+Okay, let's give it our best in today's investigation!
+
+[START]Norio: ……にほんをたってから　１つき[br]
+[START]Norio: ...It took us an entire month, but we finally did it![br]
+
+やったな！さんま！みてみい、このはこや！！
+Look, Sanma! It's a treasure chest!
+
+[WAIT]Sanma: なに　いってまんのや。こだいのひほうって[br]
+[WAIT]Sanma: What do you mean, "treasure" chest?![br]
+
+どこに　あるのや。なかみ　からっぽやないか。[br]
+This thing is empty![br]
+
+こんなん　ありでっか！？
+Why is it empty?!
+
+[WAIT]Sanma: おまけに、ウエーん！！！[br]
+[WAIT]Sanma: Not to mention,[br]
+
+ちゃくりくのとき　ひこうき　こわれてもうた。[br]
+our plane broke as soon as we landed![br]
+
+どうやって　にほん　かえるのや？！？
+How are we supposed to go back to Japan?!
+
+[WAIT]Norio: [plr]ちゃん、そうゆう　わけや。[br]
+[WAIT]Norio: Well, I guess that's it then.[br]
+
+もう、げーむ　どころやない！[br]
+Sorry, [plr]![br]
+
+これで　おわりや！！[WAIT]パぐあーあ。あやこちゃん　かわいかったのになあ。[br]
+The game is over![WAIT]パぐ*sigh* Ayako was so cute.[br]
+
+それに　じけんは　どうなったんや。[br]
+And what about the case?[br]
+
+とほほほほ………[pause][pause]
+*siiiiigh*[pause][pause]
+
+[START]Sanma: なんかあっけなく、じけんがおわったな。[br]
+[START]Sanma: Well, I guess the case is closed.[br]
+
+しんすけのやつ、あんな　わるいやつとは[br]
+It's kind of an unsatisfying ending though.[br]
+
+おもわんかったよ。
+I still can't believe Shinsuke would do something like that.
+
+[WAIT]Sanma: しんすけも、かわいそうに。[br]
+[WAIT]Sanma: Poor guy.[br]
+
+りょうしんのかしゃくに　たえかねたんやろな。
+I'm not sure his parents will take the news well.
+
+[WAIT]Sanma: さて、このじけんも　これでおわりや。[br]
+[WAIT]Sanma: Well, that's it then.[br]
+
+そろそろ　おわかれやな。[br]
+It's time to say goodbye.[br]
+
+もう、つぎのしごとが　おれをまってるのや。
+My next job is waiting for me.
+
+[WAIT]Sanma: ほな　[plr][plr][plr][plr]ちゃん、[br]
+[WAIT]Sanma: See you, [plr][plr][plr][plr].[br]
+
+また、どこかで、あおうや。
+Maybe we'll meet again, someday.
+
+[START]Sanma: しまった。あそこまで、おいつめたのに[br]
+[START]Sanma: Oh no! We wasted too much time,[br]
+
+たかゆきのやつを　つかまえそこなった…。[br]
+and we couldn't catch Takayuki...[br]
+
+いまごろ、たかゆきは、そらのうえか。
+He's probably already flying by now...
+
+[WAIT]Sanma: ましょうがないか。[br]
+[WAIT]Sanma: Oh well.[br]
+
+おれは、たんてい　ほんしょく　やないものな。[br]
+Being a detective was never my main job anyway.[br]
+
+また、タレントせいかつに　もどるか。
+I'll just go back to being a star.
+
+[WAIT]Sanma: [plr]ちゃん。さいごまで、つきおうてくれて[br]
+[WAIT]Sanma: Thanks for sticking with me until the end,[br]
+
+ほんまに　ありがとさんでした。
+[plr].
+
+[START]Sanma: やっと　つかまえられた！[br]
+[START]Sanma: We have you now![br]
+
+よしもとたかゆき、かんねんせい！！
+Surrender, Takayuki Yoshimoto!
+
+[WAIT]Takayuki: ………。
+[WAIT]Takayuki: ......
+
+[WAIT]Sanma: ぶんちんはん、しんすけ、ふたりをころした[br]
+[WAIT]Sanma: Your crimes are heavy.[br]
+
+つみは　おもいで。それに、みつゆ　や。
+You murdered Bunchin and Shinsuke. And then there's the smuggling.
+
+[WAIT]Takayuki: うるさい！！もう　いうな！[br]
+[WAIT]Takayuki: Shut up!! Not another word![br]
+
+この　けんじゅうが、めに　はいらぬか。
+I have a gun and I'm not afraid to use it!
+
+[WAIT]Sanma: う、う、そんなもん　もっとったんかい。
+[WAIT]Sanma: Urgh... Y-Yes, I can see that...
+
+[WAIT]Ayako: やめて、おとうさま！！[br]
+[WAIT]Ayako: Father, stop![br]
+
+これいじょう、つみをかさねないで。
+Please, don't commit any more sins!
+
+[WAIT]Takayuki: あ、あやこ。どうして　ここへ……[br]
+[WAIT]Takayuki: A-Ayako?! Why are you--[br]
+
+ともかく　そこを　どけ！！！
+Anyway, get out of the way!
+
+[WAIT]Ayako: だめ！おとうさま！さんまさんを　うつなら[br]
+[WAIT]Ayako: No, father! If you want to shoot Sanma,[br]
+
+わたしを　うってからにして！！
+you'll have to shoot me first!
+
+[WAIT]Ayako: むかしの、やさしいおとうさまに、もどって。[br]
+[WAIT]Ayako: I want back the kind, sweet father I remember...[br]
+
+おねがい、おとうさま！[WAIT]
+Please, I'm begging you![WAIT]
+
+[START]Takayuki: ………[pause]ガク。[WAIT][FIRSTINITIAL]キおとうさま、わたしといっしょに[br]
+[START]Takayuki: ......[pause]*sob*[WAIT][FIRSTINITIAL]キLet's go to the police station, father...[br]
+
+You have to turn yourself in...[WAIT][pause]かつらい　じけんやったな、[plr][plr][plr][plr]ちゃん。[br]
+You have to turn yourself in...[WAIT][pause]かWhat a difficult case, [plr][plr][plr][plr].[br]
+
+…たかゆきのやつ、あのひみつのへや、みつゆの[br]
+Takayuki must have had that secret room built[br]
+
+ダイヤを　しまっとくために　つくったんやろが
+to hide the diamond he had smuggled over.
+
+[WAIT]Sanma: おもわぬところで、やくに　たったもんや。[br]
+[WAIT]Sanma: Instead, he ended up using it[br]
+
+あそこのおかげで、ホールをとおらずに[br]
+to move the corpse into the vault[br]
+
+きんこしつに　したいを　はこべたのやからな。[WAIT][WAIT]かそして、しんすけや。[br]
+without passing through the hall.[WAIT][WAIT]かThen, about Shinsuke.[br]
+
+しんすけは　たまたま　さつじんげんばを[br]
+He must have witnessed[br]
+
+もくげき　したのやろ。[WAIT][br]
+the the crime.[WAIT][br]
+
+かそれをねたに　たかゆきを　きょうはくした……。[br]
+He used that information to blackmail Takayuki...[br]
+
+そのために　ころされてしまったのや。[WAIT]シ[br]
+And that got him killed, too.[WAIT]シ[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+[br]
+[br]
+
+あ($81)う($81)ち($81)ひ($81)ゆ($81)ん($81)カ($81)ル($81)($7D)($81)ぢ($81)($B5)($81)ド($81)パ($81)[br]
+あ($81)う($81)ち($81)ひ($81)ゆ($81)ん($81)カ($81)ル($81)($7D)($81)ぢ($81)($B5)($81)ド($81)パ($81)[br]
+
+($81)と($82)よ($82)ブ($82)ル($82)ィ($82)($94)($82)($A2)($82)ゴ($82)($E0)($82)($EF)($82)ね($83)ヤ($83)($75)($83)($B0)($83)($D8)($83)６($83)と($84)っ($84)ラ($84)($7B)($84)ぞ($84)($9F)($84)($AF)($84)ゾ($84)($E5)($84)８($84)そがらがスがメが($79)がぢが($C0)が($D4)がせぎほぎ？ぎ($77)ぎ($A2)ぎ($B1)ぎズぎ１ぎりぐミぐずぐ($A8)ぐ($B8)ぐズぐきげらげフげ($7F)げ($97)げ($B4)げ($E6)げせごクご($62)ご($A5)ご($C8)ごパごのざ($4D)ざミざレざ($81)ざだざ($A0)ざ($BE)ざヂざそじコじナじじじ($78)じでじ($A7)じ($B3)じ($D8)じてず。ずフず($7A)ずべずぱず($BD)ず５ずけぜクぜナぜラぜ($80)ぜだぜ($A8)ぜヅぜくぞオぞ($7A)ぞ($BB)ぞジぞ４ぞ４ぞむだアだ($64)だ($A0)だ($BE)だ[pause]だふぢエぢツぢツぢツぢぐぢ[br]
+($81)と($82)よ($82)ブ($82)ル($82)ィ($82)($94)($82)($A2)($82)ゴ($82)($E0)($82)($EF)($82)ね($83)ヤ($83)($75)($83)($B0)($83)($D8)($83)６($83)と($84)っ($84)ラ($84)($7B)($84)ぞ($84)($9F)($84)($AF)($84)ゾ($84)($E5)($84)８($84)そがらがスがメが($79)がぢが($C0)が($D4)がせぎほぎ？ぎ($77)ぎ($A2)ぎ($B1)ぎズぎ１ぎりぐミぐずぐ($A8)ぐ($B8)ぐズぐきげらげフげ($7F)げ($97)げ($B4)げ($E6)げせごクご($62)ご($A5)ご($C8)ごパごのざ($4D)ざミざレざ($81)ざだざ($A0)ざ($BE)ざヂざそじコじナじじじ($78)じでじ($A7)じ($B3)じ($D8)じてず。ずフず($7A)ずべずぱず($BD)ず５ずけぜクぜナぜラぜ($80)ぜだぜ($A8)ぜヅぜくぞオぞ($7A)ぞ($BB)ぞジぞ４ぞ４ぞむだアだ($64)だ($A0)だ($BE)だ[pause]だふぢエぢツぢツぢツぢぐぢ[br]
+
+[br]
+[br]
+
+かなに　しらべましょうか？
+Examine what?
+
+[START]Sanma: どれ　まわそか？
+[START]Sanma: Rotate what?
+
+[START]Sanma: どれから　いく？
+[START]Sanma: Sure, what?
+
+[START]Sanma: どれ　とろか？
+[START]Sanma: Take what?
+
+[START]Sanma: よくわからへんけど　いじょうは　ないみたい。
+[START]Sanma: Nope, nothing weird in here.
+
+[START]Sanma: おれには　さっぱり　わからん。[br]
+[START]Sanma: Don't ask me.[br]
+
+ほんまに　これが　じゅうようなの？
+Are we sure this is important?
+
+[START]Sanma: こんなもん　まわして　どないするんや。
+[START]Sanma: What's the point of rotating that?
+
+[START]Sanma: ほんまに　まわすの？いみ　ないで。
+[START]Sanma: That's kinda pointless, isn't it?
+
+[START]Sanma: [plr]ちゃん！じょーだん　いわんといて、[br]
+[START]Sanma: C'mon, [plr]![br]
+
+たべられるわけ　ないやないか。
+You know I can't eat that!
+
+[START]Sanma: おれが　わるかった。[br]
+[START]Sanma: Sorry, that's my fault.[br]
+
+それだけは　ゆるして　ちょんまげ。
+Please forgive me.
+
+[START]Sanma: とっても　しょうが　あらへん。やめとこ。
+[START]Sanma: I can't do that, sorry.
+
+[START]Sanma: こんなん　とったら　シャレにならんでー。
+[START]Sanma: I like a good joke, but this ain't funny.
+
+[START]Sanma: こいつは　あやしい、なんかあるでー。
+[START]Sanma: There's something fishy about it. 
+
+[START]Sanma: やっと　なかに　はいれましたな。
+[START]Sanma: We're finally inside.
+
+[START]Sanma: とすると、げんばにおちてたコンタクト[br]
+[START]Sanma: This could mean the contact lens we found on the scene may be long to Kuruyo.[br]
+
+くるよのもん　やろか？これは　あやしい。[br]
+This is highly suspicious.[br]
+
+とっとくでえ。
+I'd better hold on to this.
+
+[START]Sanma: ライターつきの　はいざら　やね。
+[START]Sanma: It's an ashtray with its own lighter.
+
+[START]Sanma: おもそうやなあ。
+[START]Sanma: That looks heavy.
+
+[START]Sanma: こんなん　もってくの　いやや。[br]
+[START]Sanma: Nah, I'd rather not.[br]
+
+だいいち　ぽけっとに　はいらん。
+It wouldn't fit my pockets anyway.
+
+[START]Sanma: わりと　ええもんやなあ。
+[START]Sanma: It's one of the good ones.
+
+[START]Sanma: とっても　ええやろか？[br]
+[START]Sanma: Is that... really fine?[br]
+
+………ま、ええか。[br]
+...Oh, whatever.[br]
+
+よしもとはん　もろうときます。
+Thanks for the present, Mr. Yoshimoto.
+
+[START]Sanma: かっこええ。よしもと、ぜいたくしてるなあ。
+[START]Sanma: How luxurious. Yoshimoto lives the good life, huh?
+
+[START]Sanma: ちりひとつ　おちてへんよ。
+[START]Sanma: Not even a speck of dust.
+
+[START]Sanma: どこからも　かかっておらへん。そのうち[br]
+[START]Sanma: Don't touch it.[br]
+
+おんなのこから、かかって　くるやろ。
+I might get a call from a girl.
+
+[START]Phone: ブーー……わたしは　やみのていおうだ。[br]
+[START]Phone: *click* I am the Emperor of Darkness.[br]
+
+わるいことは　いわへん。このじけんから[br]
+Here is some friendly advice.[br]
+
+てを　ひくほうが　ええと　おもうで……ブー
+You should abandon your investigation. *click*
+
+[WAIT]Sanma: やみのていおう？！[br]
+[WAIT]Sanma: The Emperor of Darkness?[br]
+
+こ、これは　きょうはくでんわや！！
+T-This must be a threat!
+
+[WAIT]Sanma: けど、たんていに　きけんはつきもの。[br]
+[WAIT]Sanma: However, danger comes with this job.[br]
+
+やみのていおう　なんてやつのおどしには[br]
+I don't know who this "emperor" is,[br]
+
+ぜったい　まけへんで。……[pause]たぶん。
+but we won't be scared off by his threats![pause] ...Probably!
+
+[START]Sanma: むかしの　じけんの　ファイルや。[br]
+[START]Sanma: They're all files from my old cases.[br]
+
+こんかいの　じけんには　かんけいないやろ。
+They have no relation to our current case.
+
+[START]Sanma: カレンダーなんて、[br]
+[START]Sanma: It's a calendar.[br]
+
+のんびり　みてる　ばあい　ちゃうで。
+This isn't the time to stare at it.
+
+[START]Takayuki: おいおい、わしのへやのもの[br]
+[START]Takayuki: Hey! Quit touching the stuff[br]
+
+かってに　いじらんでくれ。
+in my room!
+
+[START]Takayuki: わしが　すわっとるんじゃぞ。[br]
+[START]Takayuki: Stop that![br]
+
+ええかげんに　しなさい。
+I'm sitting on it!
+
+[START]Sanma: ややややや！[plr]ちゃん！[br]
+[START]Sanma: WHOOOA! [plr], look![br]
+
+ロッカーがうごいてかいだんがあらわれた！[br]
+The locker moved out of the way![br]
+
+ちかに、つうろが　つづいとる！！！
+These stairs lead to an underground path!
+
+[WAIT]Sanma: ここは　はいって　いくっきゃない！！[pause]
+[WAIT]Sanma: Let's see where they lead![pause]
+
+[START]Sanma: へんやで。たなに　ひっついてるで。
+[START]Sanma: How weird. It's stuck to the shelf.
+
+[START]Sanma: あやこさん、ほんまにええの。
+[START]Sanma: Is it fine if we search here, Ms. Ayako?
+
+[WAIT]Ayako: べつに　かまわないけど……
+[WAIT]Ayako: I guess so...?
+
+[WAIT]Sanma: デヘデヘ、このベットには[br]
+[WAIT]Sanma: Heheheh, I think this bed[br]
+
+なんか　ひみつが　ありそうやで。
+hides a secret!
+
+[START]Sanma: おや、こんなところに　ぱんてい　があるで。
+[START]Sanma: Oh my! There's a pair of panties in here!
+
+[START]Sanma: うぐうぐ　きゃわいい　ぱんてい！
+[START]Sanma: Geheheh! What a cute pair of panties!
+
+[WAIT]Ayako: イヤ　はずかしい！だめよ、さんまさん。
+[WAIT]Ayako: T-This is so embarrassing! Don't do that, Mr. Sanma!
+
+[WAIT]Sanma: ごめんね、こんなにいやらしい　おじさんなの。
+[WAIT]Sanma: Sorry. I'm such a pervert.
+
+[START]Sanma: はい、カーテンしめて……ええむーどや。[br]
+[START]Sanma: I'll close the curtains. It'll make a nice atmosphere, you know?[br]
+
+あ、あやこさん、え、ええやろ？
+I-Is that okay with you, Ms. Ayako?
+
+[WAIT]Ayako: いやだ、さんまさんたら、サイテー！！
+[WAIT]Ayako: No! You're the worst, Mr. Sanma!
+
+[WAIT]Sanma: いつも３じ　や。とけいぐらい　うごかしいや。
+[WAIT]Sanma: It's stuck at 3 o'clock. Some clock that is.
+
+[START]Sanma: きんこしつやから　きんこぐらい　あるやろ。
+[START]Sanma: This is a vault, so there is a safe.
+
+[START]Sanma: こじあけた　きずもない。[br]
+[START]Sanma: This wasn't pried open.[br]
+
+はんにんは　どうやって、このきんこから[br]
+How did the culprit manage to[br]
+
+ダイヤを　ぬすんだんやろ？
+steal the diamond from the safe?
+
+[START]Sanma: うん？これは　コンタクトレンズやね。
+[START]Sanma: Hm? This is a contact lens.
+
+[START]Sanma: きんがんようの、ソフトコンタクトや。[br]
+[START]Sanma: It's a soft contact lens for nearsightedness.[br]
+
+はんにんの　のこしたもんやろか？[br]
+Was this left behind by the culprit?[br]
+
+これは　じゅうような　しょうこやでえ。
+Anyway, this is important evidence.
+
+[START]Sanma: よっしゃあ！！とっとくでえ。
+[START]Sanma: Oh yeah! I'm picking this up.
+
+[START]Sanma: なんか　あるで、よんでみっか……[br]
+[START]Sanma: There's a letter inside.[br]
+
+なになに……
+Let's read it...
+
+[WAIT]Sanma: ……あのことをだまっていてほしければ[br]
+[WAIT]Sanma: "If you want me to keep quiet about it,[br]
+
+４がつ８かまでに　１おくえんよういしろ。[br]
+bring me one hundred million yen by April 8th."[br]
+
+たかゆきあての　きょうはくじょう　やあ！！
+It's a threat letter addressed to Takayuki!
+
+[WAIT]Sanma: ４がつ８か？！しんすけがしんだひ　やないか。[br]
+[WAIT]Sanma: April 8th... That's the day Shinsuke died.[br]
+
+おれは　だんだん　わかってきたでえ。
+This is all starting to make sense.
+
+[START]Sanma: なんか　ノブが　ついとる。
+[START]Sanma: There's some kind of knob inside.
+
+[START]Sanma: ドアの　むこうで[br]
+[START]Sanma: I hear something moving[br]
+
+なにか、うごく　おとがする！！！
+from beyond the door!
+
+[START]Sanma: この　しみ………。これは　ち　だよ。[br]
+[START]Sanma: ...Yes, this is blood.[br]
+
+けつえきの　かたまった　やつや。
+It's not fresh.
+
+[START]Sanma: [plr]ちゃん、すぐ　そないなこというて。[br]
+[START]Sanma: What are you talking about, [plr]?[br]
+
+あんなん　しらべて　どないするっちゅうねん。[br]
+What's the point of inspecting that?[br]
+
+ぷっつん　いくで。
+Are you trying to make me mad or something?
+
+[START]Sanma: ああ、あれ。ぼく　もう　もってますよ。[br]
+[START]Sanma: Oh, I already have one of those.[br]
+
+こんど[plr]ちゃんに　やるわ[br]
+You take it, [plr].[br]
+
+……うそ、うそ　もってへん、もってへん。
+...I'm just kidding. Don't take it.
+
+[START]Sanma: なんや　これ？たけちゃんの　しゃしんや。[br]
+[START]Sanma: What's this? A photo of Take-chan?[br]
+
+こんなん　こうしてやる、グシャ　ビリビリ！
+Well, not anymore! *rip* *crumple* *toss*
+
+[WAIT]Sanma: いやー　すまん　すまん[br]
+[WAIT]Sanma: Oh. Uhhh, sorry.[br]
+
+つい　とりみだしてしもうて。
+I kinda lost my cool there.
+
+[START]Sanma: ガチガチの　コンクリートや。
+[START]Sanma: Concrete walls. Very solid.
+
+[START]Sanma: むちゃくちゃ、がんじょうそうでっせ。
+[START]Sanma: They're incredibly sturdy.
+
+[START]Sanma: なんやこれ？！ナンバーロックになってるで。[br]
+[START]Sanma: Hey, look! It's a keypad![br]
+
+まぬけな　やつらやなあ。なんとか　すれば[br]
+Whoever locked us in here must be a moron.[br]
+
+うちがわから　あきそうや。
+We can unlock the door from our side!
+
+[START]Sanma: どくは　はいって　いそうもないけど……[br]
+[START]Sanma: I don't think it's poisoned, but...[br]
+
+[plr]ちゃん　たべる？
+Should I eat this, [plr]?
+
+[START]Sanma: ほんまに、おれがたべるの？[br]
+[START]Sanma: Seriously? Oh well, you only live once...[br]
+
+うーん　おもいきって………ぱくっ！[br]
+*munch* *gulp*[br]
+
+んん？！さらに　なにか　かいてある。
+Hm? There's something written on the bottom of the dish!
+
+[WAIT]Sanma: シローのいったこと　おもいだせ　やて。[br]
+[WAIT]Sanma: It says "Remember what Shiro told you".[br]
+
+シローなんてゆうとったっけ？
+Did he tell us something important?
+
+[START]Sanma: だれぞ　じけんの　かんけいしゃ　おるやろか？
+[START]Sanma: I wonder if there's anything or anyone related to the incident in here?
+
+[START]Sanma: うひゃー！かにかにおおがに！！[br]
+[START]Sanma: Whoa! Now THAT is one big crab![br]
+
+かにかに　かくちがい！
+Our paltry little crab doesn't even compare!
+
+[START]Sanma: ポスターやね。さんまのめいたんてい、[br]
+[START]Sanma: It's a poster.[br]
+
+ぜっさん　はつばいちゅう！！だって。[br]
+"Highly acclaimed game 'Detective Sanma' now on sale!"[br]
+
+………おれのことや。
+...Huh. It's about me.
+
+[START]Sanma: これは　さいきょうせん　や。[br]
+[START]Sanma: That's the Saikyou Line.[br]
+
+さいたまと　しんじゅくを　むすんでいるんや。
+It connects Saitama to Shinjuku.
+
+[START]Sanma: ここや　ここ。まいしゅう　きんようびに[br]
+[START]Sanma: It's a good place.[br]
+
+あらっていいともって　ばんぐみに[br]
+They air good, clean shows[br]
+
+でてるんや。せいけつな　ばんぐみやで。
+every single Friday.
+
+[START]Sanma: えーと、このおんせんは　かたこりに[br]
+[START]Sanma: Apparently these hot springs are great[br]
+
+きくんやて。
+for stiff shoulders.
+
+[WAIT]Sanma: それから　なんだ？……のぞきみげんきんって[br]
+[WAIT]Sanma: It also says that peeping is strictly prohibited...[br]
+
+かいてある。ということは　こりゃ　どっかから[br]
+Which means that there's a way to peep into the women's bath somehow![br]
+
+となりのふろ　のぞけるんやで。グヒグヒ。
+Geheheheh!
+
+[START]Sanma: やったー……み　みえる……でへへへ[br]
+[START]Sanma: Woohoo! Oh yeah![br]
+
+[plr]ちゃん　ギャルがおるで。
+[plr], I see a woman! Geheheheh!
+
+[WAIT]Sanma: うっひゃあ。いろっぽい。[br]
+[WAIT]Sanma: Wowee! She looks sexy![br]
+
+こっちをむけ、こっちを………よし！
+C'mon, c'mon, turn around... YES!
+
+[WAIT]Sanma: うわーー！！す　すごい！[br]
+[WAIT]Sanma: AWESOME![br]
+
+うぐうぐ、でへへへへへ[br]
+Geheheheh![br]
+
+ありがたや、ありがたや、なんまんだぶ…
+Thank you for this generous offer...
+
+[WAIT]Sanma: ほんま　めが　つぶれそうやったわ。[br]
+[WAIT]Sanma: Whew! Any more than that and my eyes would fall off.[br]
+
+なに？[plr]ちゃん　みれんかったって？[br]
+Hm, what's that, PLAYER]? You couldn't see anything?[br]
+
+そりゃ　ざんねんやったなあ。
+Ah, that sucks.
+
+[START]Sanma: これは　りっぱなしなもの　です。
+[START]Sanma: How fancy.
+
+[START]Sanma: かっこええなあ。
+[START]Sanma: So cool.
+
+[START]Sanma: うえから、８５　５５　９０　ってとこやろか。
+[START]Sanma: From the top, her sizes are 85, 55, 90.
+
+[START]Sanma: なかなか　きゃわいいで。
+[START]Sanma: She's cute.
+
+[START]Sanma: うーん　いつみても　ええなあ。
+[START]Sanma: Niiice. I could watch this all day.
+
+[START]Ran: いやらしい　さんまさん。[br]
+[START]Ran: Oh Sanma, you pervert![br]
+
+ほんまに　そんなことするき？
+Do you really want it so much?
+
+[WAIT]Sanma: そこを　なんとか、おねがい！！
+[WAIT]Sanma: Yes, I do! Please!
+
+[WAIT]Sue: うーん…[pause]しょうがないわね。わかったわ。[br]
+[WAIT]Sue: Hmmm... [pause]How about this:[br]
+
+うちらとエアロビクスしょうぶして[br]
+If you defeat us in an aerobics competition,[br]
+
+かったら　ぬいであげる。[pause]はずかしいけど…
+we'll give it to you.[pause] Even though it's so embarrassing...
+
+[WAIT]Sanma: よし、[plr]ちゃん！！きあい　いれてくで！[br]
+[WAIT]Sanma: Great! [plr], give it your all![br]
+
+ぜんまいねずみを　よけて、ボタンで[br]
+Press the button to jump over the windup mouses.[br]
+
+ジャンプするんや。ほな、いくで。[pause][pause]
+Let's do this![pause][pause]
+
+[START]Ran: もう　いやよーん。
+[START]Ran: No, stop it!
+
+[START]Sanma: やったで、おれのかちや！
+[START]Sanma: Alright! I won!
+
+[WAIT]Ran: はずかしいわー。あんまり　みんといて。
+[WAIT]Ran: This is so embarrassing! Please don't stare!
+
+[START]Ran: えっへん、うちらの　かち。[br]
+[START]Ran: Too bad![br]
+
+ざんねん　でした。
+I won!
+
+[WAIT]Sanma: はああ、くたびれもうけや。やれ　やれ。
+[WAIT]Sanma: *sigh* I'm so tired...
+
+[START]Sanma: こりゃ　うまそうや。
+[START]Sanma: They look tasty.
+
+[START]Sanma: うん　うまい。[br]
+[START]Sanma: Delicious.[br]
+
+これで　じけんが　かいけつ　するなら[br]
+Once this case is over,[br]
+
+らくやのになあ。
+they'll taste even better.
+
+[START]Sanma: なに、じかんがたつと、このまったりとした[br]
+[START]Sanma: This is the kind of shop that won't do take out,[br]
+
+あじわいが　なくなるから　もちかえりは[br]
+because the food will lose all of its rich flavor,[br]
+
+だめやと！！なんちゅうみせや。
+or so they'll tell you.
+
+[START]Sanma: めざせ　たこやき　にっぽんいち　やて。[br]
+[START]Sanma: It says "Our goal: best takoyaki in Japan!"[br]
+
+はい　はい　がんばって　ください。
+Best of luck.
+
+[START]Sanma: あしたは　いくよ　くるよのふたりの[br]
+[START]Sanma: Looks like Ikuyo and Kuruyo[br]
+
+しゅつえんに　なっとるでえ。
+are performing tomorrow.
+
+[START]Sanma: こわれてんのや。よしもと　けちやから[br]
+[START]Sanma: It's broken.[br]
+
+しゅうり　せんのや。
+Yoshimoto is a cheapskate, so he won't pay for the repairs.
+
+[START]Sanma: ぶたいいしょう　やがな。[br]
+[START]Sanma: It's just a stage costume.[br]
+
+しょうもないもの　しらべさすんやから。
+Why do you make me examine useless crap?
+
+[START]Sanma: おれんや　ないんやで。
+[START]Sanma: I don't need it.
+
+[START]Sanma: どこかの　みせの　ちらしみたいやで。
+[START]Sanma: It's a leaflet from some kind of store.
+
+[START]Sanma: たこやきやの　たこいちのビラや。[br]
+[START]Sanma: It's a flier for Takoichi, a takoyaki shop.[br]
+
+…げいにんはんには　はんがくサービスやて？[br]
+It says performers pay half the price.[br]
+
+だれかいってるかもしれんねえ。
+Maybe we'll find someone there.
+
+[START]Sanma: ま、シローくんも　ぐっといけや。
+[START]Sanma: C'mon Shiro. Bottoms up! 
+
+[WAIT]Shiro: おおきに。きょうはオフですねん。サブローくんは[br]
+[WAIT]Shiro: Don't mind if I do. It's our day off anyway.[br]
+
+ありまおんせんいってますのや。ぼくは[br]
+Saburo's at the hot springs in Arima.[br]
+
+かねないから　ここでのんでますねん。
+That costs too much for me, I'd rather stay here and drink.
+
+[START]Sanma: もういっぱい　どや？
+[START]Sanma: How about another round?
+
+[WAIT]Shiro: おおきに。ごちそうに　なります。
+[WAIT]Shiro: Sounds good to me.
+
+[START]Sanma: もちかえってもええんやて。[br]
+[START]Sanma: Sure, I don't mind.[br]
+
+もってこ、もってこ。
+Get in my inventory.
+
+[START]Sanma: もうひとつ　もらおうかい。
+[START]Sanma: I'll take another one.
+
+[START]Sanma: なにかのスイッチや。[br]
+[START]Sanma: It's a switch.[br]
+
+おすのと　ちがうかなあ。
+Wanna try pushing it?
+
+[START]Sanma: べんとうばこで　いっぱいや。[br]
+[START]Sanma: It's full of lunchboxes.[br]
+
+でも、みんな　たべおわったあとや。[br]
+But they've all been eaten already.[br]
+
+からばこや。
+They're empty boxes.
+
+[START]Sanma: やや、なにやらまるめた　かみきれがある。[br]
+[START]Sanma: Well well, what do you know?[br]
+
+ライトが　ついてなかったときは[br]
+There's a slip of paper inside.[br]
+
+くらくて　わからんかったんや。
+It was too dark to see it without the lights on.
+
+[START]Sanma: これは、くるよあての　りょうしゅうしょや。[br]
+[START]Sanma: This is a receipt addressed to Kuruyo.[br]
+
+ふーん、くるよさんさいきん　コンタクトを[br]
+Hmm. Apparently she's bought a replacement contact lens[br]
+
+かたほうだけ　かってるんやな。
+for a single eye, recently.
+
+[WAIT]Sanma: どっかで　かたほうだけ　おとしたんやろか？[br]
+[WAIT]Sanma: Did she lose a contact lens?[br]
+
+ま、ええや。[br]
+Oh well.[br]
+
+なんかのさんこうに　なるかもしれん。とっとこ。
+I'll pick it up, it might be useful later.
+
+[START]Sanma: これは　くるよあての　りょうしゅうしょ　やね。[br]
+[START]Sanma: This is a receipt addressed to Kuruyo.[br]
+
+かったもんは！？コンタクトや！！[br]
+What? It's for a contact lens![br]
+
+しかも　じけんの　ふつかごに　かってるで！
+And she bought it two days after the incident!
+
+[WAIT]Sanma: ぶんちんはんの　パソコンや。
+[WAIT]Sanma: It's Bunchin's computer.
+
+[START]Sanma: むずかしそうな　ほんが　ならんでいます。[br]
+[START]Sanma: These are all very complicated books.[br]
+
+さすがぶんちんはん　べんきょうかや。
+Guess Bunchin was the studious type, huh?
+
+[START]Sanma: ああ！こ、これは　まぼろしの……なんや[br]
+[START]Sanma: Ah! This is the fabled book of--[br]
+
+まぼろしの　おんせんのほんや。しょーもない。
+...hot springs. We don't need that.
+
+[START]Sanma: そろばん　８きゅうやって？[br]
+[START]Sanma: There's like 8 of them.[br]
+
+こんなん　ふつう　かざらんでえ。
+Who needs that many?
+
+[START]Sanma: やや！がくぶちの　うしろに　スイッチが…[pause][br]
+[START]Sanma: Oh dear! Behind one of the picture frames there was...[pause][br]
+
+……あらへん　あらへん。
+...nothing. Sorry, bad joke.
+
+[START]Sanma: いまどき　せんぷうき　なんて　ほんま[br]
+[START]Sanma: Who uses electric fans nowadays?[br]
+
+つかっとるのかいな。まわしたら[br]
+It's probably going to break as soon as you rotate it.[br]
+
+ぶっこわれ　そうやな。[plr]ちゃん　やってみる？
+Why don't you try it, [plr]?
+
+[START]Sanma: んん！？ほんだなのうえから[br]
+[START]Sanma: Huh?! A slip of paper fell[br]
+
+かみきれが　おちてきよった。
+from the top of the bookshelf!
+
+[START]Sanma: これは、すみのえ　きょうていじょうの[br]
+[START]Sanma: This is a betting ticket[br]
+
+ふなけん　や。ぶんちんはん　あんなかおして[br]
+from Boat Race Suminoe.[br]
+
+ギャンブルなんて　やってたんやなあ。
+It seems Bunchin was doing some gambling.
+
+[WAIT]Sanma: あたってるかもしらん。[br]
+[WAIT]Sanma: It might be a winning ticket...[br]
+
+もらっといて、あとで　いってみよ。
+Better hold on to it. We'll check it out later.
+
+[START]Sanma: うちがわから　そとを　みるやつでっせ。[br]
+[START]Sanma: It's one of those things that lets you see outside from the inside.[br]
+
+こっちからじゃ　なんも　みえへんよ。
+We can't see anything from here.
+
+[START]Sanma: がんじょう　そうやなあ。
+[START]Sanma: Looks sturdy.
+
+[START]Sanma: でんきのメーターが　いきおいよく[br]
+[START]Sanma: The electricity meter is[br]
+
+くるくる　まわってる！[br]
+spinning like crazy![br]
+
+こりゃ、きょじんのやつ　いえのなかに　おるで。
+That means Kyojin is inside, doesn't it?
+
+[START]Sanma: おしてみるのが　ええんちゃう？($FA)[br]
+[START]Sanma: Why don't we try pushing it?($FA)[br]
+
+[br]
+[br]
+
+びづ($B9)づ($B9)づ($B9)づ($B9)づ($B9)づ($C4)づ($E6)づ８づてで！でチでじで($C2)で($DE)でねどよど°どクどブどワど($A7)ど($B7)ど($B7)ど($EF)どめ($94)ホ($94)ッ($94)($77)($94)ぶ($94)($A8)($94)($B4)($94)バ($94)き($95)ひ($95)ん($95)サ($95)ぞ($95)($9E)($95)ぴ($95)($B5)($95)ダ($95)き($96)て($96)み($96)る($96)。($96)ト($96)($7B)($96)($B1)($96)ゴ($96)($DE)($96)($EF)($96)ぬ($97)る($97)タ($97)($76)($97)ぐ($97)($A2)($97)($CD)($97)($E1)($97)２($97)な($98)る($98)ぶ($98)じ($98)($97)($98)($C3)($98)ヂ($98)ピ($98)むばハばびば($C2)ば($DE)ば($FA)ばきび。びャび($96)びぴび($C3)びゾび($E3)び３びすぶをぶソぶュぶばぶ($C3)ぶ９ぶのべオべハべミべロべ($83)べでべ($B3)べグべ($DE)べ[br]
+びづ($B9)づ($B9)づ($B9)づ($B9)づ($B9)づ($C4)づ($E6)づ８づてで！でチでじで($C2)で($DE)でねどよど°どクどブどワど($A7)ど($B7)ど($B7)ど($EF)どめ($94)ホ($94)ッ($94)($77)($94)ぶ($94)($A8)($94)($B4)($94)バ($94)き($95)ひ($95)ん($95)サ($95)ぞ($95)($9E)($95)ぴ($95)($B5)($95)ダ($95)き($96)て($96)み($96)る($96)。($96)ト($96)($7B)($96)($B1)($96)ゴ($96)($DE)($96)($EF)($96)ぬ($97)る($97)タ($97)($76)($97)ぐ($97)($A2)($97)($CD)($97)($E1)($97)２($97)な($98)る($98)ぶ($98)じ($98)($97)($98)($C3)($98)ヂ($98)ピ($98)むばハばびば($C2)ば($DE)ば($FA)ばきび。びャび($96)びぴび($C3)びゾび($E3)び３びすぶをぶソぶュぶばぶ($C3)ぶ９ぶのべオべハべミべロべ($83)べでべ($B3)べグべ($DE)べ[br]
+
+べちぼもぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼかまわってへんなあ。[br]
+べちぼもぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼサぼかThey're not moving.[br]
+
+こんどは　ほんまに　おらへんのやろか。
+Maybe he's really not in, this time.
+
+[START]Sanma: なか　みえへんわ。
+[START]Sanma: I can't see inside.
+
+[START]Sanma: こんなもん、すぐ　わかるでしょ、[br]
+[START]Sanma: Do you really need to check?[br]
+
+これは　ふるしんぶん　ですよ。
+Those are just some old newspapers.
+
+[START]Sanma: ビニールのひもで　しばられとる。
+[START]Sanma: They're held together by a vinyl string.
+
+[START]Sanma: かたーく　しばられとる。[br]
+[START]Sanma: It's tied very tightly.[br]
+
+ほどけそうに　ないで。
+That's not coming off.
+
+[START]Sanma: タイガースゆうしょうって　かいてある。[br]
+[START]Sanma: It says the Tigers have won.[br]
+
+いったい　いつのしんぶんや。
+Just how old is this issue?
+
+[START]Sanma: しんぶんのあいだに[br]
+[START]Sanma: There's something between[br]
+
+なんか　はさまってるでえ。
+the newspapers.
+
+[WAIT]Sanma: なに！？……アフリカのほしは　たしかに[br]
+[WAIT]Sanma: What...? "The Star of Africa[br]
+
+いただいた。やみのていおうより……だと！[br]
+is in my possession. ~ Emperor of Darkness"[br]
+
+これは　はんこうせいめいや！！
+This is a claim of responsibility!
+
+[WAIT]Sanma: すると、シローがやみのていおう？はんにんは[br]
+[WAIT]Sanma: Does this mean that Shiro is the Emperor of Darkness?[br]
+
+シロー？でも　なんで　ここに[br]
+But if that's the case,[br]
+
+はんこうせいめいが　あるんや？
+why would this claim be hidden here?
+
+[WAIT]Sanma: ともかく　じゅうような　しょうこや。[br]
+[WAIT]Sanma: Anyway, this is a major piece of evidence.[br]
+
+とっとくでえ。
+Let's hold on to it.
+
+[START]Sanma: [plr]ちゃん、こりゃ　ファンサービスや。[br]
+[START]Sanma: [plr], this is what we call "fanservice".[br]
+
+あやこちゃんの　かんがえてること[br]
+Let's SEA what Ms. Ayako[br]
+
+わかるんやでえ。かにかに　どこかに。
+is thinking!
+
+[START]Sanma: ええかげんで　もどろ。[br]
+[START]Sanma: Alright, let's go back.[br]
+
+
+
+[START]Ayako: ちゃーむポイントは　め　ね。
+[START]Ayako: I think my eyes are my best feature.
+
+[START]Ayako: むねには　じしんないの。ぐすん。
+[START]Ayako: I wish I had a bigger chest... *sob*
+
+[START]Ayako: きょうは　ピンクよ。うふ！
+[START]Ayako: They're pink today! *giggle*
+
+[START]Ayako: *sigh* I wish my legs were more slender...
+
+[START]Chatha: そのコブラに　きょうみ　あるか？[br]
+[START]Chatha: You like cobra?[br]
+
+むかしの　くろう　わすれないため　ほってある。[br]
+I had it carved to remember past.[br]
+
+へびつかいで　かね　ためた　ある。
+I was snake charmer once.
+
+[START]Chatha: そんなことすると　ぶつぞー。
+[START]Chatha: It is statue of Buddha. Do not touch.
+
+[START]Chatha: これも　しょうぱいどうぐ。さわるのだめ。[br]
+[START]Chatha: Do not touch. I need this for work.[br]
+
+うらないなら　してあげる。ふくぎょうで[br]
+I do divination on the side.[br]
+
+やってるあるね。ふーむ。
+I give you sample.
+
+[WAIT]Chatha: ………あかしや　さんま。[br]
+[WAIT]Chatha: ...Sanma Akashiya.[br]
+
+じょなんのそうが　あるでよー[br]
+You have many troubles with women.[br]
+
+おんなずき　なおしたほうが　いいある。
+Reduce your lust and your luck will improve.
+
+[WAIT]Chatha: ……[plr][plr][plr][plr]さん。きんけつびょう　あるね。[br]
+[WAIT]Chatha: ...[plr][plr][plr][plr], you have trouble with money.[br]
+
+こんな　じけん　おうのやめて　ほんぎょうに[br]
+Stop focusing on this case[br]
+
+せいだしたほうが　いいある。
+and return to your real job.
+
+[START]Sanma: よんとりー　オールドだよーん。
+[START]Sanma: It's a Moontory Old.
+
+[START]Sanma: のみすぎ　や。
+[START]Sanma: I'm going to get drunk that way.
+
+[START]Sanma: ぎょーざ　やで。しかし　こんなクラブで[br]
+[START]Sanma: It's gyoza.[br]
+
+ぎょーざなんて　だすかいな。
+I'm surprised they'd serve it here.
+
+[START]Emiko: いやーーーん。えっち。
+[START]Emiko: Oh, you perv!
+
+[START]Emi: ううーーーん。いいわ
+[START]Emi: Hmmm... I like that.
+
+[START]Norio: アフリカのほしを　だしてもらおうか。[br]
+[START]Norio: Give me the Star of Africa.[br]
+
+じぶんら　つかまっとるんやでえ。
+Don't forget you're my prisoners.
+
+[START]Sanma: ながい　しっぽや。[br]
+[START]Sanma: It's got a long tail.[br]
+
+それから　ちいさい　あたま、[br]
+Then there's that small head,[br]
+
+きょうあくな　めだまが　ひかってる。
+and a mean-looking, shiny eyeball.
+
+[START]Sanma: くる　くる　くる。なんも　おきへん。
+[START]Sanma: I'm rotating it, but nothing's happening.
+
+[START]Norio: じぶんら　とらわれのみ　なんやで。
+[START]Norio: Don't forget you're my prisoners.
+
+[START]Sanma: ガラスだま　みたいやなあ。[br]
+[START]Sanma: I think it's made of glass.[br]
+
+なんか　ぐらぐらしとるで。
+It doesn't look too stable.
+
+[START]Sanma: おっと　めだまがとれたわ！なかは　くうどうや。[br]
+[START]Sanma: Hey, the eyeball came off![br]
+
+ぴったり、アフリカのほしが　はいりそうでっせ。[br]
+The cavity looks like a perfect fit for the Star of Africa.[br]
+
+たぶん　ここに　いれるんでっしゃろ。
+I think it's supposed to go in here.
+
+[START]Sanma: どうやったら　とれるんやろ？
+[START]Sanma: How are we supposed to take it out?
+
+[START]Sanma: もう　とれてるでえ。
+[START]Sanma: We already took it out.
+
+[START]Sanma: かたい　しっぽや。
+[START]Sanma: A sturdy tail.
+
+[START]Sanma: ぐる　ぐる　まわりよる。[br]
+[START]Sanma: Spinning that tail.[br]
+
+てごたえ　おもいでえ。
+Ouph... It's harder than I thought.
+
+[START]Sanma: ぐる　ぐる　まわりよる。てごたえ　おもいで。[br]
+[START]Sanma: Spinning that tail. [br]
+
+うん？ピューマのなかで　なんか[br]
+Ouph... It's harder than I thought.[br]
+
+ぐいん　ぐいん　いいだした。
+Hm? I hear something inside the Puma...
+
+[START]Sanma: とっても　とれへん。
+[START]Sanma: We can't take it out.
+
+[START]Sanma: きょうあくな　かおや。
+[START]Sanma: What a scary face.
+
+[START]Sanma: まわせへんよ。
+[START]Sanma: It won't rotate.
+
+[START]Sanma: こんなもん、とれそうもないで。
+[START]Sanma: It doesn't look like it'll come off.
+
+[START]Sanma: べつに　どくやく　はいってるようには[br]
+[START]Sanma: It doesn't seem like it's poisoned.[br]
+
+みえへん。
+Probably.
+
+[START]Sanma: ほな、のませてもらいます。ほんま[br]
+[START]Sanma: I'll have one.[br]
+
+しゃべりすぎて[br]
+I talk all the time,[br]
+
+のどが　からから　なんや。
+so I get very thirsty.
+
+[START]Sanma: でっかい　こおりのかたまりや。[br]
+[START]Sanma: It's a big lump of ice.[br]
+
+ガチガチに　こおってるで。[br]
+Hm? What's this?[br]
+
+なんや　これ？なかに　なんか　はいってるで。
+I think there's something inside.
+
+[START]Sanma: れいぞうこに　くっついてて[br]
+[START]Sanma: It's stuck to the fridge.[br]
+
+とれましえーん。
+I can't take it out.
+
+[START]Sanma: こいつは　あやしい………わけないなあ。
+[START]Sanma: This is... totally normal.
+
+[START]Sanma: たいしたほんは　ありまへんで。
+[START]Sanma: There sure are a lot of books here.
+
+[START]Sanma: うん？まぼろしの……ちゃうわ、[br]
+[START]Sanma: Hm? This is the legendary--[br]
+
+まぼろしの　えっちなほん　や。いらんわい。
+...Porn book. I don't need that one.
+
+[START]Sanma: えきのそばの　クレジットやろか？
+[START]Sanma: Probably rentals from the store near the station.
+
+[START]Sanma: ええと、ぬれたつぼみ？ひとづまおとし？[br]
+[START]Sanma: Let's see... "The Wet Flower"? "Dirty Wives"?[br]
+
+……おげれつな　ビデオばっかしや。
+...These sure are some movies.
+
+[START]Sanma: うらべ　くねこの　わかいころの[br]
+[START]Sanma: A poster of Kumeko Urabe[br]
+
+ポスターやで。[br]
+from her younger days.[br]
+
+すごい　しゅみ　してるな。
+He sure has taste.
+
+[START]Sanma: [plr]ちゃんも　そんな　しゅみ？
+[START]Sanma: I didn't know you were into that, [plr].
+
+[START]Sanma: シローのやつ　じぶんのしゃしん[br]
+[START]Sanma: Shiro put up a picture of himself.[br]
+
+かざってるんやで。
+What a weirdo.
+
+[START]Sanma: やや、やみのていおう　というサインと[br]
+[START]Sanma: T-This is signed "Emperor of Darkness"[br]
+
+ばつ３つのマークや！！[br]
+and it has three x-marks![br]
+
+すると　やっぱり……
+Could it really be...?
+
+[START]Sanma: まあ　もってく　ひつようはないやろ。
+[START]Sanma: Hmm... No, I don't think we need to take it with us.
+
+[START]Sanma: パンツばっかし　はいっとるで。
+[START]Sanma: It's full of underpants.
+
+[START]Sanma: やすいテレビや。シローのやつ[br]
+[START]Sanma: It's a cheap model.[br]
+
+びんぼうせいかつ　してるんやなあ。
+Shiro's clearly not living the good life.
+
+[START]Sanma: はだかでんきゅうや。わ、わびしい……
+[START]Sanma: A naked light bulb. I feel lonely just looking at it...
+
+[START]Sanma: きんぴかのくさりが　すててあるでえ。
+[START]Sanma: There's a golden chain in here.
+
+[START]Sanma: あああー！このくさり　くるよがひろった[br]
+[START]Sanma: Whoa! I can't believe it![br]
+
+ペンダントに　ぴったり　あうで。
+It matches perfectly the pendant Kuruyo found!
+
+[WAIT]Sanma: このペンダント、シローのものだとすると[br]
+[WAIT]Sanma: If the pendant belonged to Shiro,[br]
+
+あのばん、シローは　きんこしつに[br]
+then it means he went inside the vault[br]
+
+しのびこんで　いるんや。
+that evening.
+
+[WAIT]Sanma: しょうこひんとして　とっとくで。[br]
+[WAIT]Sanma: This is very important evidence.[br]
+
+ペンダントといっしょに[br]
+We should show it, alongside the pendant,[br]
+
+シローに　つきつけてやる。
+to Shiro.
+
+[START]Sanma: さて、どうしましょか？
+[START]Sanma: Alright. What do we do?
+
+[START]Sanma: お、おれ、こんなすごいもん[br]
+[START]Sanma: I-I've never touched something[br]
+
+もつの　はじめてや。
+so valuable before.
+
+[START]Yasushi: おお　そうか。ほんじゃあ　ええとこ　いこか。[br]
+[START]Yasushi: That so? Then I'll take you somewhere nice.[br]
+
+とうきょうのクラブや。これから　タクシーで[br]
+It's a club in Tokyo.[br]
+
+くりだすで。
+We'll take a taxi.
+
+[WAIT]Sanma: げー？これから　タクシーで　とうきょうまで？[br]
+[WAIT]Sanma: You want to go to Tokyo from here with a taxi?[br]
+
+さすがししょう　ごうかいですな。[br]
+That's really like you, Yasushi.[br]
+
+でも　きょうは　ええですわ。
+But uhh, maybe next time.
+
+[WAIT]Kani: そうか。ほなら　こんど　とうきょういったら[br]
+[WAIT]Kani: Too bad. You should check it out if you're ever in Tokyo.[br]
+
+いっぺん　いってみい。クラブ　ポピーいうんや。[br]
+It's called Club Poppy.[br]
+
+のりおも　いりびたってるらしいで。
+Norio visits that place a lot.
+
+[START]Sanma: まだ　あたたかい！しんでから　じかん[br]
+[START]Sanma: It's still warm... He must have died very recently![br]
+
+たってないはずや。……あたりまえやな。
+...Well, duh.
+
+[START]Tonton: ぼくトントン。[br]
+[START]Tonton: I'm Tonton.[br]
+
+きんこしつでは　なにかみつかった？
+Did you find anything in the vault?
+
+[WAIT]Sanma: ああ、びっくりした！[br]
+[WAIT]Sanma: Whoa! That plush just talked![br]
+
+ぬいぐるみ、なんか　ゆうたで。
+I did not expect that.
+
+[START]Sanma: これは　かきおきや！
+[START]Sanma: I think this is a suicide note!
+
+[START]Sanma: なになに………[br]
+[START]Sanma: Let's see...[br]
+
+ダイヤをぬすんでいるところを　ぶんちんさんに[br]
+"I was stealing the diamond, but I was seen by Bunchin...[br]
+
+みられて、ついころしてしまった……
+So I killed him..."
+
+[WAIT]Sanma: せけんのひとに　もうしわけたたんから[br]
+[WAIT]Sanma: "This burden is too much for me to bear...[br]
+
+しんで　おわびする……やて！[br]
+I can only atone with my death..."[br]
+
+これは　いしょ　や！！…とっとこ。
+This is a suicide note! ...Let's take it with us.
+
+[WAIT]Sanma: けど、しんすけのやつ　ほんまに[br]
+[WAIT]Sanma: That said,[br]
+
+じさつ　したんやろか？[br]
+is this really a suicide?[br]
+
+どうも　あやしい。
+There's something off about it.
+
+[START]Sanma: しょうしんしょうめいの　ほんものや。
+[START]Sanma: It's the real deal.
+
+[START]Sanma: もう　そんなことせんでも　ええんとちゃいますか
+[START]Sanma: That's quite enough of that.
+
+[START]Sanma: かにかにどこかに？
+[START]Sanma: Let's SEA what we can find!
+
+[START]Sanma: われた　はいざらが　のこってるだけや。
+[START]Sanma: Only the ashtray is left.
+
+[START]Sanma: よし！ほな　とっとくでえ！！
+[START]Sanma: Okay, let's pick it up!
+
+[START]Sanma: はんにんの　ものやろか？[br]
+[START]Sanma: Could this belong to the criminal?[br]
+
+……あずかっとくで！
+Let's keep it in custody!
+
+[START]Sanma: れいぞうこに　かんぺきに　くっついとる。[br]
+[START]Sanma: It's stuck to the fridge.[br]
+
+だめや。まわらん。
+It won't rotate at all.
+
+[START]Sanma: ちゅうしょうがって　やつや。[br]
+[START]Sanma: Some kind of... abstract art.[br]
+
+[plr][plr][plr][plr]くん　きみに　わかるかね。
+Do you get that stuff, [plr][plr][plr][plr]?
+
+[START]Sanma: うちんなかに　こんなふざけたもの　たてて…[br]
+[START]Sanma: Why would anyone want something like that?[br]
+
+たいがいに　せいよ！
+It's just absurd.
+
+[START]Sanma: たいようのとう　だっていうてんのに、[br]
+[START]Sanma: That's just the Tower of the Sun.[br]
+
+[plr]ちゃん、ちょっと　しつこいんちゃう？
+Does it bother you that much, [plr]?
+
+[START]Sanma: いいかげんにしてや　めんどくさい。[br]
+[START]Sanma: Ugh, what a bother.[br]
+
+たのむで　[plr]ちゃん、まじめに　そうさしよ。
+Can't you take this more seriously, [plr]?
+
+[START]Sanma: きみ　よっぽど　ひねくれてるな。[br]
+[START]Sanma: Do you like wasting my time or something?[br]
+
+くものこと　しりたいんやったら[br]
+If you want to know more about clouds,[br]
+
+きしょうちょうにでも　といあわせたら？
+ask a weatherman.
+
+[START]Sanma: ボウリングなんか　しとうない。[br]
+[START]Sanma: No time to play bowling.[br]
+
+はんにんさがしが　さきや。
+Finding the culprit comes first.
+
+[START]Sanma: [plr]ちゃん　ひらがなぐらい　よめるやろ？[br]
+[START]Sanma: Can't you even read hiragana, [plr]?[br]
+
+く　い　だ　お　れ　って　かいてあるんや。
+That says "ku-i-da-o-re".
+
+[START]Sanma: ゆーシティって　ゆう　えきビルなんや。
+[START]Sanma: The You City building. As You can see, it's right in front of the station.
+
+[START]Sanma: ビル！！
+[START]Sanma: BILL!
+
+[START]Sanma: ソース　だそーす。
+[START]Sanma: According to my SAUCES, that bottle contains soy.
+
+[START]Sanma: [plr]ちゃんも　おけしょうして[br]
+[START]Sanma: Would you improve with some makeup,[br]
+
+きれいに　なる？
+[plr]?
+
+[START]Sanma: カメラに　きまっとるがな。
+[START]Sanma: That's a camera, duh.
+
+[START]Sanma: うたぐりぶかい　おひとやなあ。[br]
+[START]Sanma: Are you really that paranoid?[br]
+
+こんなん　ただのライトですよ。
+That's just a light.
+
+[START]Sanma: おおさかめいぶつ　たこやき　だって。
+[START]Sanma: That reads "Takoyaki, Osaka's specialty".
+
+[START]Sanma: どっかでも　みたことあるような　やつやな。
+[START]Sanma: I feel like I've seen this somewhere before.
+
+[START]Sanma: さんだんカラーボックスってやつや。[br]
+[START]Sanma: It's a 3-layer color box shelf.[br]
+
+１９８０えん　ぐらいかな。
+Costs about 1980 yen.
+
+[START]Sanma: スイッチやね。どうするんやろ。
+[START]Sanma: It's a switch. Who knows what it does?
+
+[START]Sanma: ディスクを　いれるとこ　みたい。
+[START]Sanma: This is where disks go, I think.
+
+[START]Sanma: あかん、おれ、こいつは　にがてなんや。[br]
+[START]Sanma: Ah, dang it. I'm not good with these contraptions.[br]
+
+どれ　さわっていいか、わけわからん。
+I don't even know where to start!
+
+[START]PLAYER: 
+[START]PLAYER: 

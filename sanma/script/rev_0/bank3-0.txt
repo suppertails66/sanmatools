@@ -1,0 +1,1457 @@
+// Script 0x6000-0x0 (0x6100)
+[dummy_FF]
+// [br]
+// 
+[br]
+
+#END()
+
+// Script 0x6000-0x1 (0x6102)
+[Sanma_05]
+// もってるもの　どないしよか？[end]
+What to do with our in-[br]
+ventory?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2 (0x6112)
+[Sanma_05]
+// これは、ここでつこうたら　もったいないで。[end]
+There's no point usin'[br]
+it here.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x3 (0x6129)
+[Shiro_28]
+// げぴっ！まずい……[dlg]<$04>
+(gulp)[br]
+Uh-oh...
+
+[dlg]<$04>
+
+#END()
+
+// Script 0x6000-0x4 (0x6135)
+[Sanma_0F]
+// じぶんのへやにあった　このくさり。[br]
+// げんばにおちとった　ペンダントと　ぴったり[br]
+// おうとるんやで！！これ、じぶんのやろ！[dlg]<$49>
+This chain in your room[br]
+is a perfect match for[br]
+the pendant at the scene[br]
+of the crime. So, the[br]
+pendant belongs to you!
+
+[dlg]<$49>
+
+#END()
+
+// Script 0x6000-0x5 (0x6173)
+[Sanma_05]
+// あとにしよ、あとにしよ。[end]
+Let's do that later.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x6 (0x6181)
+[Sanma_05]
+// どれ　つかうのや？[end]
+What're we usin'?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x7 (0x618C)
+[Sanma_05]
+// どれ　しらべるのや？[end]
+What're we lookin' at?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x8 (0x6198)
+[Sanma_05]
+// どれ　みせるのや？[end]
+What're we showin'?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x9 (0x61A3)
+
+
+#END()
+
+// Script 0x6000-0xA (0x61A3)
+[Sanma_05]
+// さつじんげんばの　しゃしんやね。[br]
+// [pl][pl]ちゃん　どこしらべるのや？[br]
+// カニカーソルで　えらんでや。[end]
+This's a photo of the[br]
+crime scene. If y'see[br]
+somethin' interesting,[br]
+use the Crab Cursor to[br]
+select it.
+
+[end]
+
+#END()
+
+// Script 0x6000-0xB (0x61D4)
+[Sanma_05]
+// きんがんようの　ソフトコンタクト　みたいやで。[end]
+It's a soft contact[br]
+lens for nearsighted-[br]
+ness.
+
+[end]
+
+#END()
+
+// Script 0x6000-0xC (0x61ED)
+[Sanma_05]
+// くるよあての　コンタクトレンズの[br]
+// りょうしゅうしょや！[pause][br]
+// [pl][pl]ちゃん　もうわすれたの？[end]
+It's the receipt for a[br]
+contact lens addressed[br]
+to Kuruyo![pause][br]
+Don't tell me you for-[br]
+got already, [plr]-bud?
+
+[end]
+
+#END()
+
+// Script 0x6000-0xD (0x621A)
+[Sanma_05]
+// かんさいのおわらい　６００ねんのでんとうが[br]
+// あつまっているという　まぼろしの　ねたほんや。[end]
+This's the legendary[br]
+joke book containing[br]
+600 years of Kansai's[br]
+comical history.[br]
+
+[end]
+
+#END()
+
+// Script 0x6000-0xE (0x6249)
+[Sanma_05]
+// すみのえボートレースじょうって、かいてあるで。[end]
+There's {Boat Race Su-[br]
+minoe} written on it.
+
+[end]
+
+#END()
+
+// Script 0x6000-0xF (0x6262)
+[Sanma_05]
+// うまそうな　たこやきや。[end]
+Tasty takoyaki.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x10 (0x6270)
+[Sanma_05]
+// ばつじるしが　みっつかいてある　きんぴかの[br]
+// あくしゅみな　ペンダントや。[end]
+A glitterin' pendant[br]
+with three X-marks.[br]
+In real bad taste, if[br]
+y'ask me.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x11 (0x6296)
+[Sanma_05]
+// パソコンに　いれる　ディスクや。[br]
+// ファミコンようやないで。[end]
+This is the kinda disk[br]
+that goes in computers,[br]
+not in a Famicom.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x12 (0x62B5)
+[Sanma_05]
+// ダイヤは　たしかにいただいた。[br]
+// やみのていおうより　とかいてある。[end]
+It says, {The diamond[br]
+is in my possession.[br]
+- Emperor of Darkness}.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x13 (0x62D8)
+[Sanma_05]
+// シローのいえのカギや。[end]
+This's the key to Shi-[br]
+ro's house.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x14 (0x62E5)
+[Sanma_05]
+// きんめっきした　くさりやで。[end]
+It's a gold-plated[br]
+chain.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x15 (0x62F5)
+[Sanma_05]
+// ガスはたっぷり　はいっています。[end]
+It's got plenty of gas.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x16 (0x6307)
+[Sanma_05]
+// てのなかで　キラキラ　ひかってます。ワオ。[end]
+Wow...Look at it...So[br]
+shiny...
+
+[end]
+
+#END()
+
+// Script 0x6000-0x17 (0x631E)
+[Sanma_05]
+// これは…[pause]みつゆ　のけいやくしょ　や！！[br]
+// なまえのぶぶんがきりとられてるけど…[pause][br]
+// …たぶん[pause]あいつらのやろ、わかる？[pl][pl]ちやん。[end]
+This's...[pause]a smuggling[br]
+contract! The names've[br]
+been removed,[pause]but...[pause]I[br]
+reckon we can guess,[br]
+right, [plr]-bud?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x18 (0x6360)
+[Sanma_05]
+// たかゆき　あてのきょうはくじょうや。[br]
+// いちおくえん　よういせい　とかいてある。[end]
+A threat letter a-[br]
+ddressed to Takayuki.[br]
+It's askin' for one[br]
+hundred million yen.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x19 (0x6389)
+[Sanma_05]
+// ダイヤをぬすんだとき、ぶんちんさんにみつかって[br]
+// つい　ころしてしもうた。[dlg]<$1A>
+{I was stealing the[br]
+diamond, but I was seen[br]
+by Bunchin. So I killed[br]
+him.}
+
+[dlg]<$1A>
+
+#END()
+
+// Script 0x6000-0x1A (0x63B0)
+[Sanma_05]
+// せけんのひとに　もうしわけがたたないので[br]
+// しんでおわびします。しんすけ。[br]
+// と、かいてあるの、もう　わすれたの？[end]
+{This burden is too[br]
+much for me to bear.[br]
+I can only atone with[br]
+my death. - Shinsuke}[br]
+Forget that already?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x1B (0x63E9)
+[Sanma_05]
+// まだ　なんにももっていませんよ。[end]
+We're not carryin' any-[br]
+thing yet.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x1C (0x63FB)
+[Sanma_05]
+// カタカナで　スハダクラブとかいてありまっせ。[pause][br]
+// ぶんちんはん、しぬまえに　かきのこしたのや。[br]
+// はんにんの　てがかりやろか。[end]
+That says {SHDClub}.[pause][br]
+Bunchin musta wrote it[br]
+'fore dyin'. It's gotta[br]
+be a clue 'bout the[br]
+criminal.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x1D (0x643A)
+[Sanma_05]
+// ひさんな　さつじんげんばや。[end]
+This is so tragic.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x1E (0x644A)
+[Saburo_2D]
+// さんまさん、こんどは　なに[br]
+// してくれはるんでっか？[br]
+// なんか　してくれへんと　ぼく　いやでっせ。[end]
+My shoulders are stiff[br]
+again. Can't you do[br]
+something about it be-[br]
+fore we talk?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x1F (0x647B)
+[Sanma_0F]
+// あんた　さいきんコンタクトかってるやないけ！[br]
+// きんこしつに　コンタクトおとしたんは[br]
+// あんたやろ！それで　かたほう　かったんやな！[dlg]<$4F>
+You've bought a contact[br]
+lens recently, haven't[br]
+you? You lost one in[br]
+the vault, so you only[br]
+had to buy one!
+
+[dlg]<$4F>
+
+#END()
+
+// Script 0x6000-0x20 (0x64BE)
+[Ayako_46]
+// わたしは　しんすけさんが　じさつしたなんて[br]
+// とっても　しんじられない。[br]
+// きっと　これもなにかの　いんぼうだわ。[dlg]<$23>
+I can't believe that[br]
+Shinsuke would actually[br]
+kill himself. It has to[br]
+be some kind of scheme.
+
+[dlg]<$23>
+
+#END()
+
+// Script 0x6000-0x21 (0x64F8)
+[Ayako_46]
+// それ、ぶんちんさんが　もっていたような[br]
+// きがします。[end]
+That's something Bun-[br]
+chin owned, I think.[br]
+
+[end]
+
+#END()
+
+// Script 0x6000-0x22 (0x6514)
+[Ayako_46]
+// わたしには　よく　わかりません。[br]
+// あなたたちでもっていて　[br]
+// そうさの　さんこうに　してください。[end]
+I don't really know[br]
+what to say. You should[br]
+probably hold on to it.[br]
+It might prove useful[br]
+in your investigation.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x23 (0x6546)
+[Ayako_46]
+// なにかの　さんこうに　なるとおもうの。わたしは[br]
+// いらないし、おとうさまにも　わたさないで[br]
+// もっていてくだすって　けっこうよ。[end]
+I think it might prove[br]
+useful during your in-[br]
+vestigation. I don't[br]
+need it, and Father[br]
+shouldn't mind.
+
+
+[end]
+
+#END()
+
+// Script 0x6000-0x24 (0x6586)
+[Kuruyo_50]
+// ペンダントのほうが　だいじやないの？[end]
+I thought the pendant[br]
+was more important?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x25 (0x659A)
+[Shinsuke_23]
+// なんじゃい、それ。[br]
+// わいは　そんなもん　なーんもしらへんで。[end]
+What's that?[br]
+I have no idea.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x26 (0x65BA)
+[Shiro_28]
+// それ　うちのカギやないか！[br]
+// さんまさん！[br]
+// いったいどういうこってす？[end]
+Hey, that's the key to[br]
+my house![br]
+Sanma! Where did you[br]
+get that?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x27 (0x65DE)
+[Hanshin_1E]
+// さあ　なんでっしゃろ。[br]
+// どうせ　わしには　わかりまへんがな。[end]
+Hm, I see.[br]
+I don't really get it,[br]
+though.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x28 (0x65FE)
+
+
+#END()
+
+// Script 0x6000-0x29 (0x65FE)
+[Kyoshin_41]
+// おれが　はっけんしたときのまんまや。[br]
+// ぶんちんさん、もういきたえてるようやったし[br]
+// おれ、なんもできんかったわ。[end]
+Yes, that's what I saw[br]
+when I found Bunchin.[br]
+It was too late when I[br]
+had arrived -- he was[br]
+already dead.[br]
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2A (0x6637)
+[Kyoshin_41]
+// わるいけど　おれには　かんけいないよ。[end]
+That has nothing to do[br]
+with me.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2B (0x664C)
+[Yasushi_3C]
+// おおそれこそ、まぼろしのねたほんや。[br]
+// きょじんが　ぬすんでおったんかい。[br]
+// しょうもない　やつや。[end]
+Ah, the fabled joke[br]
+book. So Kyojin stole[br]
+it?[br]
+Pathetic.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2C (0x667E)
+[Saburo_2D]
+// へえー、これがそうでっか？[br]
+// でも、ぼくは　かんけいおまへんがな。[end]
+Wow.[br]
+This has nothing to do[br]
+with me, though.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2D (0x66A0)
+[Kyoshin_41]
+// できごころやったんです………。[end]
+I acted impulsively...
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2E (0x66B1)
+[Shiro_28]
+// こうなると　ぶんちんにいさんも　あわれや。[end]
+It's hard to see Bun-[br]
+chin like this...
+
+[end]
+
+#END()
+
+// Script 0x6000-0x2F (0x66C8)
+[Shiro_28]
+// コンタクトだけは　つかってはいかん　というのが[br]
+// うちの　じいさんの　ゆいごんです。[end]
+My grandpa's last words[br]
+were {Never wear con-[br]
+tact lenses}.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x30 (0x66F3)
+[Shiro_28]
+// げっ　ペンダントって、そ　それ……[br]
+// むぐっ　しりまへん。なーーんも　しりまへん。[end]
+T-The pendant? I-I,[br]
+uhh...[br]
+(gulp) I don't know[br]
+anything about it. Yup.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x31 (0x671D)
+[Kyoshin_41]
+// わかりません。ねたほん　とっただけですよ。[end]
+I don't know. I only[br]
+took the joke book.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x32 (0x6734)
+[Shiro_28]
+// それ、バベルのでんせつ　かいな？[br]
+// ちがうなら、いりまへん。[end]
+Is it related to Babel?[br]
+If it's not, I don't[br]
+need it.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x33 (0x6753)
+[Shiro_28]
+// ええ　しなもんでんな。[br]
+// ぼく　ほしいわ。[end]
+Nice. I want one too.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x34 (0x6769)
+[Computer_78]
+// それに　チャタがいってた　やみのていおうって[br]
+// いうはなしも　きになる………。[dlg]<$35>
+There's another thing[br]
+he said that worries[br]
+me...That {Emperor of[br]
+Darkness}.
+
+[dlg]<$35>
+
+#END()
+
+// Script 0x6000-0x35 (0x6792)
+[Computer_78]
+// あしたのパーティで　あえるはずだ。[br]
+// ちょくせつ　といただしてみよう。[br]
+// わるいことは　やめさせなければ……[dlg]<$73>
+He should be at the[br]
+party tomorrow. I'll[br]
+try to confront him. I[br]
+have to stop him from[br]
+doing more bad deeds...
+
+[dlg]<$73>
+
+#END()
+
+// Script 0x6000-0x36 (0x67C9)
+[Norio_19]
+// ダイヤを　だせっちゅうとんのに。[br]
+// おまえらは　つかまってんの！どあほ！！[end]
+I told you, bring out[br]
+the diamond![br]
+Don't you get it?![br]
+You're my prisoners!
+
+[end]
+
+#END()
+
+// Script 0x6000-0x37 (0x67EF)
+[Sanma_05]
+// [pl][pl]ちゃん、ナイス！[br]
+// ひもが　きれたで。[br]
+// これで　しんぶん　なんぼでもとれるで。[end]
+Great idea, [plr]-bud![br]
+There, the string's[br]
+broken. Now we can get[br]
+the newspapers.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x38 (0x6819)
+[Sanma_05]
+// これで　ドアも　あくやろ。[end]
+Okay, I unlocked the[br]
+door.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x39 (0x6828)
+[Yasushi_3C]
+// なんじゃい、そりゃ　わしがおとした[br]
+// レースやないけ。[br]
+// そんなもん　みとうない。はよーいね。[pause][end]
+Urgh. That's from the[br]
+race I lost. I don't[br]
+want to remember it.[br]
+Get out of here.[pause]
+
+[end]
+
+#END()
+
+// Script 0x6000-0x3A (0x6858)
+[Yasushi_3C]
+// きゅうに　そないなもの　みせられたかて[br]
+// なんのこっちゃ　わからん。[end]
+Why are you showing me[br]
+that? I don't get it.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x3B (0x687B)
+[Norio_14]
+// ほ　ほんまに　くれるんか？[dlg]<$4C>
+A-Are you really giving[br]
+it to me?
+
+[dlg]<$4C>
+
+#END()
+
+// Script 0x6000-0x3C (0x688B)
+[Shiro_28]
+// もう　ゆうことは　ありまへん[end]
+I don't have anything[br]
+else to say.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x3D (0x689B)
+[Ayako_46]
+// これは　ぶんちんさんが[br]
+// はだみはなさずもっていた　ほんです。[br]
+// いのちのつぎに　だいじだと　いっていました。[end]
+This is the book Bun-[br]
+chin always kept close[br]
+to him. He told me he[br]
+valued it almost as[br]
+much as his life.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x3E (0x68D2)
+[Takayuki_32]
+// や　やみのていおうじゃと！ふざけとる。[end]
+T-The Emperor of Dark-[br]
+ness?! What a bunch of[br]
+nonsense!
+
+[end]
+
+#END()
+
+// Script 0x6000-0x3F (0x68E7)
+[Takayuki_32]
+// おう、それじゃ！それこそわしのアフリカのほし。[br]
+// しんすけがとっていったのか。さあかえしてくれ。[end]
+Yes, that's it! The[br]
+Star of Africa! So[br]
+Shinsuke really stole[br]
+it...Now, give it back.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x40 (0x6918)
+[Takayuki_32]
+// しんすけのやつ　なにも　しななくても[br]
+// わしは　ゆるして　やったのに………[end]
+Darn it, Shinsuke.[br]
+I would have forgiven[br]
+you if you hadn't gone[br]
+that far...
+
+[end]
+
+#END()
+
+// Script 0x6000-0x41 (0x693E)
+[Takayuki_32]
+// そうか、わしのてに　もどってきたか。[br]
+// これで　じけんも　えんまんかいけつ　じゃな。[dlg]<$42>
+Oh, you've brought it[br]
+back. I guess the case[br]
+is solved, then.
+
+[dlg]<$42>
+
+#END()
+
+// Script 0x6000-0x42 (0x696A)
+[Takayuki_32]
+// しんすけも　あわれなやつよのう。ダイヤを[br]
+// ぬすんで、ついさつじんを　おかしてしまった[br]
+// のじゃからな………[dlg]<$43>
+That Shinsuke.[br]
+First he steals the[br]
+diamond, and then he[br]
+murders an innocent[br]
+man...
+
+[dlg]<$43>
+
+#END()
+
+// Script 0x6000-0x43 (0x69A1)
+[Takayuki_32]
+// いや　さんまくん、[pl][pl][pl][pl]くん　ほんとに[br]
+// ごくろうじゃった。これで　ぶんちんも[br]
+// うかばれるじゃろう……ほな。[dlg]<$44>
+Good work, Sanma and[br]
+[plr][plr][plr][plr]. Now Bunchin will[br]
+be able to rest in[br]
+peace.[br]
+Farewell.
+
+[dlg]<$44>
+
+#END()
+
+// Script 0x6000-0x44 (0x69DA)
+[Sanma_0A]
+// ほな　さいなら[end]
+Farewell.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x45 (0x69E3)
+[Shiro_28]
+// やみのていおう？こんなもんぼくしらんで。[end]
+The Emperor of Dark-[br]
+ness? No, I don't know[br]
+anything about that.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x46 (0x69F9)
+[Shiro_28]
+// なんですかそれ？[dlg]<$48>
+What's that?
+
+[dlg]<$48>
+
+#END()
+
+// Script 0x6000-0x47 (0x6A04)
+[Kuruyo_50]
+// やったー！うちの　だいこうぶつや。[br]
+// さんまちゃん、ありがとう。[end]
+Oh, I love those![br]
+Thanks, Sanma.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x48 (0x6A25)
+[Sanma_0F]
+// このペンダントとじぶんのへやにあった[br]
+// くさり、ぴったりやないか！[dlg]<$49>
+This pendant is a per-[br]
+fect match for the[br]
+chain we found in your[br]
+room!
+
+[dlg]<$49>
+
+#END()
+
+// Script 0x6000-0x49 (0x6A48)
+[Shiro_28]
+// しまった。そこまでばれとったか。[br]
+// はっきりいって　ぼくはにげます。[pause][end]
+Darn it. You found out[br]
+that much...I guess I[br]
+only have one choice[br]
+now.[br]
+Run away![pause]
+
+[end]
+
+#END()
+
+// Script 0x6000-0x4A (0x6A6C)
+[Takayuki_32]
+// しらん、しらん！そんなもんしらんよ。[br]
+// それが　わたしのものとでも　いうのかね。[br]
+// しっけいな！！いいかげんにしたまえ！[end]
+I don't know ANYTHING[br]
+about it![br]
+Are you saying I'm ly-[br]
+ing?! How dare you?![br]
+Show some respect!!
+
+[end]
+
+#END()
+
+// Script 0x6000-0x4B (0x6AA8)
+[Saburo_2D]
+// そうそう、そのペンダント、シローのいえで[br]
+// みたこと　あるようなきが　しますわ。[end]
+Oh, that pendant?[br]
+I think I saw something[br]
+similar in Shiro's[br]
+house.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x4C (0x6AD1)
+[Sanma_05]
+// やっぱり　やめとこ。[br]
+// あやこさんに　おこられるわ。[end]
+Naw, let's stop.[br]
+Ayako'll get mad.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x4D (0x6AEC)
+[Takayuki_32]
+// そのようなものは　いっさい　しらん。[end]
+I don't know anything[br]
+about it.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x4E (0x6B00)
+[Kuruyo_50]
+// うん、うちはコンタクトあたらしくしたけど[br]
+// それが　どうか　したの？[end]
+Yes, I've bought a new[br]
+contact lens.[br]
+What about it?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x4F (0x6B23)
+[Sanma_0F]
+// じけんのばん、あのきんこしつで[br]
+// なに　しとったんや！[br]
+// もう、はくじょうせいや。[dlg]<$53>
+You were doing some-[br]
+thing inside the vault[br]
+that evening, weren't[br]
+you?![br]
+Admit it!
+
+[dlg]<$53>
+
+#END()
+
+// Script 0x6000-0x50 (0x6B4D)
+[Sanma_0F]
+// このコンタクト　あの　きんこしつに[br]
+// おちていたんやで。これじぶんのやろ。それで[br]
+// コンタクトあたらしく　かったんやな！[dlg]<$4F>
+We found this contact[br]
+lens inside the vault.[br]
+This is yours, isn't[br]
+it? That's why you had[br]
+to buy a new one!
+
+[dlg]<$4F>
+
+#END()
+
+// Script 0x6000-0x51 (0x6B8A)
+
+
+#END()
+
+// Script 0x6000-0x52 (0x6B8A)
+[Kuruyo_50]
+// わあー！うちのだいこうぶつ。[br]
+// さんまちゃん、　おおきに。[br]
+// ほら、これがひろったペンダントや。[end]
+Wow! I love these![br]
+Thanks, Sanma. Okay,[br]
+here's the pendant.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x53 (0x6BBA)
+[Kuruyo_50]
+// そやったの………[br]
+// わかったわ　ほな　あのばんのこと[br]
+// もう　みんな　いうわ。[end]
+...You're right.[br]
+Okay. I'll tell you ev-[br]
+erything about what[br]
+happened that evening.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x54 (0x6BE1)
+[Hanshin_1E]
+// げげ、[pause]これは！！さいきんきょじんくんが[br]
+// もってくる　ねたが　みんなのってる。[end]
+Oh my gosh![pause][br]
+These are all the jokes[br]
+Kyojin has been using!
+
+[end]
+
+#END()
+
+// Script 0x6000-0x55 (0x6C0A)
+[Ikuyo_4B]
+// さあ　だれのやろ。[br]
+// くるよちゃんも　きんがんやけど…。[end]
+I don't know who this[br]
+might belong to. I[br]
+mean, Kuruyo is near-[br]
+sighted, but...
+
+[end]
+
+#END()
+
+// Script 0x6000-0x56 (0x6C27)
+[Ikuyo_4B]
+// さんまちゃん、ごめん。[br]
+// うちには　よう　わからんわ。[end]
+I'm sorry, Sanma. I[br]
+don't really know what[br]
+to say about this.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x57 (0x6C43)
+
+
+#END()
+
+// Script 0x6000-0x58 (0x6C43)
+[Kuruyo_50]
+// かわいそうに。[end]
+Poor guy.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x59 (0x6C4C)
+[Kuruyo_50]
+// さ、さあだれのやろ。うちもコンタクト[br]
+// してるけど　そんなの　しらんで。[end]
+W-Who knows who that[br]
+belongs to? I also wear[br]
+contacts, but that's[br]
+not mine.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x5A (0x6C71)
+
+
+#END()
+
+// Script 0x6000-0x5B (0x6C71)
+[Kuruyo_50]
+// みせられても　うちには　なんも　わからんわ。[end]
+I don't understand why[br]
+you're showing me this.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x5C (0x6C89)
+
+
+#END()
+
+// Script 0x6000-0x5D (0x6C89)
+[Sanma_05]
+// みせたいもんが　あるんやけど………[dlg]<$5E>
+I wanted to show you[br]
+something...
+
+[dlg]<$5E>
+
+#END()
+
+// Script 0x6000-0x5E (0x6C9D)
+[Kyoshin_41]
+// みとうない、みとうない。[end]
+I don't want to see it.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x5F (0x6CAB)
+
+
+#END()
+
+// Script 0x6000-0x60 (0x6CAB)
+
+
+#END()
+
+// Script 0x6000-0x61 (0x6CAB)
+[Chatha_37]
+// おおう、それある。それこそ、アフリカのほし。[br]
+// して、ピューマは　ありんすか？[end]
+Oh yes, that is Star of[br]
+Africa.[br]
+You also have Puma?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x62 (0x6CD3)
+[Sanma_0F]
+// これは、みつゆの　けいやくしょ　やろ！！[dlg]<$63>
+This is a contract for[br]
+a smuggling operation!
+
+[dlg]<$63>
+
+#END()
+
+// Script 0x6000-0x63 (0x6CEA)
+[Chatha_37]
+// それ　なにあるか。にほんごわかりませーん。[end]
+Forgive, me no speak[br]
+Japan.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x64 (0x6D01)
+[Emiko_55]
+// なーにー　それ。[end]
+What's that?
+
+[end]
+
+#END()
+
+// Script 0x6000-0x65 (0x6D0B)
+[Emi_5A]
+// それよりもさー。いいこと　しよ。[end]
+Forget about that![br]
+Let's do something...[br]
+{nice}!
+
+[end]
+
+#END()
+
+// Script 0x6000-0x66 (0x6D1D)
+[Norio_19]
+// そう、それや　それでええんや。[br]
+// かわりに　ええことをおしえたる。[br]
+// そうさの　さんこうになるやろ。[dlg]<$67>
+Yes, that's it. Let me[br]
+tell you something in[br]
+exchange. It'll be use-[br]
+ful for your investiga-[br]
+tion.
+
+[dlg]<$67>
+
+#END()
+
+// Script 0x6000-0x67 (0x6D50)
+[Norio_19]
+// あのじけんのばん、わいはみたんや。ぶんちんは[br]
+// きんこしつに　いったんやない。ホールをでて[br]
+// たかゆきのへやに　むかったんや。[dlg]<$68>
+The day of the inci-[br]
+dent, Bunchin never en-[br]
+tered the vault. He[br]
+left the hall and went[br]
+for Takayuki's room.
+
+[dlg]<$68>
+
+#END()
+
+// Script 0x6000-0x68 (0x6D90)
+[Norio_19]
+// ……それでなぜか　[pause]きんこしつで[br]
+// したいとなって　はっけん　されたんや。[dlg]<$69>
+This raises a ques-[br]
+tion...Why would his[br]
+body be inside the[br]
+vault, then?
+
+[dlg]<$69>
+
+#END()
+
+// Script 0x6000-0x69 (0x6DB7)
+[Sanma_0F]
+// せやけど…[pause]たかゆきのへやからは[br]
+// ホールをとおらんと[br]
+// きんこしつに　いけんはずや。[dlg]<$78>
+As you know,[pause] it's im-
+possible to get to the[br]
+vault without walkin'[br]
+through the hall.
+
+[dlg]<$78>
+
+#END()
+
+// Script 0x6000-0x6A (0x6DE3)
+[Norio_19]
+// ほな、がんばって　たんてい　せいよ。[br]
+// さらばじゃ！[pause][pause][end]
+I'll leave the rest of[br]
+the detective work to[br]
+you.[br]
+Bye bye![pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x6000-0x6B (0x6E00)
+[Norio_19]
+// そうゆうことは[br]
+// ナゾをといてからにしろ！[end]
+Save that for AFTER you[br]
+solve the riddle!
+
+[end]
+
+#END()
+
+// Script 0x6000-0x6C (0x6E16)
+[Sanma_05]
+// うん。ぴったり　はいりよった。[br]
+// けど、なんもおきへん。どないしたんやろ。[end]
+Yup. Fits perfectly.[br]
+Nothin's happenin',[br]
+though. Maybe we needta[br]
+do somethin' else.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x6D (0x6E3C)
+[Computer_82]
+// ピーーピッピッピッ。[dlg]<$6E>
+Computer: (beep) (beep)[br]
+(beep)
+
+[dlg]<$6E>
+
+#END()
+
+// Script 0x6000-0x6E (0x6E49)
+[Computer_82]
+// パスワード？[br]
+// カーソルデ、カードヲエランデ[br]
+// ボタンデ　メクッテクダサイ。[end]
+PASSWORD?[br]
+SELECT CARD WITH CURSOR[br]
+AND PRESS BUTTON TO[br]
+FLIP.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x6F (0x6E6F)
+[Sanma_05]
+// やったーー！ぶんちんはんが　でてきた。[br]
+// [pause]スペード、ハート、ダイヤ、クラブ……[br]
+// スハダクラブ　いうのはこのことだったんや。[dlg]<$70>
+Woohoo! Look, it's Bun-[br]
+chin![pause]Spades, Hearts,[br]
+Diamonds and Clubs...So[br]
+that's what {SHDClub}[br]
+meant.
+
+[dlg]<$70>
+
+#END()
+
+// Script 0x6000-0x70 (0x6EAF)
+[Computer_78]
+// ……きょう　とうきょうのチャタという[br]
+// ほうせきしょうのところで　たいへんなことを[br]
+// きいてしまった。[dlg]<$71>
+I heard something awful[br]
+from Chatha, that jew-[br]
+eler from Tokyo.
+It seems that person is[br]
+a smuggler.
+
+[dlg]<$71>
+
+#END()
+
+// Script 0x6000-0x71 (0x6EE3)
+[Computer_78]
+// あのひとが　みつゆなんてことを　してるなんて。[br]
+// チャタは　きっと　ぼくを　あのひとの　みうち[br]
+// だと　おもって　くちをすべらしたのだろう。[dlg]<$34> Chatha[br]
+Chatha seems convinced[br]
+that I am part of that[br]
+person's organization.[br]
+He let it slip while he[br]
+was talking.
+
+[dlg]<$34>
+
+#END()
+
+// Script 0x6000-0x72 (0x6F2A)
+[Sanma_0F]
+// たいへんや。ぶんちんはんパソコンに[br]
+// にっきを　つけとったんや！！[dlg]<$73>
+Wouldya believe it?[br]
+Bunchin wrote his diary[br]
+in his computer!
+
+[dlg]<$73>
+
+#END()
+
+// Script 0x6000-0x73 (0x6F4D)
+[Sanma_0F]
+// ぶんちんはん　みつゆのことをしったんで[br]
+// ころされたのか………？[dlg]<$74>
+So Bunchin got murdered[br]
+'cause he discovered a[br]
+smugglin' operation...?
+
+[dlg]<$74>
+
+#END()
+
+// Script 0x6000-0x74 (0x6F6F)
+[Sanma_0F]
+// でも、この　あのひと　ってゆうのはだれやろ？[br]
+// すると……やはり……[dlg]<$75>
+But who's this {per-[br]
+son} he mentioned?[br]
+Could it be...?
+
+[dlg]<$75>
+
+#END()
+
+// Script 0x6000-0x75 (0x6F93)
+[Sanma_0F]
+// [pl][pl]ちゃん！ともかく　とうきょうの[br]
+// チャタっていう　ほうせきしょう　にも[br]
+// あたって　みたほうが　ええかもね。[end]
+Anyhoo, [plr]-bud![br]
+We oughta go to Tokyo[br]
+and see what this jew-[br]
+eler, Chatha's, got to[br]
+say.
+
+
+[end]
+
+#END()
+
+// Script 0x6000-0x76 (0x6FCB)
+
+
+#END()
+
+// Script 0x6000-0x77 (0x6FCB)
+[Sanma_05]
+// だれに　みせるんですか？[br]
+// ここには　だれもいませんよ。[end]
+How're we s'pposed to[br]
+show anything to any-[br]
+body? Ain't no one[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x78 (0x6FE8)
+[Norio_19]
+// それを　よくかんがえて　みるんやな。[br]
+// それと、もうひとつ。おみやげを　やろう。[br]
+// ほら、このけいやくしょ　や。もってき。[dlg]<$6A>
+Think really hard about[br]
+it. Oh, and let me give[br]
+you a little gift, too:[br]
+a contract.[br]
+Here you go.
+
+[dlg]<$6A>
+
+#END()
+
+// Script 0x6000-0x79 (0x7026)
+[Chatha_37]
+// それなにあるか？[br]
+// わたし　しらにゃーでよう。[end]
+What is that?[br]
+I know nothing.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x7A (0x703E)
+
+
+#END()
+
+// Script 0x6000-0x7B (0x703E)
+
+
+#END()
+
+// Script 0x6000-0x7C (0x703E)
+
+
+#END()
+
+// Script 0x6000-0x7D (0x703E)
+[Norio_14]
+// なんじゃいそれは。[br]
+// おれには　かんけいないわ。[end]
+What's that supposed to[br]
+be?[br]
+It has nothing to do[br]
+with me.
+
+[end]
+
+#END()
+
+// Script 0x6000-0x7E (0x7057)
+[Sanma_05]
+// なんや　これ、しっぱいしたんか？[br]
+// しんけいすいじゃく　みたいになってんのか？[br]
+// もういっぺん　やってみるか。[end]
+Guess we messed up. Is[br]
+this like Concentra-[br]
+tion?[br]
+Wanna try again?
+
+[end]
+
+#END()
+

@@ -1,0 +1,1438 @@
+// Script 0x0-0x0 (0x100)
+[dummy_FF]
+// [br]
+// 
+[br]
+
+#END()
+
+// Script 0x0-0x1 (0x102)
+[Sanma_05]
+// こわくて、どつけへんよ。[end]
+No way, I'm too scared.
+
+[end]
+
+#END()
+
+// Script 0x0-0x2 (0x110)
+[Sanma_0F]
+// わな　やったんや！[br]
+// とじこめられてしもうた！！[end]
+Oh no![br]
+It was a trap!
+
+[end]
+
+#END()
+
+// Script 0x0-0x3 (0x129)
+[Ayako_46]
+// さんまさん、[plr][plr][plr][plr]さん、はじめまして。[br]
+// わたしが、あやこです。[br]
+// じけんのことを　おはなしします。[dlg]<$04>
+Nice to meet you, Mr.[br]
+Sanma and [plr][plr][plr][plr].[br]
+My name is Ayako.[br]
+I'd like to talk about[br]
+the incident.
+
+[dlg]<$04>
+
+#END()
+
+// Script 0x0-0x4 (0x15D)
+[Ayako_46]
+// あのばん　パーティがはじまって[br]
+// ３じかんほど　すぎたころでした。[dlg]<$05>
+It was during the eve-[br]
+ning, about three hours[br]
+after the party had[br]
+started.
+
+[dlg]<$05>
+
+#END()
+
+// Script 0x0-0x5 (0x180)
+[Ayako_46]
+// …たいへんだ！ぶんちんさんがしんでる！って[br]
+// こえがきこえてきました。[dlg]<$06>
+That's when I heard[br]
+someone yell, {It's[br]
+terrible! Bunchin has[br]
+been murdered!}[br]
+
+[dlg]<$06>
+
+#END()
+
+// Script 0x0-0x6 (0x1A5)
+[Ayako_46]
+// あわてて　こえのしたほうにいってみると[br]
+// ぶんちんさんが　かわりはてたすがたで……[dlg]<$07>
+I hurried to the spot[br]
+I heard the voice come[br]
+from, and that's when I[br]
+saw Bunchin's body...
+
+[dlg]<$07>
+
+#END()
+
+// Script 0x0-0x7 (0x1D0)
+[Ayako_46]
+// これが　げんばのしゃしんです。[br]
+// そうさの　さんこうに　してください。[dlg]<$08>
+This is a photo of the[br]
+scene of the crime.[br]
+Please use it as refer-[br]
+ence during your inves-[br]
+tigation.
+
+[dlg]<$08>
+
+#END()
+
+// Script 0x0-0x8 (0x1F5)
+[Sanma_05]
+// わかりました。[br]
+// ぜったい、はんにんを　つかまえてみせます。[end]
+Understood.[br]
+Don't worry, we'll[br]
+catch that murderer[br]
+sure thing!
+
+[end]
+
+#END()
+
+// Script 0x0-0x9 (0x214)
+[Sanma_0F]
+// そんなことしてる　ばあいやない。[br]
+// ここは　じゅうよう　やで。[end]
+This ain't the time for[br]
+that! We gotta focus!
+
+[end]
+
+#END()
+
+// Script 0x0-0xA (0x234)
+[Sanma_05]
+// ほな　[plr][plr]ちゃん　そうさを　はじめましょ！[end]
+Alright, [plr]-bud, let's[br]
+get this investigation[br]
+movin'!
+
+[end]
+
+#END()
+
+// Script 0x0-0xB (0x24B)
+[Sanma_05]
+// よしもとの　いえの　ホールや。[end]
+This's the hall of Yo-[br]
+shimoto's mansion.
+
+[end]
+
+#END()
+
+// Script 0x0-0xC (0x25C)
+[Sanma_05]
+// おれの　じむしょ　やでー。[end]
+This here's my office.
+
+[end]
+
+#END()
+
+// Script 0x0-0xD (0x26B)
+[Sanma_05]
+// たかゆきのへや　や。[end]
+This's Takayuki's room.
+
+[end]
+
+#END()
+
+// Script 0x0-0xE (0x277)
+[Sanma_05]
+// あやこさんのへや　や。[end]
+This's Ayako's room.
+
+[end]
+
+#END()
+
+// Script 0x0-0xF (0x284)
+[Sanma_05]
+// ここが、もんだいのきんこしつや。[end]
+This's that notorious[br]
+vault.
+
+[end]
+
+#END()
+
+// Script 0x0-0x10 (0x296)
+[Sanma_05]
+// このべっそうに　こんなへやがあったんや！！[br]
+// わっ　ゆかに　ち　のあとがあるで。[end]
+Who'da known this man-[br]
+sion's got a secret[br]
+room?[br]
+Buh! There's blood on[br]
+the floor!
+
+[end]
+
+#END()
+
+// Script 0x0-0x11 (0x2BF)
+[Sanma_05]
+// せんりがおかや。[end]
+This's Senrigaoka.
+
+[end]
+
+#END()
+
+// Script 0x0-0x12 (0x2C9)
+[Sanma_05]
+// どうとんぼり　や。[end]
+This's Dotonbori.
+
+[end]
+
+#END()
+
+// Script 0x0-0x13 (0x2D4)
+[Sanma_05]
+// しんじゅくでっせ。[end]
+This's Shinjuku.
+
+[end]
+
+#END()
+
+// Script 0x0-0x14 (0x2DF)
+[Sanma_05]
+// ありまおんせん　やで。[end]
+This's Arima Onsen.
+
+[end]
+
+#END()
+
+// Script 0x0-0x15 (0x2EC)
+[Sanma_05]
+// すみのえの　ボートレースじょうや。[end]
+This's Boat Race Sumi-[br]
+noe.
+
+[end]
+
+#END()
+
+// Script 0x0-0x16 (0x2FF)
+[Sanma_05]
+// スタジオカメダや。[end]
+This's Studio Kameda.
+
+[end]
+
+#END()
+
+// Script 0x0-0x17 (0x30A)
+[Sanma_05]
+// たこいちやで。[end]
+This's Takoichi.
+
+[end]
+
+#END()
+
+// Script 0x0-0x18 (0x313)
+[Sanma_05]
+// かげつの　がくや　や。[end]
+This's Kagetsu's dressing room.
+
+[end]
+
+#END()
+
+// Script 0x0-0x19 (0x320)
+[Sanma_05]
+// いざかや　みどりでっせ。[end]
+This's Bar Midori.
+
+[end]
+
+#END()
+
+// Script 0x0-0x1A (0x32E)
+[Sanma_05]
+// ここは、まいあさテレビや。[end]
+This's TV Maiasa.
+
+[end]
+
+#END()
+
+// Script 0x0-0x1B (0x33D)
+[Sanma_05]
+// ぶんちんはんのへや[br]
+// よう　せいりされています。[end]
+This is Bunchin's room.[br]
+Everything's in order,[br]
+seems like.
+
+[end]
+
+#END()
+
+// Script 0x0-0x1C (0x356)
+[Sanma_05]
+// きょじんのいえ　のまえやで。[end]
+We're in fronta Kyo-[br]
+jin's place.
+
+[end]
+
+#END()
+
+// Script 0x0-0x1D (0x366)
+[Sanma_05]
+// シローのいえ　のまえやで。[end]
+We're in fronta Shiro's[br]
+place.
+
+[end]
+
+#END()
+
+// Script 0x0-0x1E (0x375)
+[Sanma_05]
+// このへんで　きょじん　はんしんが[br]
+// まんざい　してるはずや。[end]
+Kyojin and Hanshin[br]
+oughta be doin' their[br]
+manzai act 'round here.[br]
+
+[end]
+
+#END()
+
+// Script 0x0-0x1F (0x394)
+[Sanma_05]
+// ぶきみな　ほうせきしょうやなあ。[end]
+That's a danged spooky[br]
+jewelry store.
+
+[end]
+
+#END()
+
+// Script 0x0-0x20 (0x3A6)
+[Sanma_05]
+// クラブ　ポピーや。[end]
+This's Club Poppy.
+
+[end]
+
+#END()
+
+// Script 0x0-0x21 (0x3B1)
+[Norio_19]
+// さすが　さんまや。よく　だっしゅつできたな。[br]
+// ここは、じつは　わいのアジト　なんや。[br]
+// そして　わいがやみのていおう　や。[dlg]<$C6>
+I see you escaped as[br]
+expected, Sanma! This[br]
+is my secret lair. As[br]
+you may know, I'm the[br]
+Emperor of Darkness.
+
+[dlg]<$C6>
+
+#END()
+
+// Script 0x0-0x22 (0x3F0)
+[Sanma_05]
+// あんがい　かたづいてるなあ。[end]
+It's cleaner than I ex-[br]
+pected.
+
+[end]
+
+#END()
+
+// Script 0x0-0x23 (0x400)
+[Sanma_0F]
+// ダイヤもってくの　わすれとるで。[end]
+We forgot to pick up[br]
+the diamond.
+
+[end]
+
+#END()
+
+// Script 0x0-0x24 (0x412)
+[Sanma_05]
+// だれ　さがしましょか？[end]
+Who're we lookin' for?
+
+[end]
+
+#END()
+
+// Script 0x0-0x25 (0x41F)
+[Shinsuke_23]
+// おや、さんちゃんに　[plr][plr]ちゃん[br]
+// こりゃ　きぐうやなあ。[dlg]<$26>
+Hello, San and [plr].[br]
+Fancy meeting you here.
+
+[dlg]<$26>
+
+#END()
+
+// Script 0x0-0x26 (0x43D)
+[Sanma_05]
+// しんすけ！　おまえにあいたかったのや。[end]
+Shinsuke! I've been[br]
+meanin' to see you.
+
+[end]
+
+#END()
+
+// Script 0x0-0x27 (0x452)
+[Sanma_05]
+// [plr][plr]ちゃん！[pause][br]
+// これから　ゆうこと　ちゃんと　めもしといてや。[dlg]<$E3>
+[plr]-bud![pause][br]
+You gotta write down[br]
+what I tell you.
+
+[dlg]<$E3>
+
+#END()
+
+// Script 0x0-0x28 (0x474)
+[Sanma_05]
+// ここには　おらへんみたいやでえ。[end]
+Don't seem like any-[br]
+body's here.
+
+[end]
+
+#END()
+
+// Script 0x0-0x29 (0x486)
+[Sanma_0F]
+// おっ！[plr][plr][plr][plr]ちゃん[br]
+// いま　ひめいが　きこえなかった？[br]
+// あそこの　いえや！いってみよ！[pause][end]
+Ah! Y'hear that, [plr][plr][plr][plr]?[br]
+That sounded like a[br]
+scream![br] It came[br]
+from that house. Get[br]
+movin'![pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x2A (0x4B4)
+[Sanma_05]
+// みあたらんで。[end]
+Naw, nowhere to be[br]
+seen.
+
+[end]
+
+#END()
+
+// Script 0x0-0x2B (0x4BD)
+[Saburo_2D]
+// シローのいえ　さぐってみなはれ。[br]
+// これが　シローのいえのカギです。[end]
+You should search his[br]
+house. Here, this is[br]
+the key to his front[br]
+door.
+
+[end]
+
+#END()
+
+// Script 0x0-0x2C (0x4E0)
+[Yasushi_3C]
+// おまえ　なかなか　やるやんけ。[br]
+// やくそくや。おしえたろ。[dlg]<$2E>
+You're pretty good.[br]
+
+[dlg]<$2E>
+
+#END()
+
+// Script 0x0-0x2D (0x4FF)
+[Sanma_05]
+// うーん、おちゃめさん！[br]
+// だれも　いないじゃない。[end]
+Hey there![br]
+...There's nobody here.
+
+[end]
+
+#END()
+
+// Script 0x0-0x2E (0x519)
+[Yasushi_3C]
+// じつはな　ぶんちんが　だいじにしていた[br]
+// まぼろしのねたほん　ちゅうのが[br]
+// じけんいらい　ゆくえふめい　らしいんや。[dlg]<$30>
+Apparently, Bunchin's[br]
+fabled book of jokes[br]
+disappeared right after[br]
+the incident.
+
+[dlg]<$30>
+
+#END()
+
+// Script 0x0-0x2F (0x554)
+[Sanma_05]
+// どつく　あいてが　おらへんよ。[end]
+Ain't nobody to punch.
+
+[end]
+
+#END()
+
+// Script 0x0-0x30 (0x565)
+[Yasushi_3C]
+// まぼろしのねたほん　いうのは、ぜったいに[br]
+// うける　おわらいのねたを　あつめた　ほんや。[br]
+// おおさかに　むかしからつたわっとるというもんや[dlg]<$31>
+Legend says the book's[br]
+jokes are impossible to[br]
+not laugh at. They've[br]
+been handed down in[br]
+Osaka since antiquity.
+
+[dlg]<$31>
+
+#END()
+
+// Script 0x0-0x31 (0x5AB)
+[Yasushi_3C]
+// そのねたを　さいきん、きょじん　はんしんが[br]
+// つこうてるいうんや。それで　スランプから[br]
+// だっしゅつ　したらしい………[dlg]<$32>
+I hear Kyojin and Han-[br]
+shin use those very[br]
+jokes now. That's how[br]
+they made it out of[br]
+their bad period...
+
+[dlg]<$32>
+
+#END()
+
+// Script 0x0-0x32 (0x5E7)
+[Yasushi_3C]
+// あのほんは　このよに[br]
+// いっさつしか　ないんやで……。[br]
+// どや？なにか　ありそうやろ。[end]
+There is only one sin-[br]
+gle copy of that book[br]
+in existence.[br]
+Well? How's that for[br]
+information?
+
+[end]
+
+#END()
+
+// Script 0x0-0x33 (0x612)
+[Sanma_05]
+// すまん、[plr][plr][plr][plr]ちゃん。[br]
+// めも　とるの　ふとくい　なんや。[br]
+// だれか　ごくいを　おしえてくれんかなあ…。[end]
+Sorry, [plr][plr][plr][plr].[br]
+I'm no good at takin'[br]
+notes...[br]
+Wish somebody'd learn[br]
+me how to do it...
+
+[end]
+
+#END()
+
+// Script 0x0-0x34 (0x647)
+[Sanma_05]
+// [plr][plr]ちゃん　わがままだから。　こんなときだけ[br]
+// ぼくに　なんかさそうと　おもって。[br]
+// うーん、いじわる　キライ。[end]
+You're sure selfish,[br]
+[plr]-bud.[br]
+D'you only talk to me[br]
+when you need help?[br]
+You're so mean.
+
+[end]
+
+#END()
+
+// Script 0x0-0x35 (0x67F)
+[Norio_19]
+// シローのどじで　しっぱいしたが[br]
+// わいがアフリカのほしを　てにいれたかったのは[br]
+// こだいのひほうのためや。[dlg]<$CB>
+Shiro may have failed[br]
+me, but the reason I[br]
+needed the Star of Af-[br]
+rica was to find that[br]
+treasure.
+
+[dlg]<$CB>
+
+#END()
+
+// Script 0x0-0x36 (0x6B5)
+[Norio_19]
+// なにやってるんや。[br]
+// ここでは　そんなことは　させん。[end]
+What are you doing?[br]
+You can't do that here.
+
+[end]
+
+#END()
+
+// Script 0x0-0x37 (0x6D1)
+[Sanma_05]
+// このばめんでは、こうするのが　いちばんや、うん[pause][br]
+// ……ゆるして　[plr][plr]ちゃん、[br]
+// ほんとは　なああんにも　かんがえてないのよ。[end]
+Alright, here's what we[br]
+oughta do...[pause][br]
+Sorry, [plr]-bud, I actu-[br]
+ally got no clue.
+
+[end]
+
+#END()
+
+// Script 0x0-0x38 (0x710)
+[Takayuki_32]
+// きょうは　なんのようだね。[end]
+What do you want?
+
+[end]
+
+#END()
+
+// Script 0x0-0x39 (0x71F)
+[Sanma_05]
+// しんすけも　しんでしまったのや。[end]
+You know that Shin-[br]
+suke's dead.
+
+[end]
+
+#END()
+
+// Script 0x0-0x3A (0x731)
+[Ayako_46]
+// そうさは　じゅんちょうですか。[end]
+Is your investigation[br]
+going well?
+
+[end]
+
+#END()
+
+// Script 0x0-0x3B (0x742)
+
+
+#END()
+
+// Script 0x0-0x3C (0x742)
+[Sanma_05]
+// なにいってるんですか。[plr][plr][plr][plr]くん、ぼくは[br]
+// じょせいのみかた　ですよ。[br]
+// そんなこと　よう　できませんわ。[end]
+What are you talking[br]
+about, [plr][plr][plr][plr]?[br]
+I'm a gentleman.[br]
+I would never hurt a[br]
+lady.
+
+[end]
+
+#END()
+
+// Script 0x0-0x3D (0x778)
+[Sanma_05]
+// しんすけ、おまえ　はくじょうせんと[br]
+// このまえの　ろっぽんぎのこと　みんなはなすで[dlg]<$3E>
+Shinsuke, if you don't[br]
+confess, I'm tellin'[br]
+everyone what happened[br]
+in Roppongi!
+
+[dlg]<$3E>
+
+#END()
+
+// Script 0x0-0x3E (0x7A3)
+[Shinsuke_23]
+// そんなこと　いうたら、さんちゃん、あのばん[br]
+// だれと　いっしょ　やったっけ？[br]
+// フライデーにいうたってもええんやけどな。[dlg]<$3F>
+Is that so? And who[br]
+else was there with me,[br]
+San? Maybe I should[br]
+tell {Friday} all about[br]
+it...
+
+[dlg]<$3F>
+
+#END()
+
+// Script 0x0-0x3F (0x7E0)
+[Sanma_05]
+// ひえー　そ　それは、やめてちょんまげ。[end]
+Eep! P-Please don't do[br]
+that!
+
+[end]
+
+#END()
+
+// Script 0x0-0x40 (0x7F5)
+[Kyoshin_41]
+// かんべんしてください。ゆるしてください。[end]
+Okay, I get it! Please[br]
+forgive me already!
+
+[end]
+
+#END()
+
+// Script 0x0-0x41 (0x80B)
+[Sanma_05]
+// しんすけ　ゆうたら　やくざ　や。[br]
+// どつきかえされるで。[end]
+Not happenin'. Shin-[br]
+suke's a yakuza.[br]
+I deck him, he'll deck[br]
+me right back.
+
+[end]
+
+#END()
+
+// Script 0x0-0x42 (0x828)
+[Kosuke_96]
+// さんまくん　よく　きてくれましたね。[br]
+// ぼくは　あの　めいたんていの　しんせきすじに[br]
+// あたる　きんだしち　こうすけ　です。[dlg]<$43>
+Ah, Sanma. Well met.[br]
+I am Kosuke Kindashi-[br]
+chi, a relative of the[br]
+famous detective.
+
+[dlg]<$43>
+
+#END()
+
+// Script 0x0-0x43 (0x867)
+[Kosuke_96]
+// これから　せんぱいとして　さんまくんに[br]
+// しれんを　あたえようと　おもうのです。[dlg]<$50>
+As your senior, I'm go-[br]
+ing to ask you to pass[br]
+a test.
+
+[dlg]<$50>
+
+#END()
+
+// Script 0x0-0x44 (0x891)
+[Sanma_05]
+// ぶんちんはんは　ころされてしまったのや。[end]
+Bunchin was murdered.
+
+[end]
+
+#END()
+
+// Script 0x0-0x45 (0x8A7)
+[Sanma_05]
+// はんしんさーん、いてますか。[pause][end]
+Hanshin, you here?[pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x46 (0x8B8)
+[Sanma_05]
+// きょじんさーん、いてますか。[pause][end]
+Kyojin, you here?[pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x47 (0x8C9)
+[Sanma_05]
+// サブローさーん。[pause][end]
+Saburo?[pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x48 (0x8D4)
+[Sanma_05]
+// シローさーん。[pause][end]
+Shiro?[pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x49 (0x8DE)
+[Sanma_05]
+// いくよさーん！[pause][end]
+Ikuyo![pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x4A (0x8E8)
+[Sanma_05]
+// くるよさーん！[pause][end]
+Kuruyo![pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x4B (0x8F2)
+[Player_00]
+// しんすけ、かわいそうに。[br]
+// ダイヤをぬすんだばっかりに……[dlg]<$4C>
+Poor Shinsuke.[br]
+He barely had the time[br]
+to steal the diamond[br]
+before he died.
+
+[dlg]<$4C>
+
+#END()
+
+// Script 0x0-0x4C (0x911)
+[Sanma_05]
+// [plr][plr]ちゃん、わかってへんな。[br]
+// しんすけは　ぬすみなんか　しとらんはずや。[br]
+// もともと　ダイヤは　ぬすまれてへんのや。[dlg]<$4D>
+Wrong, [plr]-bud.[br]
+Shinsuke didn't steal[br]
+nothin'. Fact is, the[br]
+diamond was never sto-[br]
+len in the first place.
+
+[dlg]<$4D>
+
+#END()
+
+// Script 0x0-0x4D (0x94D)
+[Sanma_05]
+// きょうはくされた　たかゆきは、しんすけに[br]
+// ぜんぶのつみを　かぶそうと　かきおきと[br]
+// ダイヤを、あのげんばに、のこしたわけや……。[dlg]<$4E>
+Takayuki wanted to pin[br]
+it all on Shinsuke, so[br]
+he left the fake sui-[br]
+cide note and the dia-[br]
+mond when he offed him.
+
+[dlg]<$4E>
+
+#END()
+
+// Script 0x0-0x4E (0x98F)
+[Sanma_05]
+// さ、[plr][plr][plr][plr]ちゃん。[br]
+// あやこさんを、げんきづけに　いこうか………。[pause][end]
+C'mon, [plr][plr][plr][plr].[br]
+Let's see if we can't[br]
+cheer Ayako up a[br]
+mite...[pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x4F (0x9B3)
+[Sanma_05]
+// めのまえに　おるやないか。[end]
+Right in fronta us![br]
+
+[end]
+
+#END()
+
+// Script 0x0-0x50 (0x9C2)
+[Kosuke_96]
+// みごと　いってもどってきたら[br]
+// たんていの　ごくいを　おしえてあげましょう。[dlg]<$51>
+If you're successful,[br]
+I'll teach you the sec-[br]
+ret of a true detect-[br]
+ive.
+
+[dlg]<$51>
+
+#END()
+
+// Script 0x0-0x51 (0x9EA)
+[Kosuke_96]
+// うえからふってくるものに　あたっては[br]
+// だめですよ。[br]
+// さ　いってらっしゃい！[pause][pause][end]
+Try not to get hit by[br]
+the things falling from[br]
+above.[br]
+Okay, get to it![pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x52 (0xA13)
+[Kosuke_96]
+// ははーん、しっぱいしましたね。それでは[br]
+// ごくいを　さずけるわけには　いきません。[br]
+// もう　いっぺん　やりますか？[end]
+Whoops! You got hit![br]
+I can't reveal the sec-[br]
+ret now. Want to try a-[br]
+gain?
+
+[end]
+
+#END()
+
+// Script 0x0-0x53 (0xA4C)
+[Kosuke_96]
+// また　いつでも　いらっしゃい。[br]
+// はやいうちのほうが　いいとおもいますよ。[pause][end]
+Come back anytime.[br]
+You should really do[br]
+this sooner than later,[br]
+though.[pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x54 (0xA73)
+[Kosuke_96]
+// やったじゃないですか。さんまくん。[br]
+// それが　たんていのごくい　そうさめもです。[br]
+// これで　めもを　とれるでしょう。[dlg]<$55>
+Well done, Sanma![br]
+I bestow upon you the[br]
+art of...taking notes![br]
+You can have this note-[br]
+book.
+
+[dlg]<$55>
+
+#END()
+
+// Script 0x0-0x55 (0xAAE)
+[Kosuke_96]
+// そうさめもは　ちゃんと　とっておくことです。[br]
+// そうさを　さいかいするときは　コンティニューを[br]
+// すれば　いいのですから。それじゃあ。[pause][pause][end]
+Use that notebook well.[br]
+You can even use it to[br]
+save your progress and[br]
+continue another time.[br]
+See you![pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x56 (0xAF3)
+[Kosuke_96]
+// やあやあ　がんばっているかい。それじゃ。[dlg]<$57>
+Ah, well. Better luck[br]
+next time.
+
+[dlg]<$57>
+
+#END()
+
+// Script 0x0-0x57 (0xB0A)
+[Sanma_05]
+// なんか　おしえてくださいよ。[br]
+// まったく　もう。[pause][end]
+Aw, c'mon![br]
+Just tell me already![pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x58 (0xB24)
+[Sanma_05]
+// げーむせんたー　キャロットやったんや。[br]
+// このげーむは……ギャラクシガニ？[br]
+// よっしゃ　いっちょ　やったるか！[pause][pause][end]
+This's the Carrot Ar-[br]
+cade. This game...[br]
+It's Crabaxian?[br]
+Alright, I'll take it[br]
+for a spin![pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x59 (0xB5D)
+
+
+#END()
+
+// Script 0x0-0x5A (0xB5D)
+
+
+#END()
+
+// Script 0x0-0x5B (0xB5D)
+
+
+#END()
+
+// Script 0x0-0x5C (0xB5D)
+[Hanshin_1E]
+// これは　さんまさん　[plr][plr][plr][plr]さん[br]
+// こんなところまで　なんのようです。[end]
+Hello, Sanma and [plr][plr][plr][plr].[br]
+What brings you all the[br]
+way here?
+
+[end]
+
+#END()
+
+// Script 0x0-0x5D (0xB81)
+[Hanshin_1E]
+// わしをどついて　どないなるねん。[br]
+// わしゃ　ほんまについてまへんわ。[end]
+Why would you hit me?[br]
+I really have the worst[br]
+of lucks...
+
+[end]
+
+#END()
+
+// Script 0x0-0x5E (0xBA4)
+
+
+#END()
+
+// Script 0x0-0x5F (0xBA4)
+[Kyoshin_41]
+// なんや？[end]
+What?
+
+[end]
+
+#END()
+
+// Script 0x0-0x60 (0xBAA)
+[Sanma_05]
+// きょじんくん、めちゃ　つよいんやで。[br]
+// どつくんなら　じぶんでせえよ。[end]
+No way! Kyojin's danged[br]
+tough.[br]
+You want him punched,[br]
+do it yourself.
+
+[end]
+
+#END()
+
+// Script 0x0-0x61 (0xBCE)
+[Saburo_2D]
+// ああ　さんまさん　[plr][plr][plr][plr]さん、[br]
+// まいど　どうも。[end]
+Oh, Sanma and [plr][plr][plr][plr].[br]
+Nice to see you.
+
+[end]
+
+#END()
+
+// Script 0x0-0x62 (0xBE9)
+[Saburo_2D]
+// とつぜんなんですか！[br]
+// いたいなあ。[end]
+Ouch![br]
+What was that for?!
+
+[end]
+
+#END()
+
+// Script 0x0-0x63 (0xBFC)
+[Shiro_28]
+// さんまさん　[plr][plr][plr][plr]さん[br]
+// だれか、なぐったろか？[dlg]<$64>
+Sanma, [plr][plr][plr][plr].[br]
+Need anyone beaten up?
+
+[dlg]<$64>
+
+#END()
+
+// Script 0x0-0x64 (0xC17)
+[Sanma_05]
+// ほんまに　ようわからんやっちゃなあ。[end]
+I don't get this fella[br]
+one bit.
+
+[end]
+
+#END()
+
+// Script 0x0-0x65 (0xC2B)
+[Shiro_28]
+// ぼくは、どつかれたら　どつきかえしまっせ。[end]
+If you hit me, I'll hit[br]
+you back.
+
+[end]
+
+#END()
+
+// Script 0x0-0x66 (0xC42)
+
+
+#END()
+
+// Script 0x0-0x67 (0xC42)
+[Yasushi_3C]
+// おお、さんま　と　[plr][plr][plr][plr]やないけ。[br]
+// ボートはええで、さいこうや。なんちゅうか　その[br]
+// おとこのロマンじゃ。われもボートすきか？[end]
+Hey there, Sanma, [plr][plr][plr][plr].[br]
+Boats are the best,[br]
+aren't they?[br]
+They're so cool! Do you[br]
+like boats?
+
+[end]
+
+#END()
+
+// Script 0x0-0x68 (0xC83)
+
+
+#END()
+
+// Script 0x0-0x69 (0xC83)
+[Yasushi_3C]
+// おまえら　みどころ　あるでえ。[end]
+Good, good.
+
+[end]
+
+#END()
+
+// Script 0x0-0x6A (0xC94)
+[Yasushi_3C]
+// きらいなくせに　なにしにきたねん。[dlg]<$6B>
+Then why are you here?
+
+[dlg]<$6B>
+
+#END()
+
+// Script 0x0-0x6B (0xCA8)
+[Yasushi_3C]
+// おまえら　みたいなやつと　はなしとうない。[br]
+// はよーいね。[pause][pause][end]
+I have nothing to say[br]
+to boat haters.[br]
+
+[end]
+
+#END()
+
+// Script 0x0-0x6C (0xCC8)
+[Norio_14]
+// クイズ　わたしはだれでしょう？[br]
+// １ばん　なっとうまん、２ばん　みのむし[br]
+// さあ、どれや？[dlg]<$6D>
+Norio: Quiz time! Who[br]
+am I?[br]
+1: Nattoman[br]
+2: Bagworm Moth[br]
+So? Which one am I?
+
+[dlg]<$6D>
+
+#END()
+
+// Script 0x0-0x6D (0xCF6)
+[Sanma_05]
+// なにいってんのや、ほんまにもう。[end]
+Lord, what are you on[br]
+about?
+
+[end]
+
+#END()
+
+// Script 0x0-0x6E (0xD08)
+[Sanma_05]
+// ああ　きょうは、エアロビクスして、のどが[br]
+// かわいたよ。キタしんち　いってビール[br]
+// でも　のもか？[pause][pause][end]
+All those aerobics've[br]
+got me thirsty.[br]
+How 'bout we head to[br]
+Kitashinchi 'n' grab a[br]
+beer?
+
+[end]
+
+#END()
+
+// Script 0x0-0x6F (0xD3B)
+[Sanma_0F]
+// やっと、つかまえられたな。[dlg]<$70>
+We got you now!
+
+[dlg]<$70>
+
+#END()
+
+// Script 0x0-0x70 (0xD4B)
+[Shiro_28]
+// こうなったら　みんなはなすわ。[dlg]<$71>
+Okay, okay. I'll talk.
+
+[dlg]<$71>
+
+#END()
+
+// Script 0x0-0x71 (0xD5D)
+[Shiro_28]
+// やみのていおうの　めいれいで　ダイヤを[br]
+// ぬすもうとしたんや。でも、きんこのなかには[br]
+// ダイヤはなかったで。[dlg]<$72>
+The Emperor of Darkness[br]
+ordered me to steal[br]
+that diamond.[br]
+But it wasn't inside[br]
+the safe.
+
+[dlg]<$72>
+
+#END()
+
+// Script 0x0-0x72 (0xD94)
+[Shiro_28]
+// なぐるのはとくいやけど[br]
+// ころしなんか、ようできへんわ。それに[br]
+// きんこしつに　したいなんてなかったで。[dlg]<$73>
+Sure, I'm good at beat-[br]
+ing people up, but I'm[br]
+not a killer. And there[br]
+weren't any bodies when[br]
+I entered the vault.
+
+[dlg]<$73>
+
+#END()
+
+// Script 0x0-0x73 (0xDC9)
+[Sanma_0F]
+// やみのていおう　ゆうのは、のりお　なんやな！[dlg]<$74>
+That means the Emperor[br]
+of Darkness is Norio!
+
+[dlg]<$74>
+
+#END()
+
+// Script 0x0-0x74 (0xDE2)
+[Shiro_28]
+// それだけは、ぼくのくち　からは　いえへん。[br]
+// かわりに、ゆうときます。[dlg]<$75>
+I'll never admit to[br]
+that.[br]
+But I will say this in-[br]
+stead.[br]
+
+[dlg]<$75>
+
+#END()
+
+// Script 0x0-0x75 (0xE07)
+[Shiro_28]
+// もしものときは　ハヤブサ　ってことばを[br]
+// おもいだしなはれ。いつかやくにたちます。[end]
+Remember this number:[br]
+{8823}.[br]
+It will be useful at[br]
+some point.
+
+[end]
+
+#END()
+
+// Script 0x0-0x76 (0xE31)
+[Shiro_28]
+// どつかれても　もう　いえまへん。[end]
+Even if you hit me, I[br]
+won't say anything[br]
+else.
+
+[end]
+
+#END()
+
+// Script 0x0-0x77 (0xE43)
+[Sanma_0F]
+// ここは、シローのいうこと　しんよう　するしか[br]
+// ないみたいやね。[end]
+We'll just hafta trust[br]
+what Shiro told us.
+
+[end]
+
+#END()
+
+// Script 0x0-0x78 (0xE64)
+[Shiro_28]
+// やみのていおうの[br]
+// おしおきが　こわいんで　ぼくは、とうぶん　みを[br]
+// かくします。ほな　さいなら。[pause][pause][end]
+The Emperor of Darkness[br]
+is probably going to[br]
+punish me. I'm going to[br]
+hide somewhere safe.[br]
+Bye bye.[pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x0-0x79 (0xE97)
+[Sanma_0F]
+// よしもとのおっさん　おらへんで。[end]
+Yoshimoto ain't here.
+
+[end]
+
+#END()
+
+// Script 0x0-0x7A (0xEA9)
+[Sanma_0F]
+// のりおがゆうには、ぶんちんは、じけんのばん[br]
+// この　へやに　たかゆきをたずねてきたんや。[dlg]<$7B>
+If what Norio told us[br]
+is true, the day of the[br]
+incident, Bunchin came[br]
+into this room here to[br]
+talk to Takayuki.
+
+[dlg]<$7B>
+
+#END()
+
+// Script 0x0-0x7B (0xED7)
+[Sanma_0F]
+// そして　したいとなって　きんこしつでみつかった。[br]
+// ホールをとおらずに　きんこしつには[br]
+// いけないはずやのに[dlg]<$7C>
+At some point he died[br]
+and his body wound up[br]
+in the vault, 'spite[br]
+that you can't go there[br]
+'cept by the hall.
+
+[dlg]<$7C>
+
+#END()
+
+// Script 0x0-0x7C (0xF0E)
+[Sanma_0F]
+// それに　しんだ　しんすけも、ここに[br]
+// きていたらしい…[br]
+// このへやには　なにか　あるはずや。[end]
+Seems Shinsuke came[br]
+here too at one[br]
+point...[br]
+This room, it's gotta[br]
+be hidin' something.
+
+[end]
+
+#END()
+
+// Script 0x0-0x7D (0xF3C)
+[Sanma_05]
+// いやーー！ひみつのへやから　きんこしつへ[br]
+// つうろが　つづいていたんや！！[dlg]<$7E>
+Whoooaaaa![br]
+The secret room leads[br]
+to the vault!
+
+[dlg]<$7E>
+
+#END()
+
+// Script 0x0-0x7E (0xF63)
+[Sanma_05]
+// とゆうことは、たかゆきのアリバイは[br]
+// かんぜんに　くずれる…。[dlg]<$7F>
+And that means...[br]
+Takayuki's alibi ain't[br]
+valid anymore...
+
+[dlg]<$7F>
+
+#END()
+
+// Script 0x0-0x7F (0xF84)
+[Takayuki_32]
+// やれやれ　ここまでたどりつかれてしまったか。[br]
+// おまえらも　なかなか　すてたもんじゃ　ないな。[dlg]<$80>
+Hmph. So you've found[br]
+out this much.[br]
+You're more clever than[br]
+I thought.[WAIT]
+
+[dlg]<$80>
+
+#END()
+

@@ -1,0 +1,1662 @@
+// Enum list 0x18978-0x0 (0x189EE)
+<$01>
+// 　[br]
+// 
+[br]
+
+
+#END()
+
+// Enum list 0x18978-0x1 (0x189F1)
+<$3F>
+// [br]
+// 
+[br]
+
+
+#END()
+
+// Enum list 0x18978-0x2 (0x189F3)
+<$08>
+// しらべる[br]
+// みる[br]
+// たたく[br]
+// おす[br]
+// あける[br]
+// まわす[br]
+// のむ　たべる[br]
+// とる[br]
+// 
+Examine[br]
+
+Look[br]
+
+Strike[br]
+
+Push[br]
+
+Open[br]
+
+Rotate[br]
+
+//Eat or[pwd]
+// Drink[br]
+Ingest[br]
+
+Take[br]
+
+
+#END()
+
+// Enum list 0x18978-0x3 (0x18A15)
+<$08>
+// ホール[br]
+// たんていじむしょ[br]
+// たかゆきのへや[br]
+// たかゆきのへや[br]
+// あやこのへや[br]
+// きんこしつ[br]
+// きんこしつ[br]
+// ひみつのへや[br]
+// 
+Hall[br]
+
+//Detective Office[br]
+Sanma's[pwd]
+ Office[br]
+
+// Takayuki's Room
+Takayuki[pwd]
+ House[br]
+
+// Takayuki's Room
+Takayuki[pwd]
+ House[br]
+
+Ayako's[pwd]
+ Room[br]
+
+Vault[br]
+
+Vault[br]
+
+Secret[pwd]
+ Room
+
+
+#END()
+
+// Enum list 0x18978-0x4 (0x18A4D)
+<$07>
+// たんていじむしょ[br]
+// よしもとのいえ[br]
+// せんりがおか[br]
+// なんば[br]
+// しんじゅく[br]
+// ありまおんせん[br]
+// すみのえ[br]
+// 
+
+//Detective Office[br]
+Sanma's[pwd]
+ Office[br]
+
+// Yoshimoto's Mansion
+Yoshimo-[pwd]
+to Manor[br]
+
+Senri-[pwd]
+ gaoka[br]
+
+Namba[br]
+
+Shinjuku[br]
+
+Arima[pwd]
+ Onsen[br]
+
+Suminoe[br]
+
+#END()
+
+// Enum list 0x18978-0x5 (0x18A7D)
+<$06>
+// なんば[br]
+// たんていじむしょ[br]
+// スタジオカメタ[br]
+// たこいち[br]
+// なんばかげつ[br]
+// キタしんち[br]
+// 
+
+Namba[br]
+
+//Detective Office[br]
+Sanma's[pwd]
+ Office[br]
+
+Studio[pwd]
+ Kameda[br]
+
+Takoichi[br]
+
+Namba[pwd]
+ Kagetsu[br]
+
+Kitashi-[pwd]
+ nichi[br]
+
+
+#END()
+
+// Enum list 0x18978-0x6 (0x18AA5)
+<$08>
+// せんりがおか[br]
+// たんていじむしょ[br]
+// まいあさテレビ[br]
+// ぶんちんのへや[br]
+// きょじんのいえ[br]
+// シローのいえ[br]
+// おもてにでる[br]
+// おもてにでる[br]
+// 
+
+Senri-[pwd]
+ gaoka[br]
+
+//Detective Office[br]
+Sanma's[pwd]
+ Office[br]
+
+TV[pwd]
+ Maiasa[br]
+
+Bunchin[pwd]
+ 's Room[br]
+
+// Kyojin's Residence
+Kyojin's[pwd]
+ Place[br]
+
+// Shiro's Residence
+Shiro's[pwd]
+ Place[br]
+
+Go[pwd]
+ Outside[br]
+
+Go[pwd]
+ Outside[br]
+
+
+
+#END()
+
+// Enum list 0x18978-0x7 (0x18AE3)
+<$07>
+// しんじゆく[br]
+// おおさかにもどる[br]
+// 　[br]
+// チャタしょうかい[br]
+// クラブポピー[br]
+// のりおのあじと[br]
+// もとにもどる[br]
+// 
+Shinjuku[br]
+
+Back to[pwd]
+ Osaka[br]
+
+ [br]
+
+Chatha's[pwd]
+ Store[br]
+
+Club[pwd]
+ Poppy[br]
+
+Norio's[pwd]
+ Hideout[br]
+
+Back[br]
+
+#END()
+
+// Enum list 0x18978-0x8 (0x18B14)
+<$08>
+// シャンデリア[br]
+// ゆか[br]
+// はいざら[br]
+// ライター[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Chande-[pwd]
+ lier[br]
+
+Floor[br]
+
+Ashtray[br]
+
+Lighter[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x9 (0x18B33)
+<$08>
+// るすばんでんわ[br]
+// いす[br]
+// たな[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+// Answering Machine
+Answer[pwd]
+ Machine[br]
+
+Chairs[br]
+
+Shelves[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0xA (0x18B4E)
+<$08>
+// トロフィー[br]
+// ロッカー[br]
+// いす[br]
+// スイッチ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Trophy[br]
+
+Locker[br]
+
+Chair[br]
+
+Switch[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0xB (0x18B6C)
+<$08>
+// ベッド[br]
+// カーテン[br]
+// ぱんてい[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Bed[br]
+
+Curtains[br]
+
+Panties[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0xC (0x18B87)
+<$08>
+// きんこ[br]
+// コンタクトレンズ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Safe[br]
+
+Contact[pwd]
+ Lens[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0xD (0x18BA3)
+<$08>
+// きんこ[br]
+// ドア[br]
+// きんこのなか[br]
+// ノブ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Safe[br]
+
+Door[br]
+
+Inside[pwd]
+ Safe[br]
+
+Knob[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0xE (0x18BBF)
+<$08>
+// でんしゃ[br]
+// スタジオ　マルタ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Train[br]
+
+Studio[pwd]
+ Malta[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0xF (0x18BDC)
+<$08>
+// とうろう[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Lantern[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x10 (0x18BF2)
+<$08>
+// ボート[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Boat[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x11 (0x18C07)
+<$08>
+// みぎのギャル[br]
+// ひだりのギャル[br]
+// レオタード[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Right[pwd]
+ Girl[br]
+
+Left[pwd]
+ Girl[br]
+
+Leotard[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+
+#END()
+
+// Enum list 0x18978-0x12 (0x18C29)
+<$08>
+// たこやき[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Takoyaki[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x13 (0x18C3F)
+<$08>
+// こくばん[br]
+// エアコン[br]
+// ちらし[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Black-[pwd]
+ board[br]
+
+// Air Conditioner
+AC Unit[br]
+
+Leaflet[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x14 (0x18C5A)
+<$08>
+// ビール[br]
+// たこやき[br]
+// ごきげん[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Beer[br]
+
+Takoyaki[br]
+
+Interest[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x15 (0x18C75)
+<$08>
+// はこ[br]
+// はこのなか[br]
+// かみきれ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Box[br]
+
+Inside[pwd]
+ Box[br]
+
+Slip of[pwd]
+ Paper[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x16 (0x18C90)
+<$08>
+// パソコン[br]
+// せんぷうき[br]
+// がくぶち[br]
+// ほん[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Computer[br]
+
+Electric[pwd]
+ Fan[br]
+
+Picture[pwd]
+ Frames[br]
+
+Books[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x17 (0x18CAE)
+<$08>
+// ドア[br]
+// メーターボックス[br]
+// インタホン[br]
+// メーター[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Door[br]
+
+Meter[pwd]
+ Box[br]
+
+Intercom[br]
+
+Meters[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x18 (0x18CD0)
+<$08>
+// ドア[br]
+// メーターボックス[br]
+// ブザー[br]
+// メーター[br]
+// ふるしんぶん[br]
+// ビニールのひも[br]
+// 　[br]
+// そのた[br]
+// 
+
+Door[br]
+
+Meter[pwd]
+ Box[br]
+
+Buzzer[br]
+
+Meters[br]
+
+Old New-[pwd]
+ spapers[br]
+
+Vinyl[pwd]
+ String[br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x19 (0x18CFB)
+<$08>
+// すいしょうだま[br]
+// ぶつぞう[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Crystal[pwd]
+ Ball[br]
+
+Statue[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x1A (0x18D17)
+<$08>
+// ボトル[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Bottle[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x1B (0x18D2C)
+<$08>
+// ピューマ[br]
+// あたま[br]
+// めだま[br]
+// しっぽ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Puma[br]
+
+Head[br]
+
+Eyeball[br]
+
+Tail[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x1C (0x18D48)
+<$08>
+// れいぞうこ[br]
+// ビデオ[br]
+// ほんだな[br]
+// ジュース[br]
+// こおり[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Fridge[br]
+
+Video-[pwd]
+ tapes[br]
+
+Book-[pwd]
+ shelves[br]
+
+Soft[pwd]
+ Drinks[br]
+
+Ice[br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x1D (0x18D69)
+<$08>
+// しゃしんたて[br]
+// テレビ[br]
+// ひきだし[br]
+// くずかご[br]
+// のりおのしゃしん[br]
+// きんのくさり[br]
+// 　[br]
+// そのた[br]
+// 
+
+Picture[pwd]
+ Frame[br]
+
+TV[br]
+
+Drawers[br]
+
+Waste-[pwd]
+ basket[br]
+
+// Picture of Norio
+Norio's[pwd]
+ Picture[br]
+
+Golden[pwd]
+ Chain[br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x1E (0x18D95)
+<$08>
+// かべ[br]
+// ドア[br]
+// てつごうし[br]
+// しょくりょう[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Wall[br]
+
+Door[br]
+
+Iron[pwd]
+ Bars[br]
+
+Food[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x1F (0x18DB3)
+<$08>
+// アフリカのほし[br]
+// したい[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Star of[pwd]
+ Africa[br]
+
+Body[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x20 (0x18DCE)
+<$08>
+// たいようのとう[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Tower of[pwd]
+ the Sun[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x21 (0x18DE7)
+<$08>
+// まちなみ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Street[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x22 (0x18DFD)
+<$08>
+// がめん[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Screen[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x23 (0x18E12)
+<$08>
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+
+#END()
+
+// Enum list 0x18978-0x24 (0x18E25)
+<$08>
+// ひかわまる[br]
+// うみ[br]
+// マリンタワー[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Hikawa[pwd]
+ Maru[br]
+
+Sea[br]
+
+Marine[pwd]
+ Tower[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x25 (0x18E42)
+<$08>
+// たからのはこ[br]
+// たから[br]
+// しま[br]
+// うみ[br]
+// 　[br]
+// 　[br]
+// 　[br]
+// そのた[br]
+// 
+
+Treasure[pwd]
+ Chest[br]
+
+Treasure[br]
+
+Island[br]
+
+Sea[br]
+
+ [br]
+
+ [br]
+
+ [br]
+
+// Something else
+Other[br]
+
+#END()
+
+// Enum list 0x18978-0x26 (0x18E5E)
+<$01>
+// 　[br]
+// 
+ [br]
+
+#END()
+
+// Enum list 0x18978-0x27 (0x18E61)
+<$02>
+// ひとについて[br]
+// そのたについて[br]
+// 
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+#END()
+
+// Enum list 0x18978-0x28 (0x18E71)
+<$03>
+// つかう[br]
+// もちものしらべる[br]
+// みせる　わたす[br]
+// 
+
+Use[br]
+
+Examine[br]
+
+Show or[pwd]
+ Give[br]
+
+#END()
+
+// Enum list 0x18978-0x29 (0x18E87)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// アリバイ[br]
+// じけん[br]
+// はんにん[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Alibi[br]
+
+Incident[br]
+
+Culprit[br]
+
+#END()
+
+// Enum list 0x18978-0x2A (0x18EA5)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// しゅっせきしゃ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+Atten-[pwd]
+ dees[br]
+
+#END()
+
+// Enum list 0x18978-0x2B (0x18EC6)
+<$04>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// しゅっせきしゃ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+Atten-[pwd]
+ dees[br]
+
+#END()
+
+// Enum list 0x18978-0x2C (0x18EE2)
+<$04>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+#END()
+
+// Enum list 0x18978-0x2D (0x18EFB)
+<$06>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// しごと[br]
+// いいねた[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+Work[br]
+
+Good[pwd]
+ Jokes[br]
+
+#END()
+
+// Enum list 0x18978-0x2E (0x18F1D)
+<$04>
+// ひとについて[br]
+// そのたについて[br]
+// ゆかげん[br]
+// シローのいえ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Water[pwd]
+ Temp.[br]
+
+Shiro's[pwd]
+ House[br]
+
+#END()
+
+// Enum list 0x18978-0x2F (0x18F39)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// ちょうし[br]
+// ねたほん[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Condi-[pwd]
+ tion[br]
+
+Joke[pwd]
+ Book[br]
+
+#END()
+
+// Enum list 0x18978-0x30 (0x18F57)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// あのばんのこと[br]
+// エアロビクス[br]
+// ペンダント[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+// About that evening
+That[pwd]
+ evening[br]
+
+Aerobics[br]
+
+Pendant[br]
+
+#END()
+
+// Enum list 0x18978-0x31 (0x18F7C)
+<$06>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// 　[br]
+// きょじんのいえ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+ [br]
+
+Kyojin's[pwd]
+ House[br]
+
+
+#END()
+
+// Enum list 0x18978-0x32 (0x18F9F)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// エアロビクス[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+Aerobics[br]
+
+
+#END()
+
+// Enum list 0x18978-0x33 (0x18FBF)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// クラブ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+Club[br]
+
+
+#END()
+
+// Enum list 0x18978-0x34 (0x18FDC)
+<$07>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// アリバイ[br]
+// じぎょう[br]
+// ほうせきぎょう[br]
+// エアロビクス[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Alibi[br]
+
+Business[br]
+
+Jewel[pwd]
+Business[br]
+
+Aerobics[br]
+
+
+#END()
+
+// Enum list 0x18978-0x35 (0x19009)
+<$04>
+// ひとについて[br]
+// そのたについて[br]
+// じけん[br]
+// さいきんのねた[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Incident[br]
+
+Recent[pwd]
+ Jokes[br]
+
+
+#END()
+
+// Enum list 0x18978-0x36 (0x19025)
+<$06>
+// ひとについて[br]
+// そのたについて[br]
+// こだいのひほう[br]
+// あるゆうめいじん[br]
+// みつゆ[br]
+// ピューマ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Ancient[pwd]
+Treasure[br]
+
+Famous[pwd]
+ Person[br]
+
+Smuggl-[pwd]
+ ing[br]
+
+Puma[br]
+
+
+#END()
+
+// Enum list 0x18978-0x37 (0x1904F)
+<$05>
+// ひとについて[br]
+// そのたについて[br]
+// なまえ[br]
+// すきなタイプ[br]
+// スリーサイズ[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Name[br]
+
+Her type[br]
+
+Her 3[pwd]
+ sizes[br]
+
+
+#END()
+
+// Enum list 0x18978-0x38 (0x19071)
+<$02>
+// ひとについて[br]
+// そのたについて[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+
+#END()
+
+// Enum list 0x18978-0x39 (0x19081)
+<$03>
+// ひとについて[br]
+// そのたについて[br]
+// じじょう[br]
+// 
+
+About[pwd]
+ someone[br]
+
+// About something else
+Another[pwd]
+ topic[br]
+
+Reasons[br]
+
+
+#END()
+
+// Enum list 0x18978-0x3A (0x19096)
+<$02>
+// はい[br]
+// いいえ[br]
+// 
+
+Yes[br]
+
+No[br]
+
+#END()
+

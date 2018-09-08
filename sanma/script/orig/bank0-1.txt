@@ -1,0 +1,1217 @@
+// Script 0xFB5-0x0 (0x10B5)
+[Sanma_0F]
+// みつゆ　やな。そやろ。ぶんちんはんは　あのひ[br]
+// そのことを　おまえにいったんや。ぎゃくじょう[br]
+// した　おまえは　ぶんちんはんを　ころした……[dlg]<$81>
+
+
+[dlg]<$81>
+
+#END()
+
+// Script 0xFB5-0x1 (0x10FC)
+[Takayuki_32]
+// ふーーんそれから。[dlg]<$82>
+
+
+[dlg]<$82>
+
+#END()
+
+// Script 0xFB5-0x2 (0x1108)
+[Sanma_0F]
+// しんすけのことはどや！！[br]
+// おまえは………[dlg]<$83>
+
+
+[dlg]<$83>
+
+#END()
+
+// Script 0xFB5-0x3 (0x111F)
+[Takayuki_32]
+// はだかいっかん　ここまできた　わしじゃ[br]
+// おまえらみたいな　ちんぴらにつかまるかい！[br]
+// これからアメリカへ　たかとびじゃ！じゃあな！[dlg]<$84>
+
+
+[dlg]<$84>
+
+#END()
+
+// Script 0xFB5-0x4 (0x1162)
+[Sanma_0F]
+// [pl][pl]ちゃん！！ついせきやーー！！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x5 (0x1174)
+[Ikuyo_4B]
+// そお？わたしさいきん[br]
+// エアロビクスやってんのよ。[br]
+// どこ　いってるか　ききたい？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x6 (0x119D)
+[Sanma_05]
+// よっしゃあ！いっくでーー！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x7 (0x11AC)
+[Sanma_0F]
+// やや、おまえ！しんすけ！さっきはなんで[br]
+// にげだしたんや。[dlg]<$88>
+
+
+[dlg]<$88>
+
+#END()
+
+// Script 0xFB5-0x8 (0x11CB)
+[Shinsuke_23]
+// うるさいわい！わいにはわいの　じじょうって[br]
+// もんがあるねん。またなー。[pause][end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x9 (0x11F1)
+[Chatha_37]
+// どひえー！にほん、いんど　ゆうこうこく。[br]
+// なぐるの　よくない！！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0xA (0x1213)
+[Norio_19]
+// それを　よくかんがえて　みるんやな。[br]
+// それと　もうひとつ。おみやげを　やろう。[br]
+// ほら　この　けいやくしょ　や。もってき。[dlg]<$DA>
+
+
+[dlg]<$DA>
+
+#END()
+
+// Script 0xFB5-0xB (0x1252)
+[Takayuki_32]
+// そんなことを　すれば　いたいめにあうのは[br]
+// おまえらの　ほうじゃよ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0xC (0x1275)
+[Sanma_05]
+// こんどは、シローや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0xD (0x1281)
+[Shiro_28]
+// だれか　なぐったりましょか。[dlg]<$8E>
+
+
+[dlg]<$8E>
+
+#END()
+
+// Script 0xFB5-0xE (0x1292)
+[Sanma_05]
+// ちょうど　きみをさがしていたんや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0xF (0x12A5)
+[Sanma_05]
+// こんなやつどついたら[br]
+// ぎゃくに　なぐられるで。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x10 (0x12BE)
+
+
+#END()
+
+// Script 0xFB5-0x11 (0x12BE)
+[Sanma_0F]
+// ぼくら　かんきんされとるんやで。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x12 (0x12D0)
+
+
+#END()
+
+// Script 0xFB5-0x13 (0x12D0)
+[Guard_73]
+// さしいれだ！くえ！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x14 (0x12DB)
+[Sanma_05]
+// ともかく、じむしょまで　きてくれる？[dlg]<$95>
+
+
+[dlg]<$95>
+
+#END()
+
+// Script 0xFB5-0x15 (0x12F0)
+[Shinsuke_23]
+// いやなこった、じゃな。[dlg]<$96>
+
+
+[dlg]<$96>
+
+#END()
+
+// Script 0xFB5-0x16 (0x12FE)
+[Sanma_0F]
+// あ、しんすけのやつ　にげだしおった。[br]
+// おいかけた　ほうがええと　おもうで、これは。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x17 (0x1329)
+
+
+#END()
+
+// Script 0xFB5-0x18 (0x1329)
+[Sanma_05]
+// お！シローがおるで。[dlg]<$99>
+
+
+[dlg]<$99>
+
+#END()
+
+// Script 0xFB5-0x19 (0x1336)
+[Shiro_28]
+// ありゃ　つごうよく　でくわすなあ。[br]
+// にげますよーー。[dlg]<$9A>
+
+
+[dlg]<$9A>
+
+#END()
+
+// Script 0xFB5-0x1A (0x1353)
+[Sanma_0F]
+// [pl][pl][pl][pl]、ついせきや！[pause][end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x1B (0x1361)
+[Sanma_0F]
+// にげられたか……[br]
+// にげあしの　はやいやっちゃ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x1C (0x137A)
+[Saburo_2D]
+// さんまさんも　はいりません？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x1D (0x138A)
+[Sanma_05]
+// ほな　たこやきを　たのも。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x1E (0x1399)
+[Sanma_05]
+// こんなところで　どつくなんて　[pl][pl]ちゃんは[br]
+// ふうりゅうってもんを　しらんのやから。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x1F (0x13C4)
+[Sanma_05]
+// よっしゃあ！さっきから　たいどでかいと[br]
+// おもってたんや。ばぎ！がつ！[dlg]<$A0>
+
+
+[dlg]<$A0>
+
+#END()
+
+// Script 0xFB5-0x20 (0x13E9)
+[Saburo_2D]
+// かんべんして！[br]
+// ほんとのこといいます。シローは　たぶん[br]
+// じけんに　かんけいしてます。[dlg]<$2B>
+
+
+[dlg]<$2B>
+
+#END()
+
+// Script 0xFB5-0x21 (0x1416)
+[Sanma_0A]
+// ぼくも　はいらせてもらいます。[br]
+// [pl][pl]ちゃん、あんまり　みつめちゃいや。[br]
+// さんちゃん、はずかしいの。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x22 (0x1449)
+
+
+#END()
+
+// Script 0xFB5-0x23 (0x1449)
+
+
+#END()
+
+// Script 0xFB5-0x24 (0x1449)
+
+
+#END()
+
+// Script 0xFB5-0x25 (0x1449)
+[Hanshin_1E]
+// きのうは　どうも。[br]
+// さんまさんも、ビラみて　きはったん？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x26 (0x1467)
+[Sanma_0A]
+// いくよねえさん、いつもおきれいで。[dlg]<$85>
+
+
+[dlg]<$85>
+
+#END()
+
+// Script 0xFB5-0x27 (0x147B)
+[Shiro_28]
+// さんまさん、いっしょにやりません？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x28 (0x148E)
+[Sanma_05]
+// なんか、つまみでも、とろかい。[dlg]<$A9>
+
+
+[dlg]<$A9>
+
+#END()
+
+// Script 0xFB5-0x29 (0x14A0)
+[Shiro_28]
+// ここは　のみやのくせに、たこやきがうまいで。[dlg]<$9D>
+
+
+[dlg]<$9D>
+
+#END()
+
+// Script 0xFB5-0x2A (0x14B9)
+[Yasushi_3C]
+// レースにかっておいわいしとるんや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x2B (0x14CC)
+[Ikuyo_4B]
+// さんまちゃん　[pl][pl][pl][pl]ちゃん[br]
+// うちに　なんかよう？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x2C (0x14E7)
+
+
+#END()
+
+// Script 0xFB5-0x2D (0x14E7)
+[Kuruyo_50]
+// はなしが　あるんやて？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x2E (0x14F4)
+
+
+#END()
+
+// Script 0xFB5-0x2F (0x14F4)
+[Sanma_05]
+// きょじんくん　よってるみたいや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x30 (0x1506)
+[Sanma_05]
+// ドアがあるんやで。むりや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x31 (0x1515)
+[Sanma_05]
+// きょじんくん　あけてくれい！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x32 (0x1525)
+[Kyoshin_41]
+// いま　とりこみちゅうや。あとにしてくれ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x33 (0x153B)
+[Chatha_37]
+// して、きょうは、なんのごようで　あるか？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x34 (0x1551)
+[Chatha_37]
+// どひえー、わかった、いうあるアフリカのほし[br]
+// みつゆひんだでよ。[dlg]<$B5>
+
+
+[dlg]<$B5>
+
+#END()
+
+// Script 0xFB5-0x35 (0x1573)
+[Chatha_37]
+// よしもとはんとくんで、ほうせきのみつゆをして[br]
+// おおもうけ　するはずだったあるよ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x36 (0x159D)
+[Emiko_55]
+// そんなこ、うちにはいないよー。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x37 (0x15AE)
+[Sanma_0A]
+// ええこやなあ。きみみたいなこ　すきや。[dlg]<$B8>
+
+
+[dlg]<$B8>
+
+#END()
+
+// Script 0xFB5-0x38 (0x15C4)
+[Emiko_55]
+// ええー、うっそー　うっれしいー。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x39 (0x15D6)
+[Sanma_05]
+// ぼくは、そんなしゅみ　あらへん。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x3A (0x15E8)
+[Emi_5A]
+// うふ。もっとやって。[dlg]<$BB>
+
+
+[dlg]<$BB>
+
+#END()
+
+// Script 0xFB5-0x3B (0x15F5)
+[Sanma_0A]
+// あぶないこやなあ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x3C (0x1600)
+[Sanma_0A]
+// きみ　みたいなこも　すっきやねん！[dlg]<$BD>
+
+
+[dlg]<$BD>
+
+#END()
+
+// Script 0xFB5-0x3D (0x1614)
+[Emi_5A]
+// ねえねえ、さんまさん[br]
+// となりのへやで、むふふ　しよ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x3E (0x1630)
+[Emi_5A]
+// さんまさん、[pl][pl][pl][pl]さん、いらっしゃーい！[dlg]<$BF>
+
+
+[dlg]<$BF>
+
+#END()
+
+// Script 0xFB5-0x3F (0x1648)
+[Sanma_0A]
+// おや、このまえと、ちがうこや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x40 (0x1659)
+[Emi_5A]
+// つめたーい。もういや。かえって。[pause][pause][end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x41 (0x166D)
+[Emi_5A]
+// チュバ、チュバ…[pause]ウフン…[dlg]<$C2>
+
+
+[dlg]<$C2>
+
+#END()
+
+// Script 0xFB5-0x42 (0x167D)
+[Sanma_05]
+// むひょー　でへでへ……[dlg]<$C3>
+
+
+[dlg]<$C3>
+
+#END()
+
+// Script 0xFB5-0x43 (0x168B)
+[Emi_5A]
+// さんまさん、ゴメン。バキ！ガス！バゴ！[dlg]<$C4>
+
+
+[dlg]<$C4>
+
+#END()
+
+// Script 0xFB5-0x44 (0x16A1)
+[Sanma_05]
+// き、きみ　なにすんねん。あーれー…[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x45 (0x16B4)
+[Kuruyo_50]
+// さんまちゃん　どこみてるの。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x46 (0x16C4)
+[Sanma_05]
+// のりおにいさん、[br]
+// なに　じょうだん　いってますのや。[dlg]<$C7>
+
+
+[dlg]<$C7>
+
+#END()
+
+// Script 0xFB5-0x47 (0x16E1)
+[Norio_19]
+// じょうだんやない。げいにん　にしかわのりお[br]
+// とは　よをしのぶ　かりのすがた。わいこそ、[br]
+// せかいをすくう　やみのていおう　や。[dlg]<$C8>
+
+
+[dlg]<$C8>
+
+#END()
+
+// Script 0xFB5-0x48 (0x1722)
+[Sanma_0F]
+// やっぱり　そうやったんか。[dlg]<$C9>
+
+
+[dlg]<$C9>
+
+#END()
+
+// Script 0xFB5-0x49 (0x1732)
+[Norio_19]
+// おまえら　れいの[br]
+// ダイヤをもってるはずや。そして　ここに[br]
+// おまえらも　ごぞんじのピューマがあるんや。[dlg]<$CA>
+
+
+[dlg]<$CA>
+
+#END()
+
+// Script 0xFB5-0x4A (0x1767)
+[Norio_19]
+// ここには[br]
+// こだいのひほうの　なぞが　かくされているはずや[dlg]<$35>
+
+
+[dlg]<$35>
+
+#END()
+
+// Script 0xFB5-0x4B (0x1786)
+[Norio_19]
+// さんま、[pl][pl][pl][pl]、[br]
+// このなぞを　といてくれ！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x4C (0x179E)
+[Norio_19]
+// そうか、だめか。それならダイヤを[br]
+// おいていって　もらおう。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x4D (0x17BD)
+[Norio_19]
+// アフリカのほしを　だしてもらおうか。[br]
+// じぶんら　つかまっとるんやでえ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x4E (0x17E2)
+[Norio_19]
+// そうか、やってくれるか。[br]
+// これがピューマや。なんとか　してくれ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x4F (0x1804)
+[Sanma_05]
+// おっ、[br]
+// るすちゅうに　でんわが　あったみたいや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x50 (0x181E)
+[Norio_19]
+// じょうだんはよせ！[br]
+// なぞを　とくのが　せんけつや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x51 (0x1839)
+[Norio_19]
+// だから、おまえらは、とらわれのみ　なの！[br]
+// ナゾを　とくまで　にがさへんで！！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x52 (0x1861)
+[Sanma_0A]
+// やったー！！[br]
+// ちずが　でたーー！[dlg]<$D3>
+
+
+[dlg]<$D3>
+
+#END()
+
+// Script 0xFB5-0x53 (0x1874)
+[Norio_19]
+// うーん、やっぱり　ここやったか。[br]
+// これは　バラベとうの[br]
+// ちずや。わいは　まえから　め　つけとったんや。[dlg]<$D4>
+
+
+[dlg]<$D4>
+
+#END()
+
+// Script 0xFB5-0x54 (0x18AA)
+[Norio_19]
+// さんま、[pl][pl][pl][pl]！どうじゃい？[br]
+// けちな　じけん　おうのはやめて[br]
+// いっしょに　たから　さがしに　いかんかい？[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x55 (0x18E1)
+[Norio_19]
+// そうか、それはざんねんや。あくまで　じけんを[br]
+// おうと　いうのやな。まあそれも　ええやろ。[dlg]<$D6>
+
+
+[dlg]<$D6>
+
+#END()
+
+// Script 0xFB5-0x56 (0x1910)
+[Norio_19]
+// かわりに　ええこと　おしえたる。[dlg]<$D7>
+
+
+[dlg]<$D7>
+
+#END()
+
+// Script 0xFB5-0x57 (0x1923)
+[Norio_19]
+// じけんのばん、わいはみたんや。ぶんちんは[br]
+// きんこしつに　いったんやない。たかゆきの[br]
+// へやに　むかって　ホールをでてったんや。[dlg]<$D8>
+
+
+[dlg]<$D8>
+
+#END()
+
+// Script 0xFB5-0x58 (0x1964)
+[Norio_19]
+// …それで　なぜか　きんこしつで[br]
+// したいとなって、はっけんされたんや。[dlg]<$D9>
+
+
+[dlg]<$D9>
+
+#END()
+
+// Script 0xFB5-0x59 (0x1989)
+[Sanma_05]
+// せやけど[pause]　たかゆきのへやからは[br]
+// ホールをとおらんと[br]
+// きんこしつに　いけへんはずや。[dlg]<$8A>
+
+
+[dlg]<$8A>
+
+#END()
+
+// Script 0xFB5-0x5A (0x19B6)
+[Norio_19]
+// ほな　わいは　バラベとうに　しゅっぱつや。[br]
+// まあ　がんばりいな。ほな　さいなら！[pause][pause][end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x5B (0x19E2)
+[Norio_19]
+// ほんまか！おまえらが　きてくれれば[br]
+// こころづよい。こだいのひほうは[br]
+// てにはいったも　どうぜんや。[dlg]<$DC>
+
+
+[dlg]<$DC>
+
+#END()
+
+// Script 0xFB5-0x5C (0x1A15)
+[Sanma_0F]
+// やみのていおう　のりおさま、[br]
+// わけまえは　はんぶんでっせ。[dlg]<$DD>
+
+
+[dlg]<$DD>
+
+#END()
+
+// Script 0xFB5-0x5D (0x1A35)
+[Norio_19]
+// がめついやっちゃなあ。まあええか。[br]
+// よし　ほな　いこ！いこ！[br]
+// バラベとうに　しゅっぱつや！！[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x5E (0x1A65)
+[Kyoshin_41]
+// ねたほんを　もっていったのは[br]
+// さんまさんやったんか。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x5F (0x1A81)
+[Kyoshin_41]
+// そや。ちょっと　まってください。[br]
+// じつは、ねたほんといっしょに[br]
+// こんなもんが　おちていたんです。[dlg]<$E0>
+
+
+[dlg]<$E0>
+
+#END()
+
+// Script 0xFB5-0x60 (0x1AB4)
+[Sanma_0F]
+// あっ！フロッピーディスクや。[br]
+// そうゆうもんは、はやくださんかい。[br]
+// じゅうようなしょうこや。もらっとくで。[pause][pause]。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x61 (0x1AED)
+
+
+#END()
+
+// Script 0xFB5-0x62 (0x1AED)
+[Sanma_05]
+// しんすけ　ころされたとしたら　なんではんにんは[br]
+// ダイヤをおいてったんやろ？はんにんは[br]
+// ダイヤ　ほしくなかったんやろか？それとも……[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x63 (0x1B30)
+[Sanma_05]
+// [pw][pw][pw][pw][pw]　[pw][pw][pw][pw][pw]　[pw][pw][pw][pw][pw]　[pw][pw][pw][pw][pw][end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x64 (0x1B49)
+[Sanma_0A]
+// おひさしぶり！[pl][pl]ちゃん。ほな、[br]
+// きょうもげんきで　そうさを　はじめましょ。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x65 (0x1B71)
+[Norio_19]
+// ……にほんをたってから　１つき[br]
+// やったな！さんま！みてみい、このはこや！！[dlg]<$E6>
+
+
+[dlg]<$E6>
+
+#END()
+
+// Script 0xFB5-0x66 (0x1B99)
+[Sanma_87]
+// なに　いってまんのや。こだいのひほうって[br]
+// どこに　あるのや。なかみ　からっぽやないか。[br]
+// こんなん　ありでっか！？[dlg]<$E7>
+
+
+[dlg]<$E7>
+
+#END()
+
+// Script 0xFB5-0x67 (0x1BD4)
+[Sanma_87]
+// おまけに、ウエーん！！！[br]
+// ちゃくりくのとき　ひこうき　こわれてもうた。[br]
+// どうやって　にほん　かえるのや？！？[dlg]<$E8>
+
+
+[dlg]<$E8>
+
+#END()
+
+// Script 0xFB5-0x68 (0x1C0D)
+[Norio_19]
+// [pl][pl]ちゃん、そうゆう　わけや。[br]
+// もう、げーむ　どころやない！[br]
+// これで　おわりや！！[dlg]<$E9>
+
+
+[dlg]<$E9>
+
+#END()
+
+// Script 0xFB5-0x69 (0x1C39)
+[Sanma_87]
+// あーあ。あやこちゃん　かわいかったのになあ。[br]
+// それに　じけんは　どうなったんや。[br]
+// とほほほほ………[pause][pause][end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x6A (0x1C6E)
+[Sanma_05]
+// なんかあっけなく、じけんがおわったな。[br]
+// しんすけのやつ、あんな　わるいやつとは[br]
+// おもわんかったよ。[dlg]<$EB>
+
+
+[dlg]<$EB>
+
+#END()
+
+// Script 0xFB5-0x6B (0x1CA2)
+[Sanma_05]
+// しんすけも、かわいそうに。[br]
+// りょうしんのかしゃくに　たえかねたんやろな。[dlg]<$EC>
+
+
+[dlg]<$EC>
+
+#END()
+
+// Script 0xFB5-0x6C (0x1CC9)
+[Sanma_05]
+// さて、このじけんも　これでおわりや。[br]
+// そろそろ　おわかれやな。[br]
+// もう、つぎのしごとが　おれをまってるのや。[dlg]<$ED>
+
+
+[dlg]<$ED>
+
+#END()
+
+// Script 0xFB5-0x6D (0x1D01)
+[Sanma_05]
+// ほな　[pl][pl][pl][pl]ちゃん、[br]
+// また、どこかで、あおうや。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x6E (0x1D1C)
+[Sanma_05]
+// しまった。あそこまで、おいつめたのに[br]
+// たかゆきのやつを　つかまえそこなった…。[br]
+// いまごろ、たかゆきは、そらのうえか。[dlg]<$EF>
+
+
+[dlg]<$EF>
+
+#END()
+
+// Script 0xFB5-0x6F (0x1D59)
+[Sanma_05]
+// ましょうがないか。[br]
+// おれは、たんてい　ほんしょく　やないものな。[br]
+// また、タレントせいかつに　もどるか。[dlg]<$F0>
+
+
+[dlg]<$F0>
+
+#END()
+
+// Script 0xFB5-0x70 (0x1D8F)
+[Sanma_05]
+// [pl][pl]ちゃん。さいごまで、つきおうてくれて[br]
+// ほんまに　ありがとさんでした。[end]
+
+
+[end]
+
+#END()
+
+// Script 0xFB5-0x71 (0x1DB5)
+[Sanma_05]
+// やっと　つかまえられた！[br]
+// よしもとたかゆき、かんねんせい！！[dlg]<$F2>
+
+
+[dlg]<$F2>
+
+#END()
+
+// Script 0xFB5-0x72 (0x1DD6)
+[Takayuki_8C]
+// ………。[dlg]<$F3>
+
+
+[dlg]<$F3>
+
+#END()
+
+// Script 0xFB5-0x73 (0x1DDD)
+[Sanma_05]
+// ぶんちんはん、しんすけ、ふたりをころした[br]
+// つみは　おもいで。それに、みつゆ　や。[dlg]<$F4>
+
+
+[dlg]<$F4>
+
+#END()
+
+// Script 0xFB5-0x74 (0x1E08)
+[Takayuki_8C]
+// うるさい！！もう　いうな！[br]
+// この　けんじゅうが、めに　はいらぬか。[dlg]<$F5>
+
+
+[dlg]<$F5>
+
+#END()
+
+// Script 0xFB5-0x75 (0x1E2C)
+[Sanma_7D]
+// う、う、そんなもん　もっとったんかい。[dlg]<$F6>
+
+
+[dlg]<$F6>
+
+#END()
+
+// Script 0xFB5-0x76 (0x1E42)
+[Ayako_46]
+// やめて、おとうさま！！[br]
+// これいじょう、つみをかさねないで。[dlg]<$F7>
+
+
+[dlg]<$F7>
+
+#END()
+
+// Script 0xFB5-0x77 (0x1E62)
+[Takayuki_8C]
+// あ、あやこ。どうして　ここへ……[br]
+// ともかく　そこを　どけ！！！[dlg]<$F8>
+
+
+[dlg]<$F8>
+
+#END()
+
+// Script 0xFB5-0x78 (0x1E84)
+[Ayako_46]
+// だめ！おとうさま！さんまさんを　うつなら[br]
+// わたしを　うってからにして！！[dlg]<$F9>
+
+
+[dlg]<$F9>
+
+#END()
+
+// Script 0xFB5-0x79 (0x1EAB)
+[Ayako_46]
+// むかしの、やさしいおとうさまに、もどって。[br]
+// おねがい、おとうさま！[dlg]<$FA>
+
+
+[dlg]<$FA>
+
+#END()
+
+// Script 0xFB5-0x7A (0x1ECF)
+[Takayuki_8C]
+// ………[pause]ガク。[dlg]<$FB>
+
+
+[dlg]<$FB>
+
+#END()
+
+// Script 0xFB5-0x7B (0x1ED9)
+[Ayako_46]
+// おとうさま、わたしといっしょに[br]
+// けいさつへ　いきましょう……。[dlg]<$FC>
+
+
+[dlg]<$FC>
+
+#END()
+
+// Script 0xFB5-0x7C (0x1EFB)
+[Sanma_05]
+// つらい　じけんやったな、[pl][pl][pl][pl]ちゃん。[br]
+// …たかゆきのやつ、あのひみつのへや、みつゆの[br]
+// ダイヤを　しまっとくために　つくったんやろが[dlg]<$FD>
+
+
+[dlg]<$FD>
+
+#END()
+
+// Script 0xFB5-0x7D (0x1F40)
+[Sanma_05]
+// おもわぬところで、やくに　たったもんや。[br]
+// あそこのおかげで、ホールをとおらずに[br]
+// きんこしつに　したいを　はこべたのやからな。[dlg]<$FE>
+
+
+[dlg]<$FE>
+
+#END()
+
+// Script 0xFB5-0x7E (0x1F81)
+[Sanma_05]
+// そして、しんすけや。[br]
+// しんすけは　たまたま　さつじんげんばを[br]
+// もくげき　したのやろ。[dlg]<$FF>
+
+
+[dlg]<$FF>
+
+#END()
+
+// Script 0xFB5-0x7F (0x1FAE)
+[Sanma_05]
+// それをねたに　たかゆきを　きょうはくした……。[br]
+// そのために　ころされてしまったのや。[dlg]<$4B>
+
+
+[dlg]<$4B>
+
+#END()
+

@@ -1,0 +1,81 @@
+data:
+  first 3 banks contain text
+    * lookup tables at hardcoded positions per bank (see 1A4D6)
+    * 
+
+0b 26 9c 28 @ 0x189F3
+  * pointer at 1897C
+  
+table of menu entry pointers at 0x18978
+  0x3B entries total?
+
+しゃしん @ 0x1F98A
+
+0x1F968 = table of pointer to "manual vdp" text
+  begins with 2b PPU putpos, followed by a string
+  if string ends with linebreak, followed by another 2b PPU putpos
+  continue until terminator found
+  
+(some) tilemaps:
+  table at 181F6-18225 (0x18 entries)
+    format: (ppuaddr) (data) FF (ppuaddr) (data) ...
+      terminate with FF FF
+    also includes attribute maps
+  table at E30B (0x19 entries) -- probably credits
+    "end" = ~E562
+    format:
+      1b total size - 2??
+        series of entries for each line:
+          1b data size?
+          2b ppu addr
+          data
+        terminate with data size of FF
+        
+18886 = ???
+  
+
+memory:
+  0026 = 8000-9FFF bank number?
+  0027 = A000-BFFF bank number?
+  0032 = total size of all pending 00A0 transfers
+  003E = speaking character index num?
+  0047 = ?
+  0048 = string num (within region at 0056)
+  0049-004A = PPU dstaddr for currently printing string
+  004B = current script getpos?
+  004C = next character print delay counter?
+         see 04B2
+  0050 = ?
+  0055 = ?
+  0056 = text region num?
+  0083 = line num -- determines base PPU put address
+  0084 = ?
+  0085 = ?
+  0086-0089 = player's name
+  008A = ?
+  0095 = ?
+  00A0 = buffer for PPU writes (see 0032)
+    format:
+      1b command
+        ; VRSSSSSS
+        ; SSSSSS = size
+        ; V = vertical nametable write if set
+        ; R = repeat flag
+      1b dst PPU addr low
+      1b dst PPU addr high
+      data to transfer
+  0409-040A = item bitfields
+  04A8 = ?
+  04A9 = ?
+  04B2 = time to next character being printed
+  04B3 = determines sequence of 04B2 as characters are printed?
+  04B8 = ?
+  0618-061A = ?
+
+routines:
+  1A45A = printing update?
+    1A622 = prep next character for printing
+  1C194 = set banking registers based on 0026-0027
+  1C406 = flush pending PPU transfers at 00A0
+  
+

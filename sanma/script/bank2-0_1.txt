@@ -1,0 +1,852 @@
+
+// pad pointer table
+
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+#END()
+
+
+// Script 0x4000-0x40 (0x498C)
+[Ayako_46]
+// きょじんさんが、じけんのさいしょの[br]
+// はっけんしゃです。[end]
+Kyojin is the one who[br]
+first found the body.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x41 (0x49A9)
+[Saburo_2D]
+// しんすけのようすが　おかしかったで。[br]
+// ホールにも　ながいこと　おらへんかった[br]
+// きがするし……[dlg]<$42>
+Shinsuke was actin'[br]
+weird. I think he was[br]
+missin' from the hall[br]
+for a long while...
+
+[dlg]<$42>
+
+#END()
+
+// Script 0x4000-0x42 (0x49DA)
+[Saburo_2D]
+// なんか　へんに　おちつきがなかったし[br]
+// なにか　あるで。[end]
+He was restless for[br]
+some reason. Maybe[br]
+somethin' happened.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x43 (0x49F7)
+[Saburo_2D]
+// ぼくは、ずっとホールに　いてました。[br]
+// だれに　きいても　ええですよ。[end]
+I was in the hall the[br]
+entire time. Just ask[br]
+everyone else.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x44 (0x4A1B)
+[Saburo_2D]
+// それって、ぶんちんはんが　みつけたって[br]
+// きいたことありますわ。[end]
+I think that's some-[br]
+thin' Bunchin found, or[br]
+so I've heard.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x45 (0x4A3C)
+[Saburo_2D]
+// わからんですわ。[br]
+// きょうのところは　かんべんしてください。[end]
+I don't know what to[br]
+say. Terribly sorry.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x46 (0x4A5B)
+[Saburo_2D]
+// このところ　シローくんと　つるんで　なにか[br]
+// やっとる　ようやけど。パーティのときも[br]
+// こそこそ　やってたなあ。[end]
+He's been spendin' a[br]
+lotta time with Shiro[br]
+lately. Even during the[br]
+party, they were talk-[br]
+ing in private.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x47 (0x4A93)
+[Saburo_2D]
+// そやから、あいつ　あやしいおもうねん。[br]
+// なんや　しゃっきん　いっぱいあったし……[dlg]<$48>
+Come to think of it,[br]
+there was somethin' off[br]
+about him. I heard he[br]
+had a lotta debts...
+
+[dlg]<$48>
+
+#END()
+
+// Script 0x4000-0x48 (0x4ABE)
+[Saburo_2D]
+// それが　ちかぢか　たいきんがはいるって[br]
+// じぶんで　うわさながしてるんやで。[br]
+// [br]
+// あれは　あやしいで。[end]
+But he was talkin' a-[br]
+bout how he'd be makin'[br]
+a lotta money soon.[br]
+Ain't that suspicious?
+
+[end]
+
+#END()
+
+// Script 0x4000-0x49 (0x4AF1)
+[Saburo_2D]
+// シローくん？いくら　ぶんちんさんのこと[br]
+// うらんでたって、あいつが[br]
+// ひと　ころせるはず　おまへんがな。[end]
+Shiro? Sure, he didn't[br]
+get along with Bunchin,[br]
+but that don't mean[br]
+he'd go as far as to[br]
+kill him.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x4A (0x4B25)
+[Saburo_2D]
+// ぶんちんはん？まじめなひとでしたよ。[br]
+// シローくんは　さかうらみしてたんや。[end]
+Bunchin? He was a good[br]
+man. Shiro and him did-[br]
+n't get along, though.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x4B (0x4B4C)
+[Saburo_2D]
+// じけんをおこしそうな　ひとやないで。[end]
+That person's not the[br]
+type to cause somethin'[br]
+like this.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x4C (0x4B60)
+[Saburo_2D]
+// あのひとは　さけに　よったら[br]
+// こわいひとやわ。やるかもしれんよ。[end]
+He turns into a scary[br]
+man when he's drunk.[br]
+Who knows? He might ev-[br]
+en be the killer.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x4D (0x4B82)
+[Saburo_2D]
+// いつも　おせわに　なってます。[br]
+// あしむけて　ねられまへんよ。[end]
+I owe him a lot.[br]
+I'll never forget his[br]
+help.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x4E (0x4BA2)
+[Shiro_28]
+// ぼくは、なにも　しりまへんでー。[br]
+// きんこしつにも　あしふみいれてへん。[end]
+I ain't done nuttin'.[br]
+Ain't never been in[br]
+that vault, neither.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x4F (0x4BC7)
+[Shiro_28]
+// ごっつう　よっぱらってましてん。[end]
+I got totally smashed.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x50 (0x4BD9)
+[Shiro_28]
+// そんななまえのダイヤを[br]
+// よしもとの　とっつあんが　とられたそうですな。[end]
+That's the name of the[br]
+diamond that got stole[br]
+from ol' man Yoshimoto,[br]
+yeah?
+
+[end]
+
+#END()
+
+// Script 0x4000-0x51 (0x4BFE)
+[Ayako_46]
+// とくに　かわったようすは　ありませんでした。[end]
+I haven't noticed any-[br]
+thing strange with[br]
+that person.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x52 (0x4C16)
+[Shiro_28]
+// だいこうぶつだっせ。[end]
+That's my favorite[br]
+food.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x53 (0x4C22)
+[Shiro_28]
+// たしかきょうは　しんじゅくのえきまえで[br]
+// まんざい　やってるはずや。なんやったら[br]
+// いっしょにいって　なぐったろか？[end]
+He oughta be doin' his[br]
+manzai act in fronta[br]
+Shinjuku Station. How[br]
+'bout we go together so[br]
+I can beat him up?
+
+[end]
+
+#END()
+
+// Script 0x4000-0x54 (0x4C5C)
+[Shiro_28]
+// なんでっか　それ　たべられまっか？[end]
+That some fancy dish or[br]
+summin'?
+
+[end]
+
+#END()
+
+// Script 0x4000-0x55 (0x4C6F)
+[Shiro_28]
+// のりおにいさんは、げいにんのかがみだす。[br]
+// それだけやおまへん。じんるいの[br]
+// きゅうせいしゅに　なるひとでっせ。[dlg]<$56>
+Norio's a model enter-[br]
+tainer. No...He's[br]
+more'n that. He could[br]
+full well become the[br]
+savior of mankind.
+
+[dlg]<$56>
+
+#END()
+
+// Script 0x4000-0x56 (0x4CA8)
+[Sanma_05]
+// きみ　びょういん　しょうかい　したろか？[dlg]<$57>
+You okay? Should I call[br]
+an ambulance?
+
+[dlg]<$57>
+
+#END()
+
+// Script 0x4000-0x57 (0x4CBF)
+[Shiro_28]
+// ぼく　ほんきでっせ。[end]
+I'm serious.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x58 (0x4CCB)
+[Shiro_28]
+// しんすけ　なにやったんですか？[br]
+// ぼく　なぐったりまっせ。[end]
+Shinsuke done summin'?[br]
+Say the word and I'll[br]
+beat him up.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x59 (0x4CE9)
+[Shiro_28]
+// あんな　さけぐせのわるいやつ[br]
+// なぐったら　ええねん。[end]
+He's a mean drunk. I[br]
+wouldn't mind beatin'[br]
+him up.[br]
+
+[end]
+
+#END()
+
+// Script 0x4000-0x5A (0x4D05)
+[Shiro_28]
+// にえきらんおっさんや。[br]
+// いっぱつ　なぐっちゃろか。[dlg]<$5C>
+An indecisive fella. I[br]
+oughta beat him up a[br]
+mite.
+
+[dlg]<$5C>
+
+#END()
+
+// Script 0x4000-0x5B (0x4D21)
+[Shiro_28]
+// あんまり　きゅうりょう　さっぴかれるから[br]
+// こんど　なぐったるねん。[end]
+Naw, I can't beat him[br]
+up. He'd cut my salary.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x5C (0x4D44)
+[Sanma_05]
+// おまえは　なぐったるしか　いわんのか！[end]
+You just gonna blabber[br]
+'bout beatin' people[br]
+up?!
+
+[end]
+
+#END()
+
+// Script 0x4000-0x5D (0x4D59)
+[Shiro_28]
+// いっぺん　なぐったろ　おもうてたのに…[br]
+// ああなったら　そうもできへん。[end]
+I wanted ta beat him up[br]
+a little, at least[br]
+once...[br]
+But I can't do that[br]
+no more.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x5E (0x4D7E)
+[Shiro_28]
+// おんなのひとは　なぐったら　あかん。[br]
+// しょうとくたいしも　そういうてはる。[end]
+No, ya can't hit women.[br]
+Even Prince Shotoku[br]
+said so.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x5F (0x4DA5)
+[Shiro_28]
+// ごちゃごちゃ　いわんと　なぐったら　ええねん。[br]
+// でもやすし　ししょうだけは　やめたほうがええ。[end]
+Normally I'd just say[br]
+I'd beat him up, but[br]
+I don't wanna risk it[br]
+with Yasushi.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x60 (0x4DD6)
+[Shiro_28]
+// ええ　あいぼうでっせ。[end]
+He's my partner.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x61 (0x4DE3)
+[Ayako_46]
+// シローさんと　のりおさんが[br]
+// こそこそ　はなしていたのを　おぼえています。[end]
+I remember Shiro and[br]
+Norio talking about[br]
+something in private.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x62 (0x4E09)
+[Yasushi_3C]
+// わしか？さいこうや。[end]
+I'm doin' great.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x63 (0x4E15)
+[Yasushi_3C]
+// わしは　きゅうようで　でれなかったさかいな。[end]
+I had somethin' ta do,[br]
+so I couldn't attend.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x64 (0x4E2D)
+[Ayako_46]
+// とくに　かわったようすは　ありませんでした。[end]
+I haven't noticed any-[br]
+thing strange with[br]
+them.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x65 (0x4E45)
+[Ayako_46]
+// そわそわしてるようすでした。[br]
+// だいぶ　よっていたようです。[end]
+He was very restless.[br]
+I think he was drunk.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x66 (0x4E64)
+[Yasushi_3C]
+// おまえ、なにをいうとるんや。[br]
+// わいは　そんなもん　しらんわい。[end]
+Nope. Ain't hearda[br]
+that one.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x67 (0x4E85)
+[Yasushi_3C]
+// おう、あのおっさんか。さいきん　よくない[br]
+// うわさも　きくがのう。わしは　むかしから[br]
+// あのひとに　ようけ　せわになっとる。[dlg]<$68>
+The old guy? Sure, I[br]
+know him. Heard nasty[br]
+rumors lately, but he's[br]
+always helped me when-[br]
+ever I needed.
+
+[dlg]<$68>
+
+#END()
+
+// Script 0x4000-0x68 (0x4EC4)
+[Yasushi_3C]
+// そんなひとの　わるくち　いえるか、おまえら？[br]
+// それが　うきよの　れいぎっちゅうものや。[end]
+I ain't sayin' nothin'[br]
+bad about him. I owe[br]
+him that much.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x69 (0x4EF1)
+[Yasushi_3C]
+// あいつら　やっとスランプから[br]
+// だっしゅつしたようやが………[end]
+I've heard they weren't[br]
+doin' so hot lately,[br]
+but they're fin'lly do-[br]
+in' better now.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x6A (0x4F10)
+[Yasushi_3C]
+// わいの　まねばかり　しおってな。[dlg]<$6C>
+They're always imita-[br]
+tin' me.
+
+[dlg]<$6C>
+
+#END()
+
+// Script 0x4000-0x6B (0x4F23)
+[Yasushi_3C]
+// かねに　こまっておったようやがな。[dlg]<$6C>
+Heard he had some money[br]
+problems.
+
+[dlg]<$6C>
+
+#END()
+
+// Script 0x4000-0x6C (0x4F37)
+[Yasushi_3C]
+// ともかく　げいにんは　げいがしょうぶや。[br]
+// しょうじんせな　あかんでえ。[end]
+Entertainment's all a-[br]
+bout skill. Ya don't[br]
+keep refinin' it, yer[br]
+gonna fail.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x6D (0x4F5C)
+[Ayako_46]
+// パーティのとちゅうから[br]
+// かためがかすむって　いってました。[br]
+// どうしたのかしら。[end]
+In the middle of the[br]
+party, she mentioned[br]
+not seeing well from[br]
+one eye. I wonder what[br]
+happened?
+
+[end]
+
+#END()
+
+// Script 0x4000-0x6E (0x4F85)
+[Ayako_46]
+// やすしさんは、パーティにはきませんでした。[end]
+Yasushi didn't attend[br]
+the party.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x6F (0x4F9C)
+[Norio_14]
+// オレは、いそがしいんや。[br]
+// たにんのこと　なんか　はなしとる　ひまはない。[end]
+I'm a busy man. I ain't[br]
+got time ta talk about[br]
+other people.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x70 (0x4FC2)
+[Norio_14]
+// そう　そう、そのはなしや。[br]
+// ええか、さんま　[pl][pl][pl][pl]。オレはぜったい[br]
+// はんにん　ちがうで。わかってるやろな！[dlg]<$76>
+Right, that's what I[br]
+wanna talk about.[br]
+Now listen up, Sanma[br]
+and [plr][plr][plr][plr]. I AIN'T the[br]
+crim'nal. Got it?
+
+[dlg]<$76>
+
+#END()
+
+// Script 0x4000-0x71 (0x4FFB)
+[Norio_14]
+// アリバイもアリババもあるかい！[br]
+// オレはずっと　かいじょう　おったやないけ。[end]
+Why're ya askin' my al-[br]
+ibi?! I was with every-[br]
+one at the party!
+
+[end]
+
+#END()
+
+// Script 0x4000-0x72 (0x5022)
+[Shiro_28]
+// ぼくは　いま　そういうことには[br]
+// こたえたくない　きぶん　ですねん。[end]
+I don't feel like talk-[br]
+in' 'bout that now.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x73 (0x5045)
+[Hanshin_1E]
+// くものうえの　ひとですよ。[end]
+Sometimes it feels like[br]
+he's above us mere mor-[br]
+tals.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x74 (0x5054)
+[Norio_14]
+// うじゃ　うじゃ　きかんでくれや。[br]
+// わいが　いいたいのは　あのじけんのことや。[end]
+Quit askin' me about[br]
+useless stuff. I wanna[br]
+talk about the inci-[br]
+dent.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x75 (0x507C)
+[Kyoshin_41]
+// ようが　あるいうて[br]
+// パーティには　でてへんかったで。[end]
+He weren't at the par-[br]
+ty. 'pparently, he'd[br]
+got sometin' else ta[br]
+do.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x76 (0x5098)
+[Norio_14]
+// オレ　これから　しごとが　あるねん。[br]
+// また、どっかであえるやろ。ほな。[dlg]<$05>
+Now, I got work ta do.[br]
+See ya later.
+
+[dlg]<$05>
+
+#END()
+
+// Script 0x4000-0x77 (0x50BE)
+[Shiro_28]
+// もう、ゆうことは　ありまへん[end]
+I don't got nuttin'[br]
+else ta say.[br]
+Now, I got work ta do.[br]
+
+[end]
+
+#END()
+
+// Script 0x4000-0x78 (0x50CE)
+[Takayuki_32]
+// きょうはせんりがおかの[br]
+// まいあさテレビに　しゅつえんしとるはずや。[end]
+They should go live on[br]
+TV Maiasa in Senrigaoka[br]
+today.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x79 (0x50F1)
+[Kyoshin_41]
+// たしかに　わしは　はじめに　したいを[br]
+// みつけたけど、ただそれだけや。[br]
+// なんも　してへんでえ。[end]
+'s true I was the one[br]
+that found the body,[br]
+but that's all there is[br]
+ta it.[br]
+I din't do it.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x7A (0x5121)
+[Takayuki_32]
+// そやつが　はんにんか？はやくつかまえてくれ。[end]
+Is that the culprit?[br]
+Hurry up and catch him,[br]
+then!
+
+[end]
+
+#END()
+
+// Script 0x4000-0x7B (0x5139)
+[Takayuki_32]
+// わしが　そんなことやっとるというのか？[br]
+// いいがかりもいいところじゃ。ダイヤはせいとうな[br]
+// しゅだんで　てにいれたものじゃよ。[end]
+Are you implying that I[br]
+did that? Careful with[br]
+those accusations. I a-[br]
+cquired the diamond[br]
+by legitimate means.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x7C (0x5178)
+[Saburo_2D]
+// さんまさん　こんどは　なに[br]
+// してくれはるんでっか？なんかして[br]
+// くれへんと　ぼく　いやでっせ。[end]
+C'mon, Sanma, can't ya[br]
+do somethin' this time?[br]
+I would really appreci-[br]
+ate it if ya did.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x7D (0x51A8)
+[Takayuki_32]
+// しんすけが　かきおきを　のこして　しんだ？[br]
+// すると　はんにんは　しんすけだったのか。[br]
+// してダイヤはかえしていただけるのかな？[end]
+So Shinsuke left a sui-[br]
+cide note and killed[br]
+himself? That means he[br]
+was the culprit. Have[br]
+you found the diamond?
+
+[end]
+
+#END()
+
+// Script 0x4000-0x7E (0x51E8)
+[Ayako_46]
+// そうだ。せんりがおかに[br]
+// ぶんちんさんの　いえがあります。[br]
+// なにか　てがかりが　あるかもしれません。[end]
+By the way, you should[br]
+visit Bunchin's house.[br]
+It's in Senrigaoka.[br]
+Maybe there are some[br]
+clues in there.
+
+[end]
+
+#END()
+
+// Script 0x4000-0x7F (0x521B)
+[Kyoshin_41]
+// ギャラがやすいってわるよいしとったわ。[br]
+// よしもとのおっさんに　ちょくせついうたるって[dlg]<$80>
+He was complainin'[br]
+'bout his salary bein'[br]
+too low. Said he was[br]
+goin' ta talk ter Yo-[br]
+shimoto 'bout it,
+
+[dlg]<$80>
+
+#END()
+

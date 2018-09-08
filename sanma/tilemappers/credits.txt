@@ -1,0 +1,32 @@
+#******************************************************************************
+# Credits tilemap generator script
+#******************************************************************************
+
+[Properties]
+colormode=grayscale
+dest=out/grp/end_grp.bin
+loadAddr=0x40
+maxTiles=0xC0
+# blacklist all original tiles
+#blacklist=0x40-0xC8
+# whitelist "end" components
+whitelist=0x6C-0x7F
+
+[Include00]
+source=rsrc/credits/raw/grp.bin
+loadaddr=0x40
+
+[Background00]
+source=out/grp/font_0x4000.bin
+loadaddr=0x0
+
+#******************************************************************************
+# Main layout
+#******************************************************************************
+
+[Tilemap00]
+source=rsrc/credits/end.png
+dest=out/maps_raw/end.bin
+#priority=0
+#palette=0
+

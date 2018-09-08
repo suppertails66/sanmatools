@@ -1,0 +1,179 @@
+
+// inventory layout:
+// 
+// Photo           Lens          Joke Book     Receipt       
+// Boat Ticket     Takoyaki      Disk          Pendant     
+// Key             Chain         Lighter       Contract    
+// Claim           Diamond       Suicide Note  Threat Letter
+
+
+// PPU command list item 0x1F968-0x0 (0x1F988)
+// <$20><$A4>ÇµÇ·ÇµÇÒ[end]
+// Photo
+//<$20><$A4>a[end]
+<$20><$C2>Photo[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x1 (0x1F98F)
+// <$20><$AA>ÉåÉìÉX[br]
+// <$20><$8C>ÅJ[end]
+// Lens
+//<$20><$AA>a[end]
+<$20><$C8> Contact[br]
+<$20><$E8>  Lens[end]
+
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x2 (0x1F999)
+// <$20><$B0>ÇÀÇΩÇŸÇÒ[end]
+// Joke Book
+//<$20><$B0>a[end]
+<$20><$D0> Joke[br]
+<$20><$F0> Book[end]
+
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x3 (0x1F9A0)
+// <$20><$B6>ÇËÇÂÇ§ÇµÇ„Ç§ÇµÇÂ[end]
+// Receipt
+//<$20><$B6>a[end]
+<$20><$D7>Receipt[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x4 (0x1F9AB)
+// <$21><$24>Ç”Ç»ÇØÇÒ[end]
+// Boat Ticket
+<$21><$42> Boat[br]
+<$21><$62>Ticket[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x5 (0x1F9B2)
+// <$21><$2A>ÇΩÇ±Ç‚Ç´[end]
+// Takoyaki
+// <$21><$2A>a[end]
+<$21><$48>  Tako-[br]
+<$21><$68>  yaki[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x6 (0x1F9B9)
+// <$21><$30>ÉeÉBÉXÉN[br]
+// <$21><$10>ÅJ[end]
+// Disk
+<$21><$50> Disk[end]
+//<$21><$70> [end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x7 (0x1F9C4)
+// <$21><$36>ÉwÉìÉ^ÉìÉg[br]
+// <$21><$16>ÅK[br]
+// <$21><$18>ÅJ[end]
+// Pendant
+<$21><$57>Pendant[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x8 (0x1F9D4)
+// <$21><$A4>Ç©Ç´[br]
+// <$21><$85>ÅJ[end]
+// Key
+<$21><$C2> Key[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0x9 (0x1F9DD)
+// <$21><$AA>Ç≠Ç≥ÇË[end]
+// Chain
+<$21><$C8> Chain[end]
+//<$21><$E8>  [end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0xA (0x1F9E3)
+// <$21><$B0>ÉâÉCÉ^Å[[end]
+// Lighter
+<$21><$D0>Lighter[end]
+//<$21><$F0> [end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0xB (0x1F9EA)
+// <$21><$B6>ÇØÇ¢Ç‚Ç≠ÇµÇÂ[end]
+// Contract
+<$21><$D7> Con-[br]
+<$21><$F7> tract[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0xC (0x1F9F3)
+// <$22><$24>ÇπÇ¢ÇﬂÇ¢[end]
+// Claim
+<$22><$42>Claim[end]
+//<$22><$62>[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0xD (0x1F9FA)
+// <$22><$2A>É^ÉCÉÑ[br]
+// <$22><$0A>ÅJ[end]
+// Diamond
+<$22><$48>  Dia-[br]
+<$22><$68>  mond[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0xE (0x1FA04)
+// <$22><$30>Ç©Ç´Ç®Ç´[end]
+// Suicide Note
+<$22><$50>Suicide[br]
+<$22><$70> Note[end]
+
+[end]
+
+#END()
+
+// PPU command list item 0x1F968-0xF (0x1FA0B)
+// <$22><$36>Ç´ÇÂÇ§ÇÕÇ≠ÇµÇÂÇ§[br]
+// <$22><$1B>ÅJ[end]
+// Threat Letter
+<$22><$57> Threat[br]
+<$22><$77> Letter[end]
+
+[end]
+
+#END()
+

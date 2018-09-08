@@ -1,0 +1,160 @@
+// [pl][pl][pl][pl]「
+[pl][pl][pl][pl][end]   
+
+#END()
+
+// 　さんま「
+Sanma[end]  
+
+#END()
+
+// 　さんま「
+Sanma[end]  
+
+#END()
+
+// 　さんま「
+Sanma[end]  
+
+#END()
+
+// 　のりお「
+Norio[end]  
+
+#END()
+
+// 　のりお「
+Norio[end]  
+
+#END()
+
+// はんしん「
+Hanshin[end]
+
+#END()
+
+// しんすけ「
+Shinsuke
+
+#END()
+
+// 　シロー「
+Shiro[end]  
+
+#END()
+
+// サ[ブ]ロー「
+Saburo[end] 
+
+#END()
+
+// たかゆき「
+Takayuki
+
+#END()
+
+// 　チャタ「
+Chatha[end] 
+
+#END()
+
+// 　やすし「
+Yasushi[end]
+
+#END()
+
+// きょ[じ]ん「
+Kyojin[end] 
+
+#END()
+
+// 　あやこ「
+Ayako[end]  
+
+#END()
+
+// 　いくよ「
+Ikuyo[end]  
+
+#END()
+
+// 　くるよ「
+Kuruyo[end] 
+
+#END()
+
+// 　エミコ「
+Emiko[end]  
+
+#END()
+
+// 　　エミ「
+Emi[end]    
+
+#END()
+
+// 　　ラン「
+Ran[end]    
+
+#END()
+
+// 　　スー「
+Sue[end]    
+
+#END()
+
+// 　　ミキ「
+Miki[end]   
+
+#END()
+
+// テレホン「
+Phone[end]  
+
+#END()
+
+// 　みはり「
+Mihari[end] 
+
+#END()
+
+// マイコン「
+Computer
+
+#END()
+
+// 　さんま「
+Sanma[end]  
+
+#END()
+
+// マイコン「
+Computer
+
+#END()
+
+// 　さんま「
+Sanma[end]  
+
+#END()
+
+// たかゆき「
+Takayuki
+
+#END()
+
+// トントン「
+Tonton[end] 
+
+#END()
+
+// こうすけ「
+Kosuke[end] 
+
+#END()
+
+// 　　カニ「
+Crab[end]  
+
+#END()
+

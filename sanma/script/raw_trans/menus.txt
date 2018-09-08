@@ -1,0 +1,1263 @@
+しらべる[BR]
+Examine[BR]
+
+みる[BR]
+Look[BR]
+
+たたく[BR]
+Strike[BR]
+
+おす[BR]
+Push[BR]
+
+あける[BR]
+Open[BR]
+
+まわす[BR]
+Rotate[BR]
+
+のむ　たべる[BR]
+Drink/Eat[BR]
+
+とる[BR]
+Take[BR]
+
+けホール[BR]
+Hall[BR]
+
+たんていじむしょ[BR]
+Detective Office[BR]
+
+たかゆきのへや[BR]
+Takayuki's Room[BR]
+
+たかゆきのへや[BR]
+Takayuki's Room[BR]
+
+あやこのへや[BR]
+Ayako's Room[BR]
+
+きんこしつ[BR]
+Vault[BR]
+
+きんこしつ[BR]
+Vault[BR]
+
+ひみつのへや[BR]
+Secret Room[BR]
+
+くたんていじむしょ[BR]
+Detective Office[BR]
+
+よしもとのいえ[BR]
+Yoshimoto's Mansion[BR]
+
+せんりがおか[BR]
+Senrigaoka[BR]
+
+なんば[BR]
+Namba[BR]
+
+しんじゅく[BR]
+Shinjuku[BR]
+
+ありまおんせん[BR]
+Arima Onsen[BR]
+
+すみのえ[BR]
+Suminoe[BR]
+
+きなんば[BR]
+Namba[BR]
+
+たんていじむしょ[BR]
+Detective Office[BR]
+
+スタジオカメタ[BR]
+Studio Kameda[BR]
+
+たこいち[BR]
+Takoichi[BR]
+
+なんばかげつ[BR]
+Namba Kagetsu[BR]
+
+キタしんち[BR]
+Kitashinchi[BR]
+
+けせんりがおか[BR]
+Senrigaoka[BR]
+
+たんていじむしょ[BR]
+Detective Office[BR]
+
+まいあさテレビ[BR]
+TV Maiasa[BR]
+
+ぶんちんのへや[BR]
+Bunchin's Room[BR]
+
+きょじんのいえ[BR]
+Kyojin's Residence[BR]
+
+シローのいえ[BR]
+Shiro's Residence[BR]
+
+おもてにでる[BR]
+Go Outside[BR]
+
+おもてにでる[BR]
+Go Outside[BR]
+
+くしんじゆく[BR]
+Shinjuku[BR]
+
+おおさかにもどる[BR]
+Back to Osaka[BR]
+
+　[BR]
+ [BR]
+
+チャタしょうかい[BR]
+Chatha's Store[BR]
+
+クラブポピー[BR]
+Club Poppy[BR]
+
+のりおのあじと[BR]
+Norio's Hideout[BR]
+
+もとにもどる[BR]
+Back[BR]
+
+けシャンデリア[BR]
+Chandelier[BR]
+
+ゆか[BR]
+Floor[BR]
+
+はいざら[BR]
+Ashtray[BR]
+
+ライター[BR]
+Lighter[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けるすばんでんわ[BR]
+Answering Machine[BR]
+
+いす[BR]
+Chairs[BR]
+
+たな[BR]
+Shelves[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けトロフィー[BR]
+Trophy[BR]
+
+ロッカー[BR]
+Locker[BR]
+
+いす[BR]
+Chair[BR]
+
+スイッチ[BR]
+Switch[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けベッド[BR]
+Bed[BR]
+
+カーテン[BR]
+Curtains[BR]
+
+ぱんてい[BR]
+Panties[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けきんこ[BR]
+Safe[BR]
+
+コンタクトレンズ[BR]
+Contact Lens[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けきんこ[BR]
+Safe[BR]
+
+ドア[BR]
+Door[BR]
+
+きんこのなか[BR]
+Inside Safe[BR]
+
+ノブ[BR]
+Knob[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けでんしゃ[BR]
+Train[BR]
+
+スタジオ　マルタ[BR]
+Studio Malta[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けとうろう[BR]
+Lantern[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けボート[BR]
+Boat[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けみぎのギャル[BR]
+Girl on the Right[BR]
+
+ひだりのギャル[BR]
+Girl on the Left[BR]
+
+レオタード[BR]
+Leotard[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けたこやき[BR]
+Takoyaki[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けこくばん[BR]
+Blackboard[BR]
+
+エアコン[BR]
+Air Conditioner[BR]
+
+ちらし[BR]
+Leaflet[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けビール[BR]
+Beer[BR]
+
+たこやき[BR]
+Takoyaki[BR]
+
+ごきげん[BR]
+Interest[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けはこ[BR]
+Box[BR]
+
+はこのなか[BR]
+Inside Box[BR]
+
+かみきれ[BR]
+Slip of Paper[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けパソコン[BR]
+Computer[BR]
+
+せんぷうき[BR]
+Electric Fan[BR]
+
+がくぶち[BR]
+Picture Frames[BR]
+
+ほん[BR]
+Books[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けドア[BR]
+Door[BR]
+
+メーターボックス[BR]
+Meter Box[BR]
+
+インタホン[BR]
+Intercom[BR]
+
+メーター[BR]
+Meters[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けドア[BR]
+Door[BR]
+
+メーターボックス[BR]
+Meter Box[BR]
+
+ブザー[BR]
+Buzzer[BR]
+
+メーター[BR]
+Meters[BR]
+
+ふるしんぶん[BR]
+Old Newspapers[BR]
+
+ビニールのひも[BR]
+Vinyl String[BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けすいしょうだま[BR]
+Crystal Ball[BR]
+
+ぶつぞう[BR]
+Statue[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けボトル[BR]
+Bottle[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けピューマ[BR]
+Puma[BR]
+
+あたま[BR]
+Head[BR]
+
+めだま[BR]
+Eyeball[BR]
+
+しっぽ[BR]
+Tail[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けれいぞうこ[BR]
+Fridge[BR]
+
+ビデオ[BR]
+Videotapes[BR]
+
+ほんだな[BR]
+Bookshelves[BR]
+
+ジュース[BR]
+Soft Drinks[BR]
+
+こおり[BR]
+Ice[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けしゃしんたて[BR]
+Picture Frame[BR]
+
+テレビ[BR]
+TV[BR]
+
+ひきだし[BR]
+Drawers[BR]
+
+くずかご[BR]
+Wastebasket[BR]
+
+のりおのしゃしん[BR]
+Picture of Norio[BR]
+
+きんのくさり[BR]
+Golden Chain[BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けかべ[BR]
+Wall[BR]
+
+ドア[BR]
+Door[BR]
+
+てつごうし[BR]
+Iron Bars[BR]
+
+しょくりょう[BR]
+Food[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けアフリカのほし[BR]
+Star of Africa[BR]
+
+したい[BR]
+Body[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けたいようのとう[BR]
+Tower of the Sun[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けまちなみ[BR]
+Street[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けがめん[BR]
+Screen[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+け　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けひかわまる[BR]
+Hikawa Maru[BR]
+
+うみ[BR]
+Sea[BR]
+
+マリンタワー[BR]
+Marine Tower[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+けたからのはこ[BR]
+Treasure Chest[BR]
+
+たから[BR]
+Treasure[BR]
+
+しま[BR]
+Island[BR]
+
+うみ[BR]
+Sea[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+そのた[BR]
+Something else[BR]
+
+い　[BR]
+ [BR]
+
+うひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+えつかう[BR]
+Use[BR]
+
+もちものしらべる[BR]
+Examine[BR]
+
+みせる　わたす[BR]
+Show/Give[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+じけん[BR]
+Incident[BR]
+
+はんにん[BR]
+Culprit[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+しゅっせきしゃ[BR]
+Attendees[BR]
+
+おひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+しゅっせきしゃ[BR]
+Attendees[BR]
+
+おひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+きひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+しごと[BR]
+Work[BR]
+
+いいねた[BR]
+Good Jokes[BR]
+
+おひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+ゆかげん[BR]
+Water Temperature[BR]
+
+シローのいえ[BR]
+Shiro's House[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+ちょうし[BR]
+Condition[BR]
+
+ねたほん[BR]
+Joke Book[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+あのばんのこと[BR]
+About that evening[BR]
+
+エアロビクス[BR]
+Aerobics[BR]
+
+ペンダント[BR]
+Pendant[BR]
+
+きひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+　[BR]
+ [BR]
+
+きょじんのいえ[BR]
+Kyojin's House[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+エアロビクス[BR]
+Aerobics[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+クラブ[BR]
+Club[BR]
+
+くひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+アリバイ[BR]
+Alibi[BR]
+
+じぎょう[BR]
+Business[BR]
+
+ほうせきぎょう[BR]
+Jewel Business[BR]
+
+エアロビクス[BR]
+Aerobics[BR]
+
+おひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じけん[BR]
+Incident[BR]
+
+さいきんのねた[BR]
+Recent Jokes[BR]
+
+きひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+こだいのひほう[BR]
+Ancient Treasure[BR]
+
+あるゆうめいじん[BR]
+Famous Person[BR]
+
+みつゆ[BR]
+Smuggling[BR]
+
+ピューマ[BR]
+Puma[BR]
+
+かひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+なまえ[BR]
+Name[BR]
+
+すきなタイプ[BR]
+Her type[BR]
+
+スリーサイズ[BR]
+Her three sizes[BR]
+
+うひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+えひとについて[BR]
+About someone[BR]
+
+そのたについて[BR]
+About something else[BR]
+
+じじょう[BR]
+Reasons[BR]
+
+うはい[BR]
+Yes[BR]
+
+いいえ[BR]
+No [BR]
+
+($A4)ぢ($E5)ぢカづああやこ[BR]
+($A4)ぢ($E5)ぢカづあAyako[BR]
+
+たかゆき[BR]
+Takayuki[BR]
+
+ぶんちん[BR]
+Bunchin[BR]
+
+はんしん[BR]
+Hanshin[BR]
+
+きょじん[BR]
+Kyojin[BR]
+
+サブロー[BR]
+Saburo[BR]
+
+シロー[BR]
+Shiro[BR]
+
+いくよ[BR]
+Ikuyo[BR]
+
+くるよ[BR]
+Kuruyo[BR]
+
+しんすけ[BR]
+Shinsuke[BR]
+
+のりお[BR]
+Norio[BR]
+
+やすし[BR]
+Yasushi[BR]
+
+チャタ[BR]
+Chatha[BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+　[BR]
+ [BR]
+
+あパーティ[BR]
+The party[BR]
+
+アフリカのほし[BR]
+Star of Africa[BR]
+
+くるよのきんがん[BR]
+Kuruyo's nearsightedness[BR]
+
+しんじぎょう[BR]
+New Business[BR]
+
+たこやき[BR]
+Takoyaki[BR]
+
+ペンダント[BR]
+Pendant[BR]
+
+スハダクラブ[BR]
+SHDClub[BR]
+
+ねたほん[BR]
+Joke Book[BR]
+
+のりおのクラブ[BR]
+Norio's Club[BR]
+
+ギャラ[BR]
+Salary[BR]
+
+やみのていおう[BR]
+Emperor of Darkness[BR]
+
+みつゆ[BR]
+Smuggling[BR]
+
+ピューマ[BR]
+Puma[BR]
+
+しんすけのし[BR]
+Shinsuke's Death[BR]
+
+はやぶさ[BR]
+8823[BR]
+
+　[BR]
+ [BR]
+
+あげんばしゃしん[BR]
+Crime Photo[BR]
+
+コンタクトレンズ[BR]
+Contact Lens[BR]
+
+りょうしゅうしょ[BR]
+Receipt[BR]
+
+ねたほん[BR]
+Joke Book[BR]
+
+ふなけん[BR]
+Boat Ticket[BR]
+
+たこやき[BR]
+Takoyaki[BR]
+
+ペンダント[BR]
+Pendant[BR]
+
+ディスク[BR]
+Disk[BR]
+
+はんこうせいめい[BR]
+Responsibility Claim[BR]
+
+かぎ[BR]
+Key[BR]
+
+きんのくさり[BR]
+Golden Chain[BR]
+
+ライター[BR]
+Lighter[BR]
+
+アフリカのほし[BR]
+Star of Africa[BR]
+
+けいやくしょ[BR]
+Contract[BR]
+
+りょうしゅうしょ[BR]
+Receipt[BR]
+
+かきおき[BR]
+Suicide Note[BR]
+

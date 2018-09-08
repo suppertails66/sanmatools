@@ -1,0 +1,1381 @@
+// Script 0x5248-0x0 (0x5348)
+[Kyoshin_41]
+// パーティの　さいちゅうに　よしもとはんの[br]
+// へやにいったんと　ちがうかな。[end]
+so he left midway[br]
+through the party to go[br]
+see him in his room.
+
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1 (0x536E)
+[Saburo_2D]
+// ペンダントいわれてもなあ……[br]
+// じつぶつ　もってません？[end]
+Pendant? That's kinda[br]
+vague...Ya got it with[br]
+ya?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2 (0x538B)
+[Saburo_2D]
+// おしえたっても　ええけど[br]
+// さんまさん、なにか　してくれへん？[end]
+I don't mind tellin'[br]
+ya, but my shoulders're[br]
+pretty stiff. Can't ya[br]
+do somethin' for me?[br]
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3 (0x53AB)
+[Saburo_2D]
+// うん、ちょうどええ。[end]
+It's perfect.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x4 (0x53B7)
+[Yasushi_3C]
+// あれについて　きみょうなうわさ　きいとるで。[br]
+// わしとボートでしょうぶして　かったら[br]
+// おしえたっても　ええで。どや？[end]
+I've heard some weird[br]
+rumors 'bout it. If[br]
+y'all win a boat race[br]
+'gainst me, I'll tell[br]
+ya. Well? Up fer it?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x5 (0x53F2)
+[Saburo_2D]
+// やっぱり、しんすけ　やったんか。[br]
+// でもじさつなんて　しんすけらしくないなあ…[end]
+So it was Shinsuke who[br]
+did it...But suicide?[br]
+That's not really like[br]
+him.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x6 (0x541A)
+[Yasushi_3C]
+// あいつ、けんきゅうねっしんなやつでな。[br]
+// ざんねんな　ことやな。[end]
+A man with an inquirin'[br]
+mind. 's a shame he's[br]
+gone.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x7 (0x543B)
+[Kuruyo_50]
+// じつは、あのばん　うちは、きんこしつに[br]
+// いったんや。[dlg]<$88>
+Truth is...[br]
+That evenin', I went[br]
+inside the vault.
+
+[dlg]<$88>
+
+#END()
+
+// Script 0x5248-0x8 (0x5458)
+[Kuruyo_50]
+// うちは　よしもとのおっさんが、ほうせきを[br]
+// ためこんでると　きいてな[br]
+// ついきんこしつに　しのびこんだのよ。[dlg]<$89>
+I'd heard tell that Yo-[br]
+shimoto had some jewels[br]
+stashed away in the[br]
+vault, so I made my[br]
+way inside.
+
+[dlg]<$89>
+
+#END()
+
+// Script 0x5248-0x9 (0x548F)
+[Kuruyo_50]
+// でも、きんこはあかへんかったし、ぶんちんはんの[br]
+// したいも　そのときは　なかったわ。[br]
+// へんなペンダント　ひろっただけや。[end]
+But I couldn't open the[br]
+safe. Bunchin weren't[br]
+there yet when's I en-[br]
+tered the vault. I only[br]
+found a weird pendant.
+
+[end]
+
+#END()
+
+// Script 0x5248-0xA (0x54CC)
+[Kuruyo_50]
+// うち　それはただじゃあ　いわんよ。[end]
+I ain't sayin' a thing[br]
+'bout it for free.
+
+[end]
+
+#END()
+
+// Script 0x5248-0xB (0x54DF)
+[Kuruyo_50]
+// やせたいんやけど　おなかがへって、かなわん。[end]
+I'm tryin' to get in[br]
+shape, but this just[br]
+makes me hungrier.
+
+[end]
+
+#END()
+
+// Script 0x5248-0xC (0x54F7)
+[Sanma_05]
+// ほな　しょうぶや！[pl][pl]ちゃん、[br]
+// いっしょうけんめい　ボタン　たたいてや。[end]
+You're on![br]
+[plr]-bud, mash them[br]
+buttons as hard as you[br]
+can![pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x5248-0xD (0x551D)
+[Ayako_46]
+// しんすけさんが　じさつ　したの？[br]
+// しんじられない。[end]
+Shinsuke killed him-[br]
+self?[br]
+I can't believe it...
+
+[end]
+
+#END()
+
+// Script 0x5248-0xE (0x5538)
+[Hanshin_1E]
+// わいは、ほんまにしりませんのや。[br]
+// きょじんくんにきいてみれば　ええんやないの？[end]
+I don't know anything[br]
+about it, really. Why[br]
+don't ya try asking[br]
+Kyojin?
+
+[end]
+
+#END()
+
+// Script 0x5248-0xF (0x5561)
+
+
+#END()
+
+// Script 0x5248-0x10 (0x5561)
+[Sanma_05]
+// いや　こんかいは　やめときます。[end]
+Naw, that's enough for[br]
+now.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x11 (0x5573)
+[Hanshin_1E]
+// わいは　せいれんけっぱくや。[end]
+I'm a good an' honest[br]
+man!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x12 (0x5583)
+[Hanshin_1E]
+// せんりがおかに　あるんやで。[end]
+It's in Senrigaoka.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x13 (0x5593)
+[Hanshin_1E]
+// まあそんなことより、たこやきでも　くいなはれ。[end]
+Let's eat some takoyaki[br]
+first.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x14 (0x55AC)
+[Yasushi_3C]
+// ざんねんやったな。どや、もういっぺん[br]
+// しょうぶして　やろか？[end]
+Too bad![br]
+D'y'all wanna try a-[br]
+gain?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x15 (0x55CC)
+[Shiro_28]
+// ホールにおりました。これほんま！[end]
+I was in the hall. 's[br]
+true!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x16 (0x55DE)
+[Ikuyo_4B]
+// スタジオカメダって　とこよ。[br]
+// さんまちゃん、[pl][pl][pl][pl]ちゃんもいってみれば。[br]
+// くるよちゃんも、いってるはずや。[end]
+It's called Studio Ka-[br]
+meda. You 'n' [plr][plr][plr][plr][br]
+should go check it out.[br]
+Kuruyo oughta be there,[br]
+too.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x17 (0x5616)
+[Ikuyo_4B]
+// たこやき　あげれば、たいていなんでも[br]
+// きいてくれると　おもうわ。[end]
+She'll tell you every-[br]
+thing you want if you[br]
+bring her some tako-[br]
+yaki.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x18 (0x5638)
+[Shiro_28]
+// え？ペンダント？しらんですねえ。[end]
+Wuh? A pendant? I don't[br]
+know nuttin' 'bout no[br]
+pendants.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x19 (0x564A)
+[Kuruyo_50]
+// ペンダントのほうが　だいじやないの？[end]
+I thought the pendant[br]
+was more important?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1A (0x565E)
+[Ikuyo_4B]
+// ええ？！[br]
+// じゃ、しんすけちゃん　はんにんなの？[end]
+Huh?![br]
+Does that mean Shinsuke[br]
+was the culprit?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1B (0x5677)
+[Saburo_2D]
+// そりゃ　なにかの　あんごう　でっせ。[end]
+Hmm...Sounds like a[br]
+code, or a password.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1C (0x568B)
+[Yasushi_3C]
+// このまえ　いったやないか。きょうはええやろ。[end]
+Naw, not today.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1D (0x56A3)
+[Yasushi_3C]
+// しんすけが　じさつ？かわいそうにの。[end]
+Shinsuke killed him-[br]
+self? Poor fella...
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1E (0x56B7)
+[Ikuyo_4B]
+// ほんまに、ひどいじけんやわ。ぶんちんさん、[br]
+// ええひとやったのに。ぜったい[br]
+// はんにん　みつけてや。[end]
+This is really tragic.[br]
+Bunchin was a good[br]
+man. You gotta find[br]
+the criminal!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x1F (0x56E9)
+[Ikuyo_4B]
+// うちは　ホールから　はなれてへんよ。[end]
+I never left the hall.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x20 (0x56FD)
+[Saburo_2D]
+// なんでっか？しんばんぐみでっか？[end]
+What's that? A new[br]
+show?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x21 (0x570F)
+[Ikuyo_4B]
+// みんな　おおさわぎ　やったで。[end]
+It was a memorable par-[br]
+ty, that's for sure.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x22 (0x5720)
+[Ikuyo_4B]
+// なんでも　すごいダイヤだって。くるよちゃんから[br]
+// きいたわ。くるよちゃん、[br]
+// えらい　うらやましがってたなあ。[end]
+Apparently, it's an in-[br]
+credible diamond. Kuru-[br]
+yo told me all about[br]
+it. I think she was[br]
+jealous.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x23 (0x5757)
+[Saburo_2D]
+// ぼくは　よくしりまへん。[br]
+// くるよさんが　くわしそうやったで。[end]
+I don't know much a-[br]
+bout it. You should ask[br]
+Kuruyo.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x24 (0x5777)
+
+
+#END()
+
+// Script 0x5248-0x25 (0x5777)
+[Ikuyo_4B]
+// さあなんやろね。[end]
+Naw, I don't really[br]
+know anything.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x26 (0x5781)
+[Ikuyo_4B]
+// のりおちゃんは、ずっとホールにおって[br]
+// いつものように　しょうもないこと[br]
+// いっていたわよ。[end]
+Norio was in the hall[br]
+the whole evening[br]
+boring us with his non-[br]
+sense, as usual.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x27 (0x57AF)
+[Ikuyo_4B]
+// あのばん　ギャラのことで[br]
+// よしもとはんに　じかだんぱん[br]
+// するって　いきまいとったわ。[dlg]<$AF>
+I think he wanted to[br]
+speak with Mr. Yoshimo-[br]
+to about his salary. He[br]
+was real worked up a-[br]
+bout it.[br]
+
+[dlg]<$AF>
+
+#END()
+
+// Script 0x5248-0x28 (0x57DC)
+[Ikuyo_4B]
+// あのひとは、わるいことはできへん　おもうよ。[br]
+// あのばんも、よっぱらってるだけやったで。[end]
+I don't think he's ca-[br]
+pable of harming any-[br]
+one. He spent the whole[br]
+evening drinking.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x29 (0x5809)
+[Ikuyo_4B]
+// さいしょに　みつけたのは　きょじんさん[br]
+// やったよ。けっそうかえて　とびこんできたわ。[end]
+Kyojin is the one who[br]
+first found the body.[br]
+You shoulda seen the[br]
+look on his face.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2A (0x5835)
+[Ikuyo_4B]
+// ずっとホールにおったと　おもうけど。[end]
+I think he stayed in[br]
+the hall the whole[br]
+time.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2B (0x5849)
+[Ikuyo_4B]
+// くるよちゃんが　さつじんなんて[br]
+// とんでもない。[end]
+Kuruyo could never be[br]
+the killer![br]
+Never!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2C (0x5862)
+[Ikuyo_4B]
+// たかゆきはんは、パーティのさいちゅう、ずっと[br]
+// へやに　こもりきりやったで。ホールとおらんと[br]
+// きんこしつは　いけへんはずや。[end]
+Mr. Takayuki was in his[br]
+room the whole party. I[br]
+know 'cause you can on-[br]
+ly reach the vault[br]
+through the hall.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2D (0x58A1)
+[Ikuyo_4B]
+// かわいそうな　こ　やね。[end]
+Poor girl. I feel sorry[br]
+for her.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2E (0x58AF)
+[Ikuyo_4B]
+// あのばんいなかったけど[br]
+// じけんにかんけいあるの。[end]
+He wasn't at the party,[br]
+but I think he knows[br]
+something about the in-[br]
+cident.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x2F (0x58C9)
+[Ikuyo_4B]
+// とちゅうで　たかゆきはんのへやへ[br]
+// いったようやね。[end]
+Midway through the par-[br]
+ty, he went to Takayu-[br]
+ki's room.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x30 (0x58E4)
+[Kuruyo_50]
+// ぶんちんはんが　かわいそうや。よしもとみたいな[br]
+// やつこそ、ころされれば…[br]
+// おっとめったなこと　いうもんやないわ。[end]
+Poor Bunchin din't de-[br]
+serve it. Now if Yoshi-[br]
+moto'd got hisself mur-[br]
+dered -- Whoops. Y'all[br]
+didn't hear that.[br]
+
+[end]
+
+#END()
+
+// Script 0x5248-0x31 (0x591E)
+[Kuruyo_50]
+// アリバイいうてもな、ごちゃごちゃしとった[br]
+// さかいな。[end]
+Why're you askin' me[br]
+'bout my alibi? Do I[br]
+look like a criminal?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x32 (0x593A)
+[Kuruyo_50]
+// ほんまは、でたくなかったんやけどな。うちな[br]
+// よしもとのこと、すきやないねん。[end]
+I din't really wanna a-[br]
+ttend. I don't like Yo-[br]
+shimoto too much,[br]
+y'see.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x33 (0x5962)
+[Kuruyo_50]
+// なんや、でっかいダイヤやて。よしもと、うちらを[br]
+// こきつかってダイヤこうてるの。[br]
+// ほんまあたまにくる。[end]
+It's a real big dia-[br]
+mond. Yoshimoto works[br]
+us real hard so he kin[br]
+buy things like that.[br]
+He riles me right up!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x34 (0x5996)
+[Kuruyo_50]
+// どっかできいたことある。[br]
+// ぶんちんはんから　やったっけ。[end]
+I've heard tell 'bout[br]
+it, yep. Think Bunchin[br]
+mentioned it before.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x35 (0x59B4)
+[Saburo_2D]
+// ダイヤのこと　しきりに　はなしてたなあ。[end]
+She kept talkin' about[br]
+that diamond.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x36 (0x59CA)
+[Saburo_2D]
+// あのひとは　ひがいしゃでっしゃろ。[end]
+He's the victim, right?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x37 (0x59DD)
+[Kuruyo_50]
+// ひょっとすると　それ……いや、しらん。[end]
+Could that be --[br]
+...Naw, I dunno nothin'[br]
+about it.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x38 (0x59F2)
+[Kuruyo_50]
+// うち　しらん。ほかのひとを　あたってみい。[end]
+Ain't heard that be-[br]
+fore. Try askin' some-[br]
+one else.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x39 (0x5A09)
+[Kuruyo_50]
+// なんかおかしなこと　やってるって[br]
+// そんなうわさも　あるんよ。[end]
+From what I hear, he's[br]
+been doin' some weird[br]
+stuff lately.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3A (0x5A29)
+[Kuruyo_50]
+// おかねにこまってるって　うわさやね。[br]
+// でもきのうあったときは　[br]
+// ちかいうちにたいきんがはいるっていってたわ。[end]
+There's been rumors he[br]
+got money troubles. But[br]
+yesterday he told me[br]
+he'd be gettin' a big[br]
+heapa cash real soon.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3B (0x5A61)
+[Kuruyo_50]
+// あのシローってこは、[br]
+// よく　のりおちゃんといっしょに　いるで。[br]
+// なんかへんなこと　やってるのかもね。[end]
+Shiro?[br]
+He spent mosta the time[br]
+with Norio. Right su-[br]
+spicious, if'n y'ask[br]
+me.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3C (0x5A95)
+[Kuruyo_50]
+// あいかたは　きんばっち、さすがの[br]
+// やすし　ししょうもやりにくいやろな。[end]
+Yasushi's a hard man to[br]
+deal with, I'll say[br]
+that much.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3D (0x5ABA)
+[Kuruyo_50]
+// うち　だいぶ　あたまにきてんねん。[br]
+// おっさん　なんもせんで　もうけてるんやで。[end]
+He riles me up just[br]
+thinkin' about him. We[br]
+do all the work an' he[br]
+gets most of the dough.[br]
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3E (0x5AE3)
+[Kuruyo_50]
+// いくよちゃんは　ほんま　まじめやわ。[end]
+Ikuyo's a good and hon-[br]
+est girl.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x3F (0x5AF7)
+[Kuruyo_50]
+// うち　よう　しらんのよ。[end]
+I dunno much.[br]
+Sorry.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x40 (0x5B05)
+[Shiro_28]
+// ぼく　ぶんちんにいさんの[br]
+// おとうとでし　やったときあるねん。[br]
+// あのころ、だいぶいじめられたで。[dlg]<$5D>
+I was Bunchin's junior[br]
+when we was studyin'[br]
+under the same master.[br]
+He was always teasin'[br]
+me.
+
+[dlg]<$5D>
+
+#END()
+
+// Script 0x5248-0x41 (0x5B37)
+[Ikuyo_4B]
+// ぶんちんさんが　だいじにしてた　ほんやろ？[br]
+// じけんいらい　ゆくえふめい　やって。[end]
+That's Bunchin's pre-[br]
+cious book, right?[br]
+Heard it disappeared[br]
+after the incident.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x42 (0x5B61)
+[Kyoshin_41]
+// ぎくーー！し、しらん。ぜんぜん　しらんで。[end]
+(gasp)[br]
+I-I-I don't know nu-[br]
+ttin' 'bout it! Honest!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x43 (0x5B78)
+[Kyoshin_41]
+// いま　とりこみちゅうや。あとにしてくれ。[end]
+Kin we do this later?[br]
+Got my hands full now.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x44 (0x5B8E)
+[Chatha_37]
+// そのダイヤ、こだいのひほうの　なぞが[br]
+// かくされていると　いわれて　いるでよー。[end]
+It is said that diamond[br]
+is part of the riddle[br]
+to an ancient treasure.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x45 (0x5BB7)
+[Chatha_37]
+// ゆだや　につたわる　ひほう　あるね。[br]
+// あるゆうめいじんが　これをさがしていたある。[br]
+// ぎょうかい　では　ゆうめいな　はなしあるよ。[dlg]<$C9>
+It is a sacred Judaic[br]
+treasure. It is a popu-[br]
+lar topic in my work[br]
+that a certain famous[br]
+person also sought it.[br]
+
+[dlg]<$C9>
+
+#END()
+
+// Script 0x5248-0x46 (0x5BFA)
+[Chatha_37]
+// おどろくでないのことよ、[br]
+// あの[pause]ヒトラーあるよ。[end]
+Do not be startled when[br]
+you hear the name. This[br]
+famous person was none[br]
+other than[pause] Adolf Hit-[br]
+ler.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x47 (0x5C14)
+[Chatha_37]
+// そのおとこのつかい　まえに　きたよ。[br]
+// やはりアフリカのほしのこと、[br]
+// ねほり、はほり　きいていったあるよ。[dlg]<$E3>
+One of his henchmen has[br]
+come here. He asked ma-[br]
+ny questions about the[br]
+Star of Africa.
+
+[dlg]<$E3>
+
+#END()
+
+// Script 0x5248-0x48 (0x5C4B)
+[Chatha_37]
+// めっそうもない！[br]
+// わたしは、まっとうな　しょうぱいにんあるね。[br]
+// みつゆなんて　とんでもにゃあ。[end]
+Nonsense![br]
+This is a legitimate[br]
+business. I have no-[br]
+thing to do with any[br]
+smuggling.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x49 (0x5C7C)
+[Chatha_37]
+// アフリカのほし　とピューマ。[br]
+// これが　でんせつのなぞ　ある。[end]
+The Star of Africa and[br]
+the Puma. They are the[br]
+keys of the legendary[br]
+riddle.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x4A (0x5C9C)
+[Chatha_37]
+// さあ、なんのことあるか。わたし　ちっとも[br]
+// わからにゃーのことよ。[end]
+I do not know about[br]
+that.[br]
+I am sorry.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x4B (0x5CBE)
+[Chatha_37]
+// わたし　そーゆー　なまえのひと[br]
+// よく　しらないある。すまんのこと。[end]
+I ask for forgiveness.[br]
+I have never heard this[br]
+name before.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x4C (0x5CE1)
+[Chatha_37]
+// わたし　なごやで　にほんごならったでよ。[br]
+// ほうせき　うるのが　しょうぱい　あるね。[end]
+I have learned Japanese[br]
+in Nagoya. Selling jew-[br]
+els is my business.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x4D (0x5D0C)
+[Chatha_37]
+// あのおっさんが、はなし　もちかけてきたある。[br]
+// よしもと　わるい！チャタ　わるくない！[dlg]<$CE>
+It was old man who[br]
+talked me into it![br]
+Yoshimoto is evil man![br]
+Chatha is innocent![br]
+
+[dlg]<$CE>
+
+#END()
+
+// Script 0x5248-0x4E (0x5D39)
+[Sanma_05]
+// じぶんかってな　やっちゃなあ。[end]
+What a selfish jerk.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x4F (0x5D4A)
+[Emiko_55]
+// エミコでーーす。[end]
+I'm Emiko!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x50 (0x5D54)
+[Emiko_55]
+// しっぶーい　おじさんが　すっきー。[end]
+I like refined, older[br]
+men!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x51 (0x5D67)
+[Emiko_55]
+// うっそー、やっだー。[end]
+No way!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x52 (0x5D73)
+[Emiko_55]
+// むずかしいはなし、あたし、わかんなーーい。[end]
+That's too hard. I[br]
+don't get it!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x53 (0x5D8A)
+[Emiko_55]
+// あたし　しっらなーい。[end]
+I don't know!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x54 (0x5D97)
+[Emi_5A]
+// エミでーす。[end]
+I'm Emi!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x55 (0x5D9F)
+[Emi_5A]
+// さんまさんみたいな　ひとがいいわ。[end]
+Men like you, Sanma!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x56 (0x5DB2)
+[Emi_5A]
+// あとでね。うふっ。[end]
+Maybe later. (giggle)
+
+[end]
+
+#END()
+
+// Script 0x5248-0x57 (0x5DBD)
+[Kuruyo_50]
+// きょうは　なんばかげつに　でてるはずや。[br]
+// いってみればどう？[end]
+He's got a show at Nam-[br]
+ba Kagetsu today. Why[br]
+don't y'all go check it[br]
+out?
+
+[end]
+
+#END()
+
+// Script 0x5248-0x58 (0x5DDD)
+[Emi_5A]
+// あたし　それより[br]
+// さんまさんのこと　ききたい。[end]
+I'd rather hear about[br]
+YOU, Sanma!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x59 (0x5DF6)
+[Norio_19]
+// はなしは　ナゾをといてからや。[end]
+We'll talk AFTER ya[br]
+solve the riddle.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x5A (0x5E07)
+[Kyoshin_41]
+// できごころやったんや………[end]
+I acted impulsively...
+
+[end]
+
+#END()
+
+// Script 0x5248-0x5B (0x5E16)
+[Kyoshin_41]
+// ぶんちんはんの　したいのわきに　このねたほんが[br]
+// おちてたんや。さいきんスランプやったし[br]
+// つい、ふらふらと　てがのびてしまって……[dlg]<$DC>
+The book was right next[br]
+ta Bunchin's body. We'd[br]
+done real bad lately,[br]
+an' 'fore I knew it,[br]
+I'd grabbed the book...
+
+[dlg]<$DC>
+
+#END()
+
+// Script 0x5248-0x5C (0x5E59)
+[Kyoshin_41]
+// けど　しんじてくれ。[br]
+// おれが　ころしたんやない。[dlg]<$DD>
+But ya gotta believe[br]
+me![br]
+I did NOT kill him!
+
+[dlg]<$DD>
+
+#END()
+
+// Script 0x5248-0x5D (0x5E74)
+[Sanma_05]
+// [pl][pl][pl][pl]ちゃん、きょじんくんの　いうことに[br]
+// うそはないみたいや。[end]
+I don't think Kyojin's[br]
+lying, [plr][plr][plr][plr].
+
+[end]
+
+#END()
+
+// Script 0x5248-0x5E (0x5E96)
+[Ikuyo_4B]
+// のりおちゃんに　くっついていたわね。[br]
+// ずっと　いっしょに　いたわ。[end]
+He was with Norio all[br]
+the time. He never left[br]
+his side.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x5F (0x5EB9)
+[Kyoshin_41]
+// そやから　おれはねたほんとっただけや。[br]
+// もう　ゆるしてくださいよ。[end]
+I only took the joke[br]
+book.[br]
+Please forgive me al-[br]
+ready!
+
+[end]
+
+#END()
+
+// Script 0x5248-0x60 (0x5EDC)
+[Kuruyo_50]
+// はんしんさんは　きのよわい　ひとやわ。[end]
+Hanshin? He's a wimp.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x61 (0x5EF1)
+[Kuruyo_50]
+// じけんいらい　みちがえるようなええ　ぶたい[br]
+// やっとるで。あんなええねた　どっから[br]
+// みつけてきたんやろか。[end]
+Since the incident, his[br]
+jokes got so good he's[br]
+like a different per-[br]
+son. Guess he's found[br]
+some good new material.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x62 (0x5F27)
+[Kuruyo_50]
+// うちは　なんもしてへんでえ。[end]
+I din't do nothin'[br]
+wrong.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x63 (0x5F37)
+[Chatha_37]
+// クラブ　ポピーってところで[br]
+// あったあるね。[end]
+You should be able to[br]
+find him at Club Poppy.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x64 (0x5F4E)
+[Norio_19]
+// アフリカのほし　だしなさい　ゆうとるのに。[br]
+// じぶんら　つかまっとるんやぞ。[end]
+I told ya ta gimme the[br]
+Star of Africa.[br]
+Don't forget you're my[br]
+prisoners.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x65 (0x5F75)
+[Takayuki_32]
+// ここから　きんこしつへは[br]
+// ホールを　とおらんといけん。[br]
+// みなに　きいてくれ。[end]
+You can't reach the[br]
+vault from here without[br]
+walking through the[br]
+hall. Ask anyone --[br]
+they'll all confirm it.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x66 (0x5F9D)
+[Kuruyo_50]
+// うち　もう　しってること　ぜんぶはなしたわ。[end]
+I've already told you[br]
+everything I know.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x67 (0x5FB5)
+[Yasushi_3C]
+// ええほんや　ゆうことや。[end]
+It's a really good[br]
+book.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x68 (0x5FC3)
+[Kyoshin_41]
+// ぼちぼちでんな。[end]
+So-so.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x69 (0x5FCD)
+[Norio_14]
+// わしは　なっとうまん　や。[end]
+I'm Nattoman.
+
+[end]
+
+#END()
+
+// Script 0x5248-0x6A (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x6B (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x6C (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x6D (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x6E (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x6F (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x70 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x71 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x72 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x73 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x74 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x75 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x76 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x77 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x78 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x79 (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x7A (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x7B (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x7C (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x7D (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x7E (0x5FDC)
+
+
+#END()
+
+// Script 0x5248-0x7F (0x5FDC)
+[dummy_FF]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// [br]
+// 
+[br]
+
+
+#END()
+

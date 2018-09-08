@@ -1,0 +1,68 @@
+-------	INTRO -------
+
+なにをする
+　　やめろ！
+
+What are you doing?!
+
+ギャー
+
+ARGH!
+
+ぶんちん　さつじんじけんに、
+めいたんてい　さんまの　とうじょうです。
+
+Detective Sanma has been tasked to solve Bunchin's murder.
+
+オレが　そうさ　するんや！
+でも　ひとりでは　こころぼそいなあ……。
+
+I'll find the murderer!
+But it feels kinda lonely to do it alone...
+
+そこの　きみ！　おねがい！
+オレといっしょに　そうさしよ。
+にっくき　はんにんを　つかまえるんや！
+
+Hey, you! Please, investigate with me!
+Let's catch that evil criminal together!
+
+-------	Name input screen -------
+
+なまえを　おしえてください。
+
+Please input your name.
+
+-------	Text on tombs in graveyard -------
+
+金田七家 Kindashichi Family
+
+普川家	Fukawa Family
+
+-------	Ending -------
+
+この　ものがたりは、かくうのものであり、
+とうじょうする　だんたい、じけん　などは、
+じつざいのものとは　いっさい　かんけいありません。
+
+		終劇
+
+This is a work of fiction. Characters, events and incidents are used in a fictitious manner. Any resemblance to actual persons or events is purely coincidental.
+
+		Fin
+		
+-------	Bad ending screen -------
+
+お　し　ま　い
+
+……と　おもったら　おおまちがい！
+これは、ほんとうの　おわり　ではありません。
+まだ　じけんは　かいけつして　いないのです。
+はやく　しんはんにんを　つかまえてください！
+
+The End
+
+...Wrong!
+This is not actually the true ending.
+This case is not yet solved.
+Try again and find the real culprit!

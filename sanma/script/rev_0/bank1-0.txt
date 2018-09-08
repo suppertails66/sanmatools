@@ -1,0 +1,1483 @@
+// Script 0x2000-0x0 (0x2100)
+[dummy_FF]
+// [br]
+// 
+[br]
+
+#END()
+
+// Script 0x2000-0x1 (0x2102)
+[Sanma_05]
+// なに　しらべましょうか？[end]
+What're we lookin' at?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x2 (0x2110)
+[Sanma_05]
+// どれ　まわそか？[end]
+What d'you wanna ro-[br]
+tate?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x3 (0x211A)
+[Sanma_05]
+// どれから　いく？[end]
+Sure, what?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x4 (0x2124)
+[Sanma_05]
+// どれ　とろか？[end]
+What're we takin'?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5 (0x212D)
+[Sanma_05]
+// よくわからへんけど　いじょうは　ないみたい。[end]
+Naw, nothin' weird in[br]
+here.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x6 (0x2145)
+[Sanma_05]
+// おれには　さっぱり　わからん。[br]
+// ほんまに　これが　じゅうようなの？[end]
+Don't ask me. We sure[br]
+this's important?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x7 (0x2168)
+[Sanma_05]
+// こんなもん　まわして　どないするんや。[end]
+What's the point of[br]
+rotatin' that?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x8 (0x217D)
+[Sanma_05]
+// ほんまに　まわすの？いみ　ないで。[end]
+That's kinda pointless,[br]
+ain't it?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x9 (0x2190)
+[Sanma_05]
+// [pl][pl]ちゃん！じょーだん　いわんといて、[br]
+// たべられるわけ　ないやないか。[end]
+C'mon, [plr]-bud! Y'know I[br]
+can't eat that!
+
+[end]
+
+#END()
+
+// Script 0x2000-0xA (0x21B5)
+[Sanma_05]
+// おれが　わるかった。[br]
+// それだけは　ゆるして　ちょんまげ。[end]
+Sorry, my bad. Forgive[br]
+me.[br]
+
+[end]
+
+#END()
+
+// Script 0x2000-0xB (0x21D3)
+[Sanma_05]
+// とっても　しょうが　あらへん。やめとこ。[end]
+I can't do that. Sorry.
+
+[end]
+
+#END()
+
+// Script 0x2000-0xC (0x21E9)
+[Sanma_05]
+// こんなん　とったら　シャレにならんでー。[end]
+I like me a good joke,[br]
+but this ain't funny.
+
+[end]
+
+#END()
+
+// Script 0x2000-0xD (0x21FF)
+[Sanma_0F]
+// こいつは　あやしい、なんかあるでー。[end]
+There's somethin' fishy[br]
+'bout it.
+
+[end]
+
+#END()
+
+// Script 0x2000-0xE (0x2213)
+[Sanma_05]
+// やっと　なかに　はいれましたな。[end]
+We're finally inside.
+
+[end]
+
+#END()
+
+// Script 0x2000-0xF (0x2225)
+[Sanma_0F]
+// とすると、げんばにおちてたコンタクト[br]
+// くるよのもん　やろか？これは　あやしい。[br]
+// とっとくでえ。[end]
+Might be the contact[br]
+lens we found on the[br]
+scene was Kuruyo's.[br]
+Danged suspicious...[br]
+I'd better keep this.[br]
+
+[end]
+
+#END()
+
+// Script 0x2000-0x10 (0x2256)
+[Sanma_05]
+// ライターつきの　はいざら　やね。[end]
+It's an ashtray with[br]
+its own lighter.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x11 (0x2268)
+[Sanma_05]
+// おもそうやなあ。[end]
+Looks heavy.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x12 (0x2272)
+[Sanma_05]
+// こんなん　もってくの　いやや。[br]
+// だいいち　ぽけっとに　はいらん。[end]
+Naw, I'd rather not.[br]
+Wouldn't fit my pockets[br]
+anyhow.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x13 (0x2294)
+[Sanma_05]
+// わりと　ええもんやなあ。[end]
+It's one of the good[br]
+ones.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x14 (0x22A2)
+[Sanma_05]
+// とっても　ええやろか？[br]
+// ………ま、ええか。[br]
+// よしもとはん　もろうときます。[end]
+Is that...really fine?[br]
+...Aw, shucks.[br]
+Thanks for the present,[br]
+Mr. Yoshimoto.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x15 (0x22C9)
+[Sanma_05]
+// かっこええ。よしもと、ぜいたくしてるなあ。[end]
+Luxurious. Yoshimoto's[br]
+livin' the high life,[br]
+huh?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x16 (0x22E0)
+[Sanma_05]
+// ちりひとつ　おちてへんよ。[end]
+Not even a speck of[br]
+dust.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x17 (0x22EF)
+[Sanma_05]
+// どこからも　かかっておらへん。そのうち[br]
+// おんなのこから、かかって　くるやろ。[end]
+Hands off that. I might[br]
+get a call from a girl.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x18 (0x2317)
+[Phone_6E]
+// ブーー……わたしは　やみのていおうだ。[br]
+// わるいことは　いわへん。このじけんから[br]
+// てを　ひくほうが　ええと　おもうで……ブー[dlg]<$19>
+(click) I am the Emper-[br]
+or of Darkness. Here is[br]
+some friendly advice:[br]
+You should abandon your[br]
+investigation. (click)
+
+[dlg]<$19>
+
+#END()
+
+// Script 0x2000-0x19 (0x2357)
+[Sanma_0F]
+// やみのていおう？！[br]
+// こ、これは　きょうはくでんわや！！[dlg]<$1A>
+The Emperor of Dark-[br]
+ness? T-This must be a[br]
+threat!
+
+[dlg]<$1A>
+
+#END()
+
+// Script 0x2000-0x1A (0x2375)
+[Sanma_0F]
+// けど、たんていに　きけんはつきもの。[br]
+// やみのていおう　なんてやつのおどしには[br]
+// ぜったい　まけへんで。……[pause]たぶん。[end]
+But danger comes with[br]
+the job. I dunno who[br]
+this {Emperor} is, but[br]
+he ain't scarin' us[br]
+off![pause]...Probably.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x1B (0x23B0)
+[Sanma_05]
+// むかしの　じけんの　ファイルや。[br]
+// こんかいの　じけんには　かんけいないやろ。[end]
+Those're all files from[br]
+my old cases. Nothin'[br]
+to do with this one.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x1C (0x23D8)
+[Sanma_05]
+// カレンダーなんて、[br]
+// のんびり　みてる　ばあい　ちゃうで。[end]
+It's a calendar. This[br]
+ain't the time to stare[br]
+at it.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x1D (0x23F6)
+[Takayuki_32]
+// おいおい、わしのへやのもの[br]
+// かってに　いじらんでくれ。[end]
+Heey! Quit touching the[br]
+stuff in my room!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x1E (0x2413)
+[Takayuki_32]
+// わしが　すわっとるんじゃぞ。[br]
+// ええかげんに　しなさい。[end]
+Stop that![br]
+I'm sitting on it!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x1F (0x2430)
+[Sanma_0F]
+// ややややや！[pl][pl]ちゃん！[br]
+// ロッカーがうごいてかいだんがあらわれた！[br]
+// ちかに、つうろが　つづいとる！！！[dlg]<$20>
+WHOOOA! [plr]-bud, look![br]
+The locker moved outta[br]
+the way![br]
+These stairs lead to an[br]
+underground path!
+
+[dlg]<$20>
+
+#END()
+
+// Script 0x2000-0x20 (0x2466)
+[Sanma_0F]
+// ここは　はいって　いくっきゃない！！[pause][end]
+Let's see where it[br]
+goes![pause]
+
+[end]
+
+#END()
+
+// Script 0x2000-0x21 (0x247B)
+[Sanma_0F]
+// へんやで。たなに　ひっついてるで。[end]
+Funny, it's stuck to[br]
+the shelf.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x22 (0x248E)
+[Sanma_0A]
+// あやこさん、ほんまにええの。[dlg]<$23>
+Mind if we search here,[br]
+Ms. Ayako?
+
+[dlg]<$23>
+
+#END()
+
+// Script 0x2000-0x23 (0x249F)
+[Ayako_46]
+// べつに　かまわないけど……[dlg]<$24>
+I guess so...?
+
+[dlg]<$24>
+
+#END()
+
+// Script 0x2000-0x24 (0x24AF)
+[Sanma_0A]
+// デヘデヘ、このベットには[br]
+// なんか　ひみつが　ありそうやで。[end]
+Heheheh, I think this[br]
+bed hides a secret!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x25 (0x24CE)
+[Sanma_0A]
+// おや、こんなところに　ぱんてい　があるで。[end]
+Oh my! There's a pair[br]
+of panties in here!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x26 (0x24E5)
+[Sanma_0A]
+// うぐうぐ　きゃわいい　ぱんてい！[dlg]<$27>
+Geheheh! What a cute[br]
+pair of panties!
+
+[dlg]<$27>
+
+#END()
+
+// Script 0x2000-0x27 (0x24F8)
+[Ayako_46]
+// イヤ　はずかしい！だめよ、さんまさん。[dlg]<$28>
+T-This is so embarrass-[br]
+ing! Don't do that, Mr.[br]
+Sanma!
+
+[dlg]<$28>
+
+#END()
+
+// Script 0x2000-0x28 (0x250E)
+[Sanma_05]
+// ごめんね、こんなにいやらしい　おじさんなの。[end]
+Sorry, I'm such a per-[br]
+vert.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x29 (0x2526)
+[Sanma_0A]
+// はい、カーテンしめて……ええむーどや。[br]
+// あ、あやこさん、え、ええやろ？[dlg]<$2A>
+I'll close the curt-[br]
+ains. It'll make for a[br]
+nice atmosphere,[br]
+y'know? I-Is that okay[br]
+with you, Ms. Ayako?
+
+[dlg]<$2A>
+
+#END()
+
+// Script 0x2000-0x2A (0x254C)
+[Ayako_46]
+// いやだ、さんまさんたら、サイテー！！[dlg]<$28>
+No! You're the worst,[br]
+Mr. Sanma!
+
+[dlg]<$28>
+
+#END()
+
+// Script 0x2000-0x2B (0x2561)
+[Sanma_05]
+// いつも３じ　や。とけいぐらい　うごかしいや。[end]
+It's stuck at three[br]
+o'clock. Some clock[br]
+that is.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x2C (0x2579)
+[Sanma_05]
+// きんこしつやから　きんこぐらい　あるやろ。[end]
+This's a vault, so[br]
+there's a safe.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x2D (0x2590)
+[Sanma_05]
+// こじあけた　きずもない。[br]
+// はんにんは　どうやって、このきんこから[br]
+// ダイヤを　ぬすんだんやろ？[end]
+This wasn't pried open.[br]
+How'd the culprit man-[br]
+age to steal the dia-[br]
+mond from the safe?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x2E (0x25C0)
+[Sanma_05]
+// うん？これは　コンタクトレンズやね。[end]
+Hm? This is a contact[br]
+lens.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x2F (0x25D4)
+[Sanma_05]
+// きんがんようの、ソフトコンタクトや。[br]
+// はんにんの　のこしたもんやろか？[br]
+// これは　じゅうような　しょうこやでえ。[end]
+It's a soft contact[br]
+lens for nearsighted-[br]
+ness. Was it left by[br]
+the culprit? This is[br]
+important evidence.
+[end]
+
+#END()
+
+// Script 0x2000-0x30 (0x260D)
+[Sanma_05]
+// よっしゃあ！！とっとくでえ。[end]
+Aw yeah! I'm pickin'[br]
+this up.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x31 (0x261D)
+[Sanma_05]
+// なんか　あるで、よんでみっか……[br]
+// なになに……[dlg]<$32>
+There's a letter in-[br]
+side. Let's read it...
+
+[dlg]<$32>
+
+#END()
+
+// Script 0x2000-0x32 (0x2637)
+[Sanma_0F]
+// ……あのことをだまっていてほしければ[br]
+// ４がつ８かまでに　１おくえんよういしろ。[br]
+// たかゆきあての　きょうはくじょう　やあ！！[dlg]<$33>
+{If you want me to[br]
+keep quiet, bring me[br]
+one hundred million yen[br]
+by April 8th.} A threat[br]
+letter to Takayuki!
+
+[dlg]<$33>
+
+#END()
+
+// Script 0x2000-0x33 (0x2677)
+[Sanma_0F]
+// ４がつ８か？！しんすけがしんだひ　やないか。[br]
+// おれは　だんだん　わかってきたでえ。[end]
+April 8th...That's the[br]
+day Shinsuke died.[br]
+This's all startin' to[br]
+make sense.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x34 (0x26A2)
+[Sanma_05]
+// なんか　ノブが　ついとる。[end]
+There's some kinda knob[br]
+inside.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x35 (0x26B1)
+[Sanma_0F]
+// ドアの　むこうで[br]
+// なにか、うごく　おとがする！！！[end]
+I hear somethin' moving[br]
+behind the door!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x36 (0x26CC)
+[Sanma_0F]
+// この　しみ………。これは　ち　だよ。[br]
+// けつえきの　かたまった　やつや。[end]
+...Yep, this is blood.[br]
+Not fresh.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x37 (0x26F1)
+[Sanma_05]
+// [pl][pl]ちゃん、すぐ　そないなこというて。[br]
+// あんなん　しらべて　どないするっちゅうねん。[br]
+// ぷっつん　いくで。[end]
+What're you talkin' a-[br]
+bout, [plr]-bud? What's the[br]
+point of inspectin'[br]
+that? You tryin' to get[br]
+a rise outta me?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x38 (0x2727)
+[Sanma_05]
+// ああ、あれ。ぼく　もう　もってますよ。[br]
+// こんど[pl][pl]ちゃんに　やるわ[br]
+// ……うそ、うそ　もってへん、もってへん。[end]
+Oh, I already have one[br]
+of those. You take it,[br]
+[plr]-bud.[br]
+...Just joshin'! Don't[br]
+take it.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x39 (0x275F)
+[Sanma_0F]
+// なんや　これ？たけちゃんの　しゃしんや。[br]
+// こんなん　こうしてやる、グシャ　ビリビリ！[dlg]<$3A>
+What's this? A photo of[br]
+Take-chan? Well, not[br]
+any more!
+(rip) (crumple) (toss)
+
+[dlg]<$3A>
+
+#END()
+
+// Script 0x2000-0x3A (0x278C)
+[Sanma_05]
+// いやー　すまん　すまん[br]
+// つい　とりみだしてしもうて。[end]
+Oh, uhhh, sorry.[br]
+Kinda lost my cool[br]
+there.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x3B (0x27A8)
+[Sanma_05]
+// ガチガチの　コンクリートや。[end]
+Concrete walls. Dang[br]
+solid.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x3C (0x27B8)
+[Sanma_05]
+// むちゃくちゃ、がんじょうそうでっせ。[end]
+They're incredibly[br]
+sturdy.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x3D (0x27CC)
+[Sanma_05]
+// なんやこれ？！ナンバーロックになってるで。[br]
+// まぬけな　やつらやなあ。なんとか　すれば[br]
+// うちがわから　あきそうや。[end]
+Hey, look! It's a key-[br]
+pad! Whoever locked us[br]
+in here's gotta be a[br]
+moron. We can unlock[br]
+the door from our side!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x3E (0x2806)
+[Sanma_05]
+// どくは　はいって　いそうもないけど……[br]
+// [pl][pl]ちゃん　たべる？[end]
+Don't think it's poi-[br]
+soned, but...Should I[br]
+eat this, [plr]-bud?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x3F (0x2826)
+[Sanma_05]
+// ほんまに、おれがたべるの？[br]
+// うーん　おもいきって………ぱくっ！[br]
+// んん？！さらに　なにか　かいてある。[dlg]<$40>
+Seriously? Oh well, you[br]
+only live once...[br]
+(munch) (gulp)[br]
+Hm? Somethin's written[br]
+underneath the dish!
+
+[dlg]<$40>
+
+#END()
+
+// Script 0x2000-0x40 (0x285B)
+[Sanma_05]
+// シローのいったこと　おもいだせ　やて。[br]
+// シローなんてゆうとったっけ？[end]
+It says, {Remember what[br]
+Shiro told you}. Did he[br]
+tell us somethin' im-[br]
+portant?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x41 (0x287F)
+[Sanma_05]
+// だれぞ　じけんの　かんけいしゃ　おるやろか？[end]
+Wonder if there's any-[br]
+thing or anyone related[br]
+to the incident in[br]
+here?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x42 (0x2897)
+[Sanma_05]
+// うひゃー！かにかにおおがに！！[br]
+// かにかに　かくちがい！[end]
+Whoa! Now THAT is one[br]
+big crab![br]
+Our teeny little crab[br]
+don't even compare!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x43 (0x28B4)
+[Sanma_05]
+// ポスターやね。さんまのめいたんてい、[br]
+// ぜっさん　はつばいちゅう！！だって。[br]
+// ………おれのことや。[end]
+It's a poster. {Highly[br]
+acclaimed game *Detec-[br]
+tive Sanma' now on[br]
+sale!}...Huh, it's a-[br]
+bout me.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x44 (0x28E6)
+[Sanma_05]
+// これは　さいきょうせん　や。[br]
+// さいたまと　しんじゅくを　むすんでいるんや。[end]
+That's the Saikyou[br]
+Line. It connects Sai-[br]
+tama to Shinjuku.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x45 (0x290D)
+[Sanma_05]
+// ここや　ここ。まいしゅう　きんようびに[br]
+// あらっていいともって　ばんぐみに[br]
+// でてるんや。せいけつな　ばんぐみやで。[end]
+It's a good place. They[br]
+air good, clean shows[br]
+every single Friday.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x46 (0x2947)
+[Sanma_05]
+// えーと、このおんせんは　かたこりに[br]
+// きくんやて。[dlg]<$47>
+Apparently, these hot[br]
+springs're great for[br]
+stiff shoulders.
+
+[dlg]<$47>
+
+#END()
+
+// Script 0x2000-0x47 (0x2962)
+[Sanma_0A]
+// それから　なんだ？……のぞきみげんきんって[br]
+// かいてある。ということは　こりゃ　どっかから[br]
+// となりのふろ　のぞけるんやで。グヒグヒ。[end]
+It also says that peep-[br]
+in' is strictly prohib-[br]
+ited...which means it's[br]
+somehow possible![br]
+Geheheheh!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x48 (0x29A5)
+[Sanma_0A]
+// やったー……み　みえる……でへへへ[br]
+// [pl][pl]ちゃん　ギャルがおるで。[dlg]<$49>
+Woohoo! Oh yeah![br]
+[plr]-bud, I see a woman![br]
+Geheheheh!
+
+[dlg]<$49>
+
+#END()
+
+// Script 0x2000-0x49 (0x29C8)
+[Sanma_0A]
+// うっひゃあ。いろっぽい。[br]
+// こっちをむけ、こっちを………よし！[dlg]<$4A>
+Wowee! She looks sexy![br]
+C'mon, c'mon, turn a-[br]
+round...YES!
+
+[dlg]<$4A>
+
+#END()
+
+// Script 0x2000-0x4A (0x29E9)
+[Sanma_0A]
+// うわーー！！す　すごい！[br]
+// うぐうぐ、でへへへへへ[br]
+// ありがたや、ありがたや、なんまんだぶ…[dlg]<$4B>
+AWESOME![br]
+Geheheheh![br]
+Thank you for this gen-[br]
+erous offering...
+
+[dlg]<$4B>
+
+#END()
+
+// Script 0x2000-0x4B (0x2A18)
+[Sanma_0A]
+// ほんま　めが　つぶれそうやったわ。[br]
+// なに？[pl][pl]ちゃん　みれんかったって？[br]
+// そりゃ　ざんねんやったなあ。[end]
+Whew! Any more than[br]
+that and my eyes would[br]
+fall out. What, could-[br]
+n't see anything, [plr]-[br]
+bud? Ah, that sucks.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x4C (0x2A4D)
+[Sanma_05]
+// これは　りっぱなしなもの　です。[end]
+Fancy-dancy.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x4D (0x2A5F)
+[Sanma_05]
+// かっこええなあ。[end]
+Dang cool.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x4E (0x2A69)
+[Sanma_0A]
+// うえから、８５　５５　９０　ってとこやろか。[end]
+From the top, her sizes[br]
+are 85, 55, 90.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x4F (0x2A81)
+[Sanma_0A]
+// なかなか　きゃわいいで。[end]
+She's cute.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x50 (0x2A8F)
+[Sanma_0A]
+// うーん　いつみても　ええなあ。[end]
+Niiice. I could watch[br]
+this all day.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x51 (0x2AA0)
+[Ran_5F]
+// いやらしい　さんまさん。[br]
+// ほんまに　そんなことするき？[dlg]<$52>
+Oh, Sanma, you pervert![br]
+Do you really want it[br]
+so much?
+
+[dlg]<$52>
+
+#END()
+
+// Script 0x2000-0x52 (0x2ABE)
+[Sanma_05]
+// そこを　なんとか、おねがい！！[dlg]<$53>
+Yeah, I do! Please!
+
+[dlg]<$53>
+
+#END()
+
+// Script 0x2000-0x53 (0x2AD0)
+[Sue_64]
+// うーん…[pause]しょうがないわね。わかったわ。[br]
+// うちらとエアロビクスしょうぶして[br]
+// かったら　ぬいであげる。[pause]はずかしいけど…[dlg]<$54>
+Hmmm...[pause]How about this:[br]
+If you defeat us in an[br]
+aerobics competition,[br]
+we'll give it to you.[br]
+[pause]So embarrassing...
+
+[dlg]<$54>
+
+#END()
+
+// Script 0x2000-0x54 (0x2B0E)
+[Sanma_05]
+// よし、[pl][pl]ちゃん！！きあい　いれてくで！[br]
+// ぜんまいねずみを　よけて、ボタンで[br]
+// ジャンプするんや。ほな、いくで。[pause][pause][end]
+Great! [plr]-bud, sock it[br]
+to 'em![br] Press the[br]
+button to jump over the[br]
+windup mice.[br]
+Let's do this![pause][pause]
+
+[end]
+
+#END()
+
+// Script 0x2000-0x55 (0x2B49)
+[Ran_5F]
+// もう　いやよーん。[end]
+No, stop it!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x56 (0x2B54)
+[Sanma_0A]
+// やったで、おれのかちや！[dlg]<$57>
+Alright! I won!
+
+[dlg]<$57>
+
+#END()
+
+// Script 0x2000-0x57 (0x2B63)
+[Ran_5F]
+// はずかしいわー。あんまり　みんといて。[end]
+This is so embarrass-[br]
+ing! Please don't[br]
+stare!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x58 (0x2B78)
+[Ran_5F]
+// えっへん、うちらの　かち。[br]
+// ざんねん　でした。[dlg]<$59>
+Too bad![br]
+I won!
+
+[dlg]<$59>
+
+#END()
+
+// Script 0x2000-0x59 (0x2B92)
+[Sanma_05]
+// はああ、くたびれもうけや。やれ　やれ。[end]
+(sigh)[br]
+I'm so tired...
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5A (0x2BA7)
+[Sanma_0A]
+// こりゃ　うまそうや。[end]
+They look tasty.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5B (0x2BB3)
+[Sanma_0A]
+// うん　うまい。[br]
+// これで　じけんが　かいけつ　するなら[br]
+// らくやのになあ。[end]
+Delicious.[br]
+Once this case is over,[br]
+they'll taste even[br]
+better.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5C (0x2BD8)
+[Sanma_0F]
+// なに、じかんがたつと、このまったりとした[br]
+// あじわいが　なくなるから　もちかえりは[br]
+// だめやと！！なんちゅうみせや。[end]
+This is the kinda shop[br]
+that don't do take-out[br]
+'cause the food'll lose[br]
+all its rich flavor, or[br]
+so they'll tell you.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5D (0x2C12)
+[Sanma_05]
+// めざせ　たこやき　にっぽんいち　やて。[br]
+// はい　はい　がんばって　ください。[end]
+It says, {Our goal:[br]
+best takoyaki in Ja-[br]
+pan!}[br]
+Best of luck.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5E (0x2C39)
+[Sanma_05]
+// あしたは　いくよ　くるよのふたりの[br]
+// しゅつえんに　なっとるでえ。[end]
+Looks like Ikuyo and[br]
+Kuruyo're performin'[br]
+tomorrow.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x5F (0x2C5B)
+[Sanma_05]
+// こわれてんのや。よしもと　けちやから[br]
+// しゅうり　せんのや。[end]
+It's busted.[br]
+Yoshimoto's a cheap-[br]
+skate, so he won't pay[br]
+for the repairs.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x60 (0x2C7A)
+[Sanma_05]
+// ぶたいいしょう　やがな。[br]
+// しょうもないもの　しらべさすんやから。[end]
+It's just a stage cos-[br]
+tume.[br]
+Why do you make me exa-[br]
+mine useless crap?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x61 (0x2C9C)
+[Sanma_05]
+// おれんや　ないんやで。[end]
+I don't need it.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x62 (0x2CA9)
+[Sanma_05]
+// どこかの　みせの　ちらしみたいやで。[end]
+It's a leaflet from[br]
+some kinda store.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x63 (0x2CBD)
+[Sanma_05]
+// たこやきやの　たこいちのビラや。[br]
+// …げいにんはんには　はんがくサービスやて？[br]
+// だれかいってるかもしれんねえ。[end]
+It's a flier for Tako-[br]
+ichi, a takoyaki shop.[br]
+Says performers pay[br]
+half-price. Maybe we'll[br]
+find someone there.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x64 (0x2CF5)
+[Sanma_05]
+// ま、シローくんも　ぐっといけや。[dlg]<$67>
+C'mon, Shiro, bottoms[br]
+up!
+
+[dlg]<$67>
+
+#END()
+
+// Script 0x2000-0x65 (0x2D08)
+[Shiro_28]
+// おおきに。きょうはオフですねん。サブローくんは[br]
+// ありまおんせんいってますのや。ぼくは[br]
+// かねないから　ここでのんでますねん。[end]
+Sure. It's our day off[br]
+anyway. Saburo's at the[br]
+Arima hot springs, but[br]
+that costs too much.[br]
+I'd rather drink here.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x66 (0x2D47)
+[Sanma_05]
+// もういっぱい　どや？[dlg]<$65>
+How 'bout another[br]
+round?
+
+[dlg]<$65>
+
+#END()
+
+// Script 0x2000-0x67 (0x2D54)
+[Shiro_28]
+// おおきに。ごちそうに　なります。[end]
+Sounds good to me.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x68 (0x2D66)
+[Sanma_05]
+// もちかえってもええんやて。[br]
+// もってこ、もってこ。[end]
+Sure, I don't mind.[br]
+Get in my inventory.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x69 (0x2D80)
+[Sanma_05]
+// もうひとつ　もらおうかい。[end]
+I'll take another one.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x6A (0x2D8F)
+[Sanma_05]
+// なにかのスイッチや。[br]
+// おすのと　ちがうかなあ。[end]
+It's a switch.[br]
+Wanna try pushin' it?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x6B (0x2DA8)
+[Sanma_05]
+// べんとうばこで　いっぱいや。[br]
+// でも、みんな　たべおわったあとや。[br]
+// からばこや。[end]
+It's full of lunch-[br]
+boxes, but they've all[br]
+been eaten already.[br]
+They're just empty[br]
+boxes.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x6C (0x2DD1)
+[Sanma_05]
+// やや、なにやらまるめた　かみきれがある。[br]
+// ライトが　ついてなかったときは[br]
+// くらくて　わからんかったんや。[end]
+Well, well, what d'you[br]
+know? There's a slip of[br]
+paper inside. It was[br]
+too dark to see it[br]
+without the lights on.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x6D (0x2E07)
+[Sanma_05]
+// これは、くるよあての　りょうしゅうしょや。[br]
+// ふーん、くるよさんさいきん　コンタクトを[br]
+// かたほうだけ　かってるんやな。[dlg]<$6E>
+This's a receipt[br]
+addressed to Kuruyo.[br]
+Hmm. Seems she bought a[br]
+replacement contact for[br]
+one eye recently.
+
+[dlg]<$6E>
+
+#END()
+
+// Script 0x2000-0x6E (0x2E44)
+[Sanma_05]
+// どっかで　かたほうだけ　おとしたんやろか？[br]
+// ま、ええや。[br]
+// なんかのさんこうに　なるかもしれん。とっとこ。[end]
+Did she lose a contact[br]
+lens?[br]
+Oh well, I'll pick it[br]
+up. It might be useful[br]
+later.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x6F (0x2E7A)
+[Sanma_0F]
+// これは　くるよあての　りょうしゅうしょ　やね。[br]
+// かったもんは！？コンタクトや！！[br]
+// しかも　じけんの　ふつかごに　かってるで！[dlg]<$0F>
+This's a receipt a-[br]
+ddressed to Kuruyo.[br]
+What? It's for a con-[br]
+tact lens bought two[br]
+days after the murder!
+
+[dlg]<$0F>
+
+#END()
+
+// Script 0x2000-0x70 (0x2EBB)
+[Sanma_05]
+// ぶんちんはんの　パソコンや。[end]
+It's Bunchin's compu-[br]
+ter.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x71 (0x2ECB)
+[Sanma_05]
+// むずかしそうな　ほんが　ならんでいます。[br]
+// さすがぶんちんはん　べんきょうかや。[end]
+These books are all[br]
+danged complicated.[br]
+Guess Bunchin was the[br]
+studious type, huh?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x72 (0x2EF4)
+
+
+#END()
+
+// Script 0x2000-0x73 (0x2EF4)
+[Sanma_05]
+// ああ！こ、これは　まぼろしの……なんや[br]
+// まぼろしの　おんせんのほんや。しょーもない。[end]
+Ah! This here's the fa-[br]
+bled book of --[br]
+...hot springs. We[br]
+don't need that.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x74 (0x2F20)
+[Sanma_05]
+// そろばん　８きゅうやって？[br]
+// こんなん　ふつう　かざらんでえ。[end]
+There's like eight of[br]
+them. Who needs that[br]
+many?
+
+[end]
+
+#END()
+
+// Script 0x2000-0x75 (0x2F40)
+[Sanma_05]
+// やや！がくぶちの　うしろに　スイッチが…[pause][br]
+// ……あらへん　あらへん。[end]
+Oh dear! Behind one of[br]
+the picture frames,[br]
+there's...[pause][br]
+...nothing. Sorry, bad[br]
+joke.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x76 (0x2F64)
+[Sanma_05]
+// いまどき　せんぷうき　なんて　ほんま[br]
+// つかっとるのかいな。まわしたら[br]
+// ぶっこわれ　そうやな。[pl][pl]ちゃん　やってみる？[end]
+Who uses electric fans[br]
+nowadays? It's probably[br]
+gonna break soon's you[br]
+rotate it. Why don'cha[br]
+try it, [plr]-bud?[br]
+
+[end]
+
+#END()
+
+// Script 0x2000-0x77 (0x2FA0)
+[Sanma_0F]
+// んん！？ほんだなのうえから[br]
+// かみきれが　おちてきよった。[end]
+Huh?! A slip of paper[br]
+fell from the top of[br]
+the bookshelf!
+
+[end]
+
+#END()
+
+// Script 0x2000-0x78 (0x2FBE)
+[Sanma_05]
+// これは、すみのえ　きょうていじょうの[br]
+// ふなけん　や。ぶんちんはん　あんなかおして[br]
+// ギャンブルなんて　やってたんやなあ。[dlg]<$79>
+This's a bettin' ti-[br]
+cket from Boat Race Su-[br]
+minoe. Seems Bunchin[br]
+was doin' some gamb-[br]
+lin'.
+
+[dlg]<$79>
+
+#END()
+
+// Script 0x2000-0x79 (0x2FFC)
+[Sanma_05]
+// あたってるかもしらん。[br]
+// もらっといて、あとで　いってみよ。[end]
+It might be a winnin'[br]
+ticket...[br]
+Better hold on to it.[br]
+We'll check it out la-[br]
+ter.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x7A (0x301B)
+[Sanma_05]
+// うちがわから　そとを　みるやつでっせ。[br]
+// こっちからじゃ　なんも　みえへんよ。[end]
+It's one of them things[br]
+that lets you see out-[br]
+side from the inside.[br]
+We can't see anything[br]
+from here.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x7B (0x3043)
+[Sanma_05]
+// がんじょう　そうやなあ。[end]
+Looks sturdy.
+
+[end]
+
+#END()
+
+// Script 0x2000-0x7C (0x3051)
+
+
+#END()
+
+// Script 0x2000-0x7D (0x3051)
+
+
+#END()
+
+// Script 0x2000-0x7E (0x3051)
+[Sanma_0F]
+// でんきのメーターが　いきおいよく[br]
+// くるくる　まわってる！[br]
+// こりゃ、きょじんのやつ　いえのなかに　おるで。[end]
+The electricity meter[br]
+is spinnin' like crazy![br]
+That means Kyojin is[br]
+inside, don't it?
+
+
+[end]
+
+#END()
+
+// Script 0x2000-0x7F (0x3087)
+[Sanma_05]
+// おしてみるのが　ええんちゃう？[end]
+Why don't we try push-[br]
+in' it?
+
+[end]
+
+#END()
+

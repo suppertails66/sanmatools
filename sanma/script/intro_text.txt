@@ -1,0 +1,36 @@
+// Script 0x1568D-0x0 (0x15693)
+// ぶんちん　さつじんじけんに、[br]
+// めいたんてい　さんまの　とうじょうです。[end]
+Detective Sanma has[br]
+been tasked with sol-[br]
+ving Bunchin's murder.
+
+[end]
+
+#END()
+
+// Script 0x1568D-0x1 (0x156B7)
+// オレが　そうさ　するんや！[br]
+// でも　ひとりでは　こころぼそいなあ……。[end]
+I'll catch that murder-[br]
+er! But I don't wanna[br]
+do it all on my lone-[br]
+some... 
+
+[end]
+
+#END()
+
+// Script 0x1568D-0x2 (0x156DA)
+// そこの　きみ！　おねがい！[br]
+// オレといっしょに　そうさしよ。[br]
+// にっくき　はんにんを　つかまえるんや！[end]
+Hey, you! Please, in- [br]
+vestigate with me! [br]
+Let's catch that no-[br]
+good criminal together!
+
+[end]
+
+#END()
+
